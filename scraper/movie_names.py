@@ -13,7 +13,7 @@ def get_from_url(postfix):
     for class_type in ["film-abc-list first column", "film-abc-list second column"]: 
         lst_html =  "<html>" + page_soup.find("ul", class_=class_type).__str__() + "</html>" 
         lst_soup = BeautifulSoup(lst_html, "html.parser")
-        movies += [li.string + "," + li.a['href'] for li in lst_soup.findAll("li")]
+        movies += [li.string + "\t" + li.a['href'] for li in lst_soup.findAll("li")]
     return movies
 
 
