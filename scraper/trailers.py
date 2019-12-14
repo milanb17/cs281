@@ -1,3 +1,5 @@
+#! /home/ubuntu/anaconda3/bin/python3
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 chrome_options = Options()
@@ -13,7 +15,7 @@ with open("movie_urls.txt") as f:
             driver.get(url)
             try:
                 video_source = driver.find_element_by_id("trailerplayer_html5_api").get_attribute("src")
-                w.write(f"{movie[1:]},{video_source}")
+                w.write(f"{movie[1:]},{video_source}\n")
                 print("success.")
             except:
                 print(f"FAILED.")
