@@ -13,12 +13,12 @@ def get_from_url(postfix):
     for class_type in ["film-abc-list first column", "film-abc-list second column"]: 
         lst_html =  "<html>" + page_soup.find("ul", class_=class_type).__str__() + "</html>" 
         lst_soup = BeautifulSoup(lst_html, "html.parser")
-        movies += [li.string for li in lst_soup.findAll("li")]
+        movies += [li.string + "," + li.a['href'] for li in lst_soup.findAll("li")]
     return movies
 
 
 res = []
 for c in (["!#"] + list(string.ascii_lowercase)): 
     res += get_from_url(c)
-with open("../movie_list.txt", "w") as f: 
+with open("./movie_urls.txt", "w") as f: 
     f.write("\n".join(map(str, res)))
