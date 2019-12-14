@@ -11,3 +11,4 @@ def scrape(movie):
 
         score = soup.find("span", class_ = "mop-ratings-wrap__percentage").text
     return re.findall(r'\d+', score)[0]
+    

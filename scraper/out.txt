@@ -1,0 +1,1833 @@
+<html lang="en-US" prefix="og://ogp.me/ns# fb://ogp.me/ns/fb#" class=" no-touch"><head><script type="text/javascript" async="" defer="" src="https://ps.eyeota.net/pixel?e_rc=1&amp;pid=6d3b2cv&amp;t=ajs&amp;uid=01DW17PJ93MMZHYRY4JRQPY0E0"></script><script type="text/javascript" async="" defer="" src="https://ps.eyeota.net/pixel?e_rc=1&amp;pid=6d3b2cv&amp;t=ajs&amp;uid=01DW17PJ9NC4BWVF8Y7F76D3W4"></script><script async="" type="text/javascript" src="https://de.tynt.com/deb/v2?m=xch&amp;id=dsyp9ct3ur57P4aKlJV7w9&amp;dn=RCIV&amp;cc=1&amp;r="></script><script async="" type="text/javascript" src="https://de.tynt.com/deb/v2?id=dsyp9ct3ur57P4aKlJV7w9&amp;dn=RCIV&amp;cc=1&amp;r="></script><script src="https://cdn.ampproject.org/rtv/011912050130240/amp4ads-host-v0.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script async="" src="https://c.amazon-adsystem.com/aax2/apstag.js"></script><script src="https://pagead2.googlesyndication.com/pagead/show_companion_ad.js"></script><script async="" src="//clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8gCNZn/www-widgetapi.js" async=""></script><script src="https://connect.facebook.net/en_US/sdk.js?hash=1e70f47bd49585ea2e8d11187bd28552&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://df80k0z3fi8zg.cloudfront.net/files/instbid_2_38.js"></script><style type="text/css" data-tippy-stylesheet="">.tippy-iOS{cursor:pointer!important;-webkit-tap-highlight-color:transparent}.tippy-popper{transition-timing-function:cubic-bezier(.165,.84,.44,1);max-width:calc(100% - 8px);pointer-events:none;outline:0}.tippy-popper[x-placement^=top] .tippy-backdrop{border-radius:40% 40% 0 0}.tippy-popper[x-placement^=top] .tippy-roundarrow{bottom:-7px;bottom:-6.5px;-webkit-transform-origin:50% 0;transform-origin:50% 0;margin:0 3px}.tippy-popper[x-placement^=top] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.tippy-popper[x-placement^=top] .tippy-arrow{border-top:8px solid #333;border-right:8px solid transparent;border-left:8px solid transparent;bottom:-7px;margin:0 3px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-backdrop{-webkit-transform-origin:0 25%;transform-origin:0 25%}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-55%);transform:scale(1) translate(-50%,-55%)}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-50%,-45%);transform:scale(.2) translate(-50%,-45%);opacity:0}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}.tippy-popper[x-placement^=top] [data-animation=perspective]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateY(-10px);transform:perspective(700px) translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) rotateX(60deg);transform:perspective(700px) rotateX(60deg)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=hidden]{opacity:0}.tippy-popper[x-placement^=top] [data-animation=scale]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px) scale(.5);transform:translateY(-10px) scale(.5)}.tippy-popper[x-placement^=bottom] .tippy-backdrop{border-radius:0 0 30% 30%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow{top:-7px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%;margin:0 3px}.tippy-popper[x-placement^=bottom] .tippy-roundarrow svg{position:absolute;left:0}.tippy-popper[x-placement^=bottom] .tippy-arrow{border-bottom:8px solid #333;border-right:8px solid transparent;border-left:8px solid transparent;top:-7px;margin:0 3px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-backdrop{-webkit-transform-origin:0 -50%;transform-origin:0 -50%}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-45%);transform:scale(1) translate(-50%,-45%)}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-50%);transform:scale(.2) translate(-50%);opacity:0}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}.tippy-popper[x-placement^=bottom] [data-animation=perspective]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateY(10px);transform:perspective(700px) translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) rotateX(-60deg);transform:perspective(700px) rotateX(-60deg)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=hidden]{opacity:0}.tippy-popper[x-placement^=bottom] [data-animation=scale]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px) scale(.5);transform:translateY(10px) scale(.5)}.tippy-popper[x-placement^=left] .tippy-backdrop{border-radius:50% 0 0 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow{right:-12px;-webkit-transform-origin:33.33333333% 50%;transform-origin:33.33333333% 50%;margin:3px 0}.tippy-popper[x-placement^=left] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(90deg);transform:rotate(90deg)}.tippy-popper[x-placement^=left] .tippy-arrow{border-left:8px solid #333;border-top:8px solid transparent;border-bottom:8px solid transparent;right:-7px;margin:3px 0;-webkit-transform-origin:0 50%;transform-origin:0 50%}.tippy-popper[x-placement^=left] .tippy-backdrop{-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-50%);transform:scale(1) translate(-50%,-50%)}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-75%,-50%);transform:scale(.2) translate(-75%,-50%);opacity:0}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}.tippy-popper[x-placement^=left] [data-animation=perspective]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateX(-10px);transform:perspective(700px) translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) rotateY(-60deg);transform:perspective(700px) rotateY(-60deg)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=hidden]{opacity:0}.tippy-popper[x-placement^=left] [data-animation=scale]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px) scale(.5);transform:translateX(-10px) scale(.5)}.tippy-popper[x-placement^=right] .tippy-backdrop{border-radius:0 50% 50% 0}.tippy-popper[x-placement^=right] .tippy-roundarrow{left:-12px;-webkit-transform-origin:66.66666666% 50%;transform-origin:66.66666666% 50%;margin:3px 0}.tippy-popper[x-placement^=right] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}.tippy-popper[x-placement^=right] .tippy-arrow{border-right:8px solid #333;border-top:8px solid transparent;border-bottom:8px solid transparent;left:-7px;margin:3px 0;-webkit-transform-origin:100% 50%;transform-origin:100% 50%}.tippy-popper[x-placement^=right] .tippy-backdrop{-webkit-transform-origin:-50% 0;transform-origin:-50% 0}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-50%);transform:scale(1) translate(-50%,-50%)}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-25%,-50%);transform:scale(.2) translate(-25%,-50%);opacity:0}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}.tippy-popper[x-placement^=right] [data-animation=perspective]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateX(10px);transform:perspective(700px) translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) rotateY(60deg);transform:perspective(700px) rotateY(60deg)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=hidden]{opacity:0}.tippy-popper[x-placement^=right] [data-animation=scale]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px) scale(.5);transform:translateX(10px) scale(.5)}.tippy-tooltip{position:relative;color:#fff;border-radius:.25rem;font-size:.875rem;padding:.3125rem .5625rem;line-height:1.4;text-align:center;background-color:#333}.tippy-tooltip[data-size=small]{padding:.1875rem .375rem;font-size:.75rem}.tippy-tooltip[data-size=large]{padding:.375rem .75rem;font-size:1rem}.tippy-tooltip[data-animatefill]{overflow:hidden;background-color:initial}.tippy-tooltip[data-interactive],.tippy-tooltip[data-interactive] .tippy-roundarrow path{pointer-events:auto}.tippy-tooltip[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-tooltip[data-inertia][data-state=hidden]{transition-timing-function:ease}.tippy-arrow,.tippy-roundarrow{position:absolute;width:0;height:0}.tippy-roundarrow{width:18px;height:7px;fill:#333;pointer-events:none}.tippy-backdrop{position:absolute;background-color:#333;border-radius:50%;width:calc(110% + 2rem);left:50%;top:50%;z-index:-1;transition:all cubic-bezier(.46,.1,.52,.98);-webkit-backface-visibility:hidden;backface-visibility:hidden}.tippy-backdrop:after{content:"";float:left;padding-top:100%}.tippy-backdrop+.tippy-content{transition-property:opacity;will-change:opacity}.tippy-backdrop+.tippy-content[data-state=hidden]{opacity:0}</style><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid {
+        padding-top: 56.25%
+      }
+    </style><style class="vjs-styles-dimensions">
+      .trailerplayer-dimensions {
+        width: 1356px;
+        height: 558px;
+      }
+
+      .trailerplayer-dimensions.vjs-fluid {
+        padding-top: 41.150442477876105%;
+      }
+    </style><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2019121002.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.youtube.com/iframe_api"></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=0.90, user-scalable=0">
+		<title>The A-List Trailer (2014)</title>
+				<!-- Social Meta -->
+		<meta name="robots" content="noodp,noydir">
+		<!-- <meta name="Googlebot-News" content="noindex, nofollow"> -->
+		<meta property="og:locale" content="en_US">
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="The A-List Trailer (2014)">
+		<meta property="og:url" content="http://www.traileraddict.com/the-a-list/trailer">
+		<meta property="og:site_name" content="Trailer Addict">
+		<meta property="og:description" content="Trailer for The A-List. The A-List tells the story of Eric Schultz, the most popular student at Lake O’Dell High School. Eric becomes coerced by his guidance counselor,...">
+		<meta property="og:image" content="https://cdn.traileraddict.com/vidog/unknown/the-a-list/1.jpg"> 
+<meta property="og:image" content="https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg"> 
+		
+		<meta name="apple-itunes-app" content="app-id=562924378">
+		<meta property="article:publisher" content="https://www.facebook.com/TrailerAddicts"> 
+ <meta property="article:tag" content="Comedy"> 
+ <meta property="article:tag" content="Drama"> 
+ <meta property="article:tag" content="Alyson Stoner"> 
+ <meta property="article:tag" content="Hal Sparks"> 
+ <meta property="article:tag" content="Skyler Vallo"> 
+ <meta property="article:tag" content="Katie Ogrady"> 
+ <meta property="article:section" content="The A-List"> 
+ <meta property="fb:app_id" content="1488787874775360"> 
+ <meta content="1132651134" property="fb:admins"> 
+ <meta content="653354598" property="fb:admins"> 
+<meta property="article:published_time" content="2014-09-28T22:57:14-07:00"> 
+ 		<meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@TrailerAddict">
+    <meta name="twitter:url" content="https://www.traileraddict.com/the-a-list/trailer">
+    <meta name="twitter:title" content="The A-List Trailer (2014)">
+    <meta name="twitter:description" content="Trailer for The A-List. The A-List tells the story of Eric Schultz, the most popular student at Lake O’Dell High School. Eric becomes coerced by his guidance counselor,...">
+    <meta name="twitter:image" content="https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg">
+      <meta name="twitter:player" content="https://v.traileraddict.com/95161?s=tw">
+	  <meta name="twitter:player:width" content="640">
+      <meta name="twitter:player:height" content="360">
+	  <meta name="twitter:app:name:iphone" content="TrailerAddict">
+	  <meta name="twitter:app:id:iphone" content="562924378">
+	  <meta name="twitter:app:name:ipad" content="TrailerAddict">
+	  <meta name="twitter:app:id:ipad" content="562924378">
+	  <meta name="twitter:app:name:googleplay" content="TrailerAddict">
+	  <meta name="twitter:app:id:googleplay" content="com.traileraddict.android">		<!-- Meta -->
+		<meta name="description" content="Trailer for The A-List. The A-List tells the story of Eric Schultz, the most popular student at Lake O’Dell High School. Eric becomes coerced by his guidance counselor,...">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=1488787874775360"></script><script src="//d2na2p72vtqyok.cloudfront.net/client-embed/4f5794ba-c898-4f37-98e1-bd75bb1a4713.js" async=""></script><script async="" src="https://4jnzhl0d0.com/3dbab8a16baedc63950f37b51bd3fe8386877acb1754a3b4720959ffce5c6ae27c59c6e834d1d924ac4150936c6e386073e68d1155963439a8b37adfc485"></script><script src="/cdn-cgi/apps/head/UV5zWl_BjCoJZrjIrLJTcP2Rh-8.js"></script><link rel="canonical" href="https://www.traileraddict.com/the-a-list/trailer">
+		<link rel="amphtml" href="https://www.traileraddict.com/the-a-list/trailer/amp">		<link rel="publisher" href="https://plus.google.com/+TrailerAddict/posts">
+		<link rel="author" href="https://plus.google.com/+RyanParsons81?rel=author">		
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" type="text/css">
+		<!-- taken below -->
+		<!-- <link type="text/css" rel="stylesheet" href="http://cdn.traileraddict.com/js/bxslider/jquery.bxslider.css"/>
+		<link type="text/css" rel="stylesheet" href="/css/style.css"/>
+		<link type="text/css" rel="stylesheet" href="http://cdn.traileraddict.com/css/template-trailer.css"/>
+		<link href="http://cdn.traileraddict.com/js/video/video-player.css" rel="stylesheet"/>
+		<link type="text/css" rel="stylesheet" href="http://cdn.traileraddict.com/css/paginate.css"/>
+		<link type="text/css" rel="stylesheet" href="/widget-movies.css"/>
+		<link type="text/css" rel="stylesheet" href="/css/master.css"/>
+		 -->
+		<!-- <link type="text/css" rel="stylesheet" href="/css/master.min2.css"/> -->
+		<!-- playwire -->
+		<script type="text/javascript">
+	
+		var tyche = { mode: 'tyche', config: '//config.playwire.com/7392/v2/websites/63226/banner.json' }
+
+		</script>
+		<script id="tyche" src="//cdn.intergi.com/hera/tyche.js" type="text/javascript"></script><script charset="utf-8" src="https://cdn.intergient.com/pageos/1.4.26/videoCard.f188a88ee3f6cf8c7133.js"></script><script charset="utf-8" src="https://cdn.intergient.com/pageos/1.4.26/kinesis.6472f44af557db5cf13d.js"></script><script type="text/javascript" src="https://z.moatads.com/playwireprebidheader597261727146/yi.js" async=""></script><script charset="utf-8" src="https://cdn.intergient.com/pageos/1.4.26/session.d733592916c1416535ba.js"></script>
+		<!--// <script src="//run.crtx.info/track.min.js" id="ADRIZER_JS" data-domain="traileraddict.com"></script> -->
+		<link type="text/css" rel="stylesheet" href="//cdn.traileraddict.com/css/masterv2.min.css"> 
+				<link type="text/css" rel="stylesheet" href="/css/trailer.min.css">		<link rel="apple-touch-icon" sizes="57x57" href="//cdn.traileraddict.com/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//cdn.traileraddict.com/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//cdn.traileraddict.com/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//cdn.traileraddict.com/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//cdn.traileraddict.com/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//cdn.traileraddict.com/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//cdn.traileraddict.com/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//cdn.traileraddict.com/icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//cdn.traileraddict.com/icons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="//cdn.traileraddict.com/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="//cdn.traileraddict.com/icons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="//cdn.traileraddict.com/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//cdn.traileraddict.com/icons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="//cdn.traileraddict.com/icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="//cdn.traileraddict.com/icons/manifest.json">
+<link rel="mask-icon" href="//cdn.traileraddict.com/icons/safari-pinned-tab.svg" color="#b7d447">
+<link rel="shortcut icon" href="//cdn.traileraddict.com/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="//cdn.traileraddict.com/icons/mstile-144x144.png">
+<meta name="msapplication-config" content="//cdn.traileraddict.com/icons/browserconfig.xml">
+<meta name="theme-color" content="#000000">
+		
+				<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://feedly.com/i/subscription/feed/https://www.traileraddict.com/rss">
+		<!--ADDED FACE3-->
+		
+		
+		<script data-cfasync="false" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<!-- <script>window.jQuery || document.write('<script src="/js/jquery-min-backup.js"><\/script>')</script> //-->
+		<link rel="stylesheet" href="/js/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+		<script src="/js/liveq.js"></script>
+		<script src="/js/jquery.zoom.min.js"></script>
+		<script src="/js/ismobile.js"></script>
+		
+		<script>AC_FL_RunContent = 0;</script>
+		<script src="/js/flash/AC_RunActiveContent.js"></script>
+		
+		 
+
+		<script>document.createElement('video');document.createElement('audio');</script> 
+		
+		
+		
+		<!-- <script src="/js/jquery.lazyload.min.js"></script> -->
+		
+		<!--ADDED FACE3-->
+				<script type="text/javascript" src="/js/jquery.sharrre.min.js"></script>
+		<script type="text/javascript" data-cfasync="false">
+ /*$(document).ready(function() {
+		
+	if($.cookie('appcookie') != 'exists') {
+	  if(/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+	  	var url=confirm("TrailerAddict now has a FREE iPhone/iPad app and it's awesome! Hit OK to get it from the App Store or Cancel to remain on site.");
+	    if (url==true) {
+	   		 	var url = window.location.href = 'https://itunes.apple.com/us/app/trailer-addict/id562924378';
+	    		url.show(); 
+	  		} else {
+	  			var date = new Date();
+				date.setTime(date.getTime()+(24*60*1000));
+				var expires = date.toGMTString();
+	    		$.cookie('appcookie', 'exists', { expires: 21, path: '/' });
+				//window.frames["fdb"].location.href='/funcs/appcookie.php';
+	  		}
+	  }
+	}
+  	
+}) */
+	/*$(function() {
+			//$("iframe#secondary_spot_side").lazyload({
+			//	effect : "fadeIn",
+			//	threshold : 24
+			//});
+			//$("iframe#secondary_spot_bottom").lazyload({
+			//	effect : "fadeIn",
+			//	threshold : 24
+			//});
+		    $("img.ftdimg").lazyload({
+				effect : "fadeIn",
+				threshold : 72
+			});
+			
+			$(".like_c a").lazyload({
+			effect : "fadeIn",
+			threshold : 24
+			});
+			$("#news_blog li").lazyload({
+			effect : "fadeIn",
+			threshold : 24
+			});
+		});*/
+  </script>
+	<!-- <script>
+	var s = document.createElement("script");
+	s.type = "text/javascript";
+	if(!isMobile.any()) {
+		s.setAttribute('data-connatix-token', '57154907-90d0-4cab-9b82-51a8a34dbccc');
+		s.src = "https://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+	} else {
+		s.setAttribute('data-connatix-token', '28bf440e-4221-4a9f-a857-bd8bc3609d91');
+		s.src = "https://cdn.connatix.com/min/connatix.renderer.infeed.min.js";
+	}
+	$("head").append(s);
+	</script> //-->
+<!-- Header Tag Code --><script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/4f5794ba-c898-4f37-98e1-bd75bb1a4713.js');/*]]>*/</script><!-- End Header Tag Code -->
+
+	<!--// go point script 
+			<script>
+		  document.addEventListener("DOMContentLoaded", function() {
+		    var s = document.createElement("script");
+		    s.id = "ripcode-boot";
+		    s.setAttribute("data-id", "oZxcLqKGmpdTVNJu");
+		    s.src = "//jslibrary.adserver.ai";
+		    document.body.append(s);
+		  });
+		</script> -->
+		<!-- google dfp consumable -->
+		<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/133810016/traileraddict/TA-300x250', [300, 250], 'div-gpt-ad-1576162489103-0').addService(googletag.pubads());
+    googletag.defineSlot('/133810016/traileraddict/TA-300x600', [[300, 600], [160, 600]], 'div-gpt-ad-1576162570435-0').addService(googletag.pubads());
+    googletag.defineSlot('/133810016/traileraddict/TA-728x90', [728, 90], 'div-gpt-ad-1576162653235-0').addService(googletag.pubads());
+    stickyad = googletag.defineSlot('/133810016/traileraddict/TA-300x250-Sticky', [300, 250], 'div-gpt-ad-1576266726221-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+
+  });
+
+  
+
+</script>
+	<link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.traileraddict.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.traileraddict.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019121002.js" async=""></script><style type="text/css">.vjs-youtube .vjs-iframe-blocker { display: none; }.vjs-youtube.vjs-user-inactive .vjs-iframe-blocker { display: block; }.vjs-youtube .vjs-poster { background-size: cover; }.vjs-youtube-mobile .vjs-big-play-button { display: none; }</style><style data-emotion="css">.css-1j6dime.css-1j6dime.css-1j6dime{min-height:60px;min-width:60px;border-radius:6px;background-color:darkgrey;margin-right:12px;}</style><style data-emotion="css">.css-ood789.css-ood789.css-ood789{width:60px;height:60px;object-fit:cover;border-radius:6px;cursor:pointer;}</style><style data-emotion="css">.css-1t0w13g.css-1t0w13g.css-1t0w13g{height:60px;margin:24px 0;font-weight:700;display:block;border-bottom:none !important;padding-left:0 !important;padding-bottom:0 !important;margin-left:0 !important;}</style><style data-emotion="css">.css-1t0w13g.css-1t0w13g.css-1t0w13g:first-of-type{margin-top:18px;}</style><style data-emotion="css">.css-14fcxb6.css-14fcxb6.css-14fcxb6{margin:10px 0;height:56px;}</style><style data-emotion="css">.css-14fcxb6.css-14fcxb6.css-14fcxb6:first-of-type{margin-top:10px;}</style><style data-emotion="css">.css-915qor.css-915qor.css-915qor{-webkit-text-decoration:none;text-decoration:none;width:100%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#001739;cursor:pointer;}</style><style data-emotion="css">.css-1duxgyz.css-1duxgyz.css-1duxgyz{height:60px;width:60px;border-radius:6px;background-color:darkgrey;margin-right:12px;display:block;min-width:60px;cursor:pointer;}</style><style data-emotion="css">.css-o1syi3.css-o1syi3.css-o1syi3{font-size:18px;-webkit-letter-spacing:0.53px;-moz-letter-spacing:0.53px;-ms-letter-spacing:0.53px;letter-spacing:0.53px;line-height:19px;color:#001739;font-family:sans-serif;cursor:pointer;}</style><style data-emotion="css">.css-6dzof6.css-6dzof6.css-6dzof6{font-size:16px;-webkit-letter-spacing:0.4px;-moz-letter-spacing:0.4px;-ms-letter-spacing:0.4px;letter-spacing:0.4px;line-height:17px;display:block;max-height:51px;overflow:hidden;}</style><style data-emotion="css">.css-ht3p1y.css-ht3p1y.css-ht3p1y{border-radius:6px;overflow:hidden;-webkit-transition:all 0.1s linear;transition:all 0.1s linear;}</style><style data-emotion="css">.css-1088cyw.css-1088cyw.css-1088cyw{height:250px;width:300px;}</style><style data-emotion="css">.css-a7ya7a.css-a7ya7a.css-a7ya7a{min-height:50px;max-height:100px;width:320px;will-change:max-height;margin:0 auto;}</style><style data-emotion="css">.css-a7ya7a.css-a7ya7a.css-a7ya7a iframe{-webkit-transition:all 0.1s linear;transition:all 0.1s linear;width:320px;height:auto;min-height:50px;max-height:100px;overflow:hidden;}</style><style data-emotion="css">.css-a7ya7a.css-a7ya7a.css-a7ya7a > div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;margin:0 auto;}</style><style data-emotion="css">.css-1rd9wgu.css-1rd9wgu.css-1rd9wgu{height:250px;width:300px;}</style><style data-emotion="css">.css-1rd9wgu.css-1rd9wgu.css-1rd9wgu iframe{-webkit-transition:all 0.1s linear;transition:all 0.1s linear;height:250px;overflow:hidden;}</style><style data-emotion="css">.css-vz4r7o.css-vz4r7o.css-vz4r7o{min-height:50px;width:320px;will-change:max-height;-webkit-transition:all 0.1s linear;transition:all 0.1s linear;margin:0 auto;}</style><style data-emotion="css">.css-vz4r7o.css-vz4r7o.css-vz4r7o iframe{-webkit-transition:all 0.1s linear;transition:all 0.1s linear;width:320px;height:50px;overflow:hidden;}</style><style data-emotion="css">.css-vz4r7o.css-vz4r7o.css-vz4r7o > div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;margin:0 auto;}</style><style data-emotion="css">.css-1lst1gx.css-1lst1gx.css-1lst1gx{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding-bottom:14px;height:30px;}</style><style data-emotion="css">.css-1pdzn35.css-1pdzn35.css-1pdzn35{display:block;font-size:14px;font-family:sans-serif;margin-top:-32px;margin-bottom:14px;max-width:94%;}</style><style data-emotion="css">.css-1pdzn35.css-1pdzn35.css-1pdzn35 > strong{font-size:14px;}</style><style data-emotion="css">.css-h46cwr.css-h46cwr.css-h46cwr{display:block;font-size:12px;font-family:sans-serif;color:#cecece;max-width:100%;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;margin-bottom:12px;margin-top:-2px;}</style><style data-emotion="css">.css-10h04y2.css-10h04y2.css-10h04y2{font-weight:bold;}</style><style data-emotion="css">.css-1rtfvo4.css-1rtfvo4.css-1rtfvo4{background:none;border:none;cursor:pointer;-webkit-appearance:none;-moz-appearance:none;appearance:none;box-shadow:none;padding:0;margin:0;width:16px;height:16px;position:relative;display:block;}</style><style data-emotion="css">.css-1l629n1{position:absolute;left:7px;top:-2px;content:' ';height:17px;width:2px;background-color:#000;border-radius:4px;cursor:pointer;}</style><style data-emotion="css">.css-m06ple.css-m06ple.css-m06ple{position:absolute;left:7px;top:-2px;content:' ';height:17px;width:2px;background-color:#000;border-radius:4px;cursor:pointer;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);}</style><style data-emotion="css">.css-8x0bdc.css-8x0bdc.css-8x0bdc{position:absolute;left:7px;top:-2px;content:' ';height:17px;width:2px;background-color:#000;border-radius:4px;cursor:pointer;-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg);}</style><style data-emotion="css">.css-1famyw4.css-1famyw4.css-1famyw4{list-style-type:none;padding:0;margin:0;display:block;}</style><style data-emotion="css">.css-1uvd0f9.css-1uvd0f9.css-1uvd0f9{-webkit-flex:auto !important;-ms-flex:auto !important;flex:auto !important;margin-top:20px;}</style><style data-emotion="css">.css-1uvd0f9.css-1uvd0f9.css-1uvd0f9 > div{margin:0 auto;}</style><style data-emotion="css">.css-12n9mzu.css-12n9mzu.css-12n9mzu{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:14px 0 12px;border-top:1px solid #696969;overflow:hidden;}</style><style data-emotion="css">@media screen and (max-width:380px){.css-12n9mzu.css-12n9mzu.css-12n9mzu{margin:0 -8px;}}</style><style data-emotion="css">.css-z3qjf4.css-z3qjf4.css-z3qjf4{text-align:right;display:block;font-size:8px;line-height:14px;-webkit-letter-spacing:0.4px;-moz-letter-spacing:0.4px;-ms-letter-spacing:0.4px;letter-spacing:0.4px;font-family:sans-serif;}</style><style data-emotion="css">.css-1wyvgtp.css-1wyvgtp.css-1wyvgtp{color:#BA0042 !important;font-size:8px;font-weight:500;-webkit-text-decoration:none;text-decoration:none;cursor:pointer;}</style><style data-emotion="css">.css-1rtwdq8.css-1rtwdq8.css-1rtwdq8{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;}</style><style data-emotion="css">.css-yfzo6j.css-yfzo6j.css-yfzo6j{padding-bottom:0;z-index:2;position:relative;height:16px;}</style><style data-emotion="css">.css-yfzo6j.css-yfzo6j.css-yfzo6j button{display:none;}</style><style data-emotion="css">.css-19xgj8t.css-19xgj8t.css-19xgj8t{font-size:14px;max-width:92%;margin:-2px 0 16px 0;}</style><style data-emotion="css">.css-19xgj8t.css-19xgj8t.css-19xgj8t > strong{font-size:14px;}</style><style data-emotion="css">.css-33hb7f.css-33hb7f.css-33hb7f{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;margin-top:-16px;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;}</style><style data-emotion="css">.css-33hb7f.css-33hb7f.css-33hb7f > div:first-of-type{-webkit-flex:1 0 0;-ms-flex:1 0 0;flex:1 0 0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;min-width:277px;min-height:120px;-webkit-transition:all 0.1s linear;transition:all 0.1s linear;}</style><style data-emotion="css">.css-33hb7f.css-33hb7f.css-33hb7f > div:last-of-type{border-top:none;-webkit-flex:0 0 300px;-ms-flex:0 0 300px;flex:0 0 300px;padding-top:0;padding-bottom:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}</style><style data-emotion="css">.css-33hb7f.css-33hb7f.css-33hb7f > div:last-of-type iframe{width:300px;height:250px;max-height:250px;}</style><style data-emotion="css">.css-hsr3n0.css-hsr3n0.css-hsr3n0 > div:first-of-type{max-width:100%;}</style><style data-emotion="css">.css-173plzm.css-173plzm.css-173plzm{display:block;text-align:right;font-size:8px;line-height:14px;-webkit-letter-spacing:0.4px;-moz-letter-spacing:0.4px;-ms-letter-spacing:0.4px;letter-spacing:0.4px;font-family:sans-serif;}</style><style data-emotion="css">.css-1fm5iw4.css-1fm5iw4.css-1fm5iw4{-webkit-order:1;-ms-flex-order:1;order:1;margin-right:19px;position:relative;overflow:visible;}</style><style data-emotion="css">.css-1fm5iw4.css-1fm5iw4.css-1fm5iw4:after{content:'';position:absolute;right:-10px;top:0;bottom:0;width:1px;background:#e5e7eb;z-index:1;}</style><style data-emotion="css">.css-1jpomfm.css-1jpomfm.css-1jpomfm{-webkit-order:2;-ms-flex-order:2;order:2;}</style><style data-emotion="css">.css-13okuai.css-13okuai.css-13okuai{padding:0 !important;min-height:70px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-transition:all 0.1s linear;transition:all 0.1s linear;}</style><style data-emotion="css">.css-13okuai.css-13okuai.css-13okuai li{margin-top:10px !important;}</style><style data-emotion="css">.css-e0wq2y.css-e0wq2y.css-e0wq2y{-webkit-flex:1 0 0 !important;-ms-flex:1 0 0 !important;flex:1 0 0 !important;margin:0 !important;}</style><style data-emotion="css">.css-e0wq2y.css-e0wq2y.css-e0wq2y:after{display:none;}</style><style data-emotion="css">.css-1gi4kaq.css-1gi4kaq.css-1gi4kaq{min-height:170px !important;max-width:100% !important;}</style><style data-emotion="css">.css-1gi4kaq.css-1gi4kaq.css-1gi4kaq li{margin-top:10px !important;}</style><style data-emotion="css">.css-9e0d9e.css-9e0d9e.css-9e0d9e{margin-top:10px;}</style><style data-emotion="css">.css-qfpps2.css-qfpps2.css-qfpps2{display:none;}</style><style data-emotion="css">@-webkit-keyframes animation-1lzqfui{0%{opacity:0;-webkit-transform:translate3d(0,-20px,0);-ms-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0);}100%{opacity:1;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}}</style><style data-emotion="css">@keyframes animation-1lzqfui{0%{opacity:0;-webkit-transform:translate3d(0,-20px,0);-ms-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0);}100%{opacity:1;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}}</style><style data-emotion="css">.css-1pms0s4.css-1pms0s4.css-1pms0s4{position:relative;box-sizing:border-box;padding:16px 10px;margin:0 auto;color:#001739;-webkit-animation:animation-1lzqfui 0.5s ease;animation:animation-1lzqfui 0.5s ease;max-width:722px;min-width:297px;will-change:opacity,transform,max-height;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transition:all 0.5s linear;transition:all 0.5s linear;overflow:visible;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;max-height:800px;}</style><style data-emotion="css">.css-1pms0s4.css-1pms0s4.css-1pms0s4 > article{display:block;padding:12px 16px 11px 16px;border:1px solid #e5e7eb;border-radius:6px;}</style><style data-emotion="css">@media screen and (max-width:380px){.css-1pms0s4.css-1pms0s4.css-1pms0s4 > article{padding:12px 8px 11px 8px;}}</style><style data-emotion="css">.css-1pms0s4.css-1pms0s4.css-1pms0s4.hide-container{max-height:0px;opacity:0;}</style><style data-emotion="css">.css-1pms0s4 *,.css-1pms0s4 *:after,.css-1pms0s4 *:before{-webkit-align-content:stretch;-ms-flex-line-pack:stretch;align-content:stretch;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-webkit-align-self:auto;-ms-flex-item-align:auto;align-self:auto;-webkit-animation-delay:0s;animation-delay:0s;-webkit-animation-direction:normal;animation-direction:normal;-webkit-animation-duration:0s;animation-duration:0s;-webkit-animation-fill-mode:none;animation-fill-mode:none;-webkit-animation-iteration-count:1;animation-iteration-count:1;-webkit-animation-name:none;animation-name:none;-webkit-animation-play-state:running;animation-play-state:running;-webkit-animation-timing-function:ease;animation-timing-function:ease;azimuth:center;-webkit-backface-visibility:visible;backface-visibility:visible;background-attachment:scroll;background-blend-mode:normal;background-clip:border-box;background-color:transparent;background-image:none;background-origin:padding-box;background-position:0% 0%;background-repeat:repeat;background-size:auto auto;-webkit-block-size:auto;-ms-flex-block-size:auto;block-size:auto;border-block-end-color:currentcolor;border-block-end-style:none;border-block-end-width:medium;border-block-start-color:currentcolor;border-block-start-style:none;border-block-start-width:medium;border-bottom-color:currentcolor;border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom-style:none;border-bottom-width:medium;border-collapse:separate;border-image-outset:0s;border-image-repeat:stretch;border-image-slice:100%;border-image-source:none;border-image-width:1;border-inline-end-color:currentcolor;border-inline-end-style:none;border-inline-end-width:medium;border-inline-start-color:currentcolor;border-inline-start-style:none;border-inline-start-width:medium;border-left-color:currentcolor;border-left-style:none;border-left-width:medium;border-right-color:currentcolor;border-right-style:none;border-right-width:medium;border-spacing:0;border-top-color:currentcolor;border-top-left-radius:0;border-top-right-radius:0;border-top-style:none;border-top-width:medium;bottom:auto;-webkit-box-decoration-break:slice;box-decoration-break:slice;box-shadow:none;box-sizing:content-box;-webkit-break-after:auto;break-after:auto;-webkit-break-before:auto;break-before:auto;-webkit-break-inside:auto;break-inside:auto;caption-side:top;caret-color:auto;clear:none;-webkit-clip:auto;clip:auto;-webkit-clip-path:none;clip-path:none;color:initial;-webkit-column-count:auto;column-count:auto;-webkit-column-fill:balance;column-fill:balance;-webkit-column-gap:normal;column-gap:normal;-webkit-column-rule-color:currentcolor;column-rule-color:currentcolor;-webkit-column-rule-style:none;column-rule-style:none;-webkit-column-rule-width:medium;column-rule-width:medium;-webkit-column-span:none;column-span:none;-webkit-column-width:auto;column-width:auto;content:normal;counter-increment:none;counter-reset:none;cursor:auto;display:inline;empty-cells:show;-webkit-filter:none;filter:none;-webkit-flex-basis:auto;-ms-flex-preferred-size:auto;flex-basis:auto;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:1;-ms-flex-negative:1;flex-shrink:1;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;float:none;font-family:initial;font-feature-settings:normal;font-kerning:auto;font-language-override:normal;font-size:medium;font-size-adjust:none;font-stretch:normal;font-style:normal;font-synthesis:weight style;font-variant:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:normal;grid-auto-columns:auto;grid-auto-flow:row;grid-auto-rows:auto;grid-column-end:auto;grid-column-gap:0;grid-column-start:auto;grid-row-end:auto;grid-row-gap:0;grid-row-start:auto;grid-template-areas:none;grid-template-columns:none;grid-template-rows:none;height:auto;-webkit-hyphens:manual;-moz-hyphens:manual;-ms-hyphens:manual;hyphens:manual;image-orientation:0deg;image-rendering:auto;image-resolution:1dppx;ime-mode:auto;inline-size:auto;isolation:auto;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;left:auto;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;line-break:auto;line-height:normal;list-style-image:none;list-style-position:outside;list-style-type:disc;margin-block-end:0;margin-block-start:0;margin-bottom:0;margin-inline-end:0;margin-inline-start:0;margin-left:0;margin-right:0;margin-top:0;-webkit-mask-clip:border-box;mask-clip:border-box;-webkit-mask-composite:add;mask-composite:add;-webkit-mask-image:none;mask-image:none;-webkit-mask-mode:match-source;mask-mode:match-source;-webkit-mask-origin:border-box;mask-origin:border-box;-webkit-mask-position:0% 0%;mask-position:0% 0%;-webkit-mask-repeat:repeat;mask-repeat:repeat;-webkit-mask-size:auto;mask-size:auto;-webkit-mask-type:luminance;mask-type:luminance;max-height:none;max-width:none;min-block-size:0;min-height:0;min-inline-size:0;min-width:0;mix-blend-mode:normal;object-fit:fill;object-position:50% 50%;offset-block-end:auto;offset-block-start:auto;offset-inline-end:auto;offset-inline-start:auto;opacity:1.0;-webkit-order:0;-ms-flex-order:0;order:0;orphans:2;outline-color:initial;outline-offset:0;outline-style:none;outline-width:medium;overflow:visible;overflow-wrap:normal;overflow-x:visible;overflow-y:visible;padding-block-end:0;padding-block-start:0;padding-bottom:0;padding-inline-end:0;padding-inline-start:0;padding-left:0;padding-right:0;padding-top:0;page-break-after:auto;page-break-before:auto;page-break-inside:auto;-webkit-perspective:none;-moz-perspective:none;-ms-perspective:none;perspective:none;-webkit-perspective-origin:50% 50%;-moz-perspective-origin:50% 50%;-ms-perspective-origin:50% 50%;perspective-origin:50% 50%;pointer-events:auto;position:static;quotes:initial;resize:none;right:auto;ruby-align:space-around;ruby-merge:separate;ruby-position:over;-webkit-scroll-behavior:auto;-moz-scroll-behavior:auto;-ms-scroll-behavior:auto;scroll-behavior:auto;-webkit-scroll-snap-coordinate:none;-moz-scroll-snap-coordinate:none;-ms-scroll-snap-coordinate:none;scroll-snap-coordinate:none;-webkit-scroll-snap-destination:0px 0px;-moz-scroll-snap-destination:0px 0px;-ms-scroll-snap-destination:0px 0px;scroll-snap-destination:0px 0px;-webkit-scroll-snap-points-x:none;-moz-scroll-snap-points-x:none;-ms-scroll-snap-points-x:none;scroll-snap-points-x:none;-webkit-scroll-snap-points-y:none;-moz-scroll-snap-points-y:none;-ms-scroll-snap-points-y:none;scroll-snap-points-y:none;-webkit-scroll-snap-type:none;-moz-scroll-snap-type:none;-ms-scroll-snap-type:none;scroll-snap-type:none;shape-image-threshold:0.0;shape-margin:0;shape-outside:none;tab-size:8;table-layout:auto;text-align:initial;text-align-last:auto;text-combine-upright:none;-webkit-text-decoration-color:currentcolor;text-decoration-color:currentcolor;-webkit-text-decoration-line:none;text-decoration-line:none;-webkit-text-decoration-style:solid;text-decoration-style:solid;text-emphasis-color:currentcolor;text-emphasis-position:over right;text-emphasis-style:none;text-indent:0;text-justify:auto;text-orientation:mixed;text-overflow:clip;text-rendering:auto;text-shadow:none;text-transform:none;text-underline-position:auto;top:auto;touch-action:auto;-webkit-transform:none;-ms-transform:none;transform:none;-webkit-transform-box:border-box;-ms-transform-box:border-box;transform-box:border-box;-webkit-transform-origin:50% 50% 0;-ms-transform-origin:50% 50% 0;transform-origin:50% 50% 0;-webkit-transform-style:flat;-ms-transform-style:flat;transform-style:flat;-webkit-transition-delay:0s;transition-delay:0s;-webkit-transition-duration:0s;transition-duration:0s;-webkit-transition-property:all;transition-property:all;-webkit-transition-timing-function:ease;transition-timing-function:ease;vertical-align:baseline;visibility:visible;white-space:normal;widows:2;width:auto;will-change:auto;word-break:normal;word-spacing:normal;word-wrap:normal;-webkit-writing-mode:horizontal-tb;-ms-writing-mode:lr;writing-mode:horizontal-tb;z-index:auto;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;box-sizing:border-box;}</style><style data-emotion="css">.css-warukt.css-warukt.css-warukt{padding:18px 36px 16px 36px;top:-2px;}</style><style data-emotion="css">.css-warukt.css-warukt.css-warukt > article{box-shadow:0 6px 18px 0 rgba(0,23,57,0.2);min-width:auto;min-height:297px;}</style><style data-emotion="css">.css-rbcwgj.css-rbcwgj.css-rbcwgj{padding:18px 36px 16px 36px;top:-2px;min-width:722px;z-index:999;padding-right:400px;}</style><style data-emotion="css">.css-rbcwgj.css-rbcwgj.css-rbcwgj > article{box-shadow:0 6px 18px 0 rgba(0,23,57,0.2);min-width:auto;min-height:297px;background:#ffffff;}</style><style data-emotion="css">.css-1koq9ja.css-1koq9ja.css-1koq9ja{top:-2px;}</style><style data-emotion="css">.css-1koq9ja.css-1koq9ja.css-1koq9ja > article{box-shadow:0 6px 18px 0 rgba(0,23,57,0.2);min-width:auto;min-height:297px;}</style><style data-emotion="css">.css-1njk76c.css-1njk76c.css-1njk76c{max-width:636px;}</style><style data-emotion="css">.css-1njk76c.css-1njk76c.css-1njk76c > article{min-height:236px !important;}</style><style data-emotion="css">@media screen and (max-width:380px){.css-zqjeyr.css-zqjeyr.css-zqjeyr > article{margin:0 -12px;}}</style><style data-emotion="css">.css-czw6n7.css-czw6n7.css-czw6n7{height:1px;padding:0;margin:0;}</style><script src="https://cdn.intergi.com/pageos/js/libs/aws-sdk-kinesis.min.js"></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.cnsmbl-table-300x600 { position: relative; width: 100%; height: 600px; margin: 0; padding: 0; overflow: hidden; } .cnsmbl-table-300x600 iframe { position:absolute;display:block;width:100%;height:100%;margin:0;padding:0;overflow:hidden; }</style><script src="https://cdn.intergi.com/hera/releases/4.3.24/tyche.js" type="text/javascript"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/runtime.1dbf4f8886ea512332c2.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/vendor/npm.babel.356f23672c0d844ebe4d.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/vendor/npm.core-js.63798b178bce4dbe3d42.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/vendor/npm.lodash.667f423e31223a35ce16.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/vendor/npm.intersection-observer.de686478f5ff665335ef.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/vendor/npm.process.cbd5a6a0d3b7cd053581.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/vendor/npm.webpack.0912f4eca6a8c1d32547.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/lib/lib-main.e1263b74f8c7688e86e6.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/main.629cdc5d805e9df7b40f.js"></script><script type="text/javascript" src="https://cdn.intergi.com/hera/releases/4.3.24/lib/lib.0564d23f6e635caa7035.js"></script><script async="" defer="" src="https://t.ingage.tech/sdk.js"></script><script async="" defer="" src="https://t.ingage.tech/sdk.js"></script><script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script type="text/javascript" src="https://cdn.intergi.com/prebid/prebid.js" async=""></script><style type="text/css" id="pwCSSstyling">.pw-tag { text-align: center; opacity: 1}.pw-oop-tag {width: 1px; height: 1px; line-height:1px; position: fixed}.pw-tag-hidden { visibility: hidden; opacity: 0}.pw-in-article { padding:20px 0; }.pw-in-article_hidden { visibility: hidden; height:0; }.pw-fixed-mobile-leaderboard{ position: fixed;bottom: 0px;left: 50%;width: 320px;height:50px;margin-left:-160px;z-index: 2147483645;text-align: center;padding: 2px 0;background: rgba(0, 0, 0, 0.8);transition: opacity .6s ease-in}.fixed-mobile-close { cursor: pointer;border-top: 1px solid rgba(0,0,0,0.35);border-left: 1px solid rgba(0,0,0,0.35);border-right: 1px solid rgba(0,0,0,0.35);border-radius: 4px 4px 0 0; padding: 3px 6px 3px 6px;position: absolute; top: -22px; right: -1px; z-index: -1;background-color: rgba(0,0,0,0.55);box-shadow: inset 0 0 0 1px rgba(255,255,255,0.2);color: rgba(255,255,255,0.75);line-height: 1.2;font-size: 12px;font-family: Helvetica,Arial,sans-serif;-webkit-transition: all .5s ease-out;-moz-transition: all .5s ease-out;-o-transition: all .5s ease-out;transition: all .5s ease-out;}.pw-siderail-left-close { cursor: pointer;border-top: 1px solid rgba(0,0,0,0.35);border-left: 1px solid rgba(0,0,0,0.35);border-right: 1px solid rgba(0,0,0,0.35);border-radius: 4px 4px 0 0; padding: 3px 6px 3px 6px; position: absolute;top: -22px; left: -1px; z-index: -1; background-color: rgba(0,0,0,0.55);box-shadow: inset 0 0 0 1px rgba(255,255,255,0.2);color: rgba(255,255,255,0.75);line-height: 1.2;font-size: 12px;font-family: Helvetica,Arial,sans-serif;-webkit-transition: all .5s ease-out;-moz-transition: all .5s ease-out;-o-transition: all .5s ease-out;transition: all .5s ease-out;}.pw-siderail-right-close { cursor: pointer;border-top: 1px solid rgba(0,0,0,0.35);border-left: 1px solid rgba(0,0,0,0.35);border-right: 1px solid rgba(0,0,0,0.35);border-radius: 4px 4px 0 0; padding: 3px 6px 3px 6px; position: absolute;top: -22px; right: -1px; z-index: -1; background-color: rgba(0,0,0,0.55);box-shadow: inset 0 0 0 1px rgba(255,255,255,0.2);color: rgba(255,255,255,0.75);line-height: 1.2;font-size: 12px;font-family: Helvetica,Arial,sans-serif;-webkit-transition: all .5s ease-out;-moz-transition: all .5s ease-out;-o-transition: all .5s ease-out;transition: all .5s ease-out;}div[data-pw-desk="leaderboard_atf"].pw-sticky,div[data-pw-mobi="leaderboard_atf"].pw-sticky { z-index: 2147483645;position: fixed; top:0px; left:0px; width: 100%; padding: 20px 0;background: rgba(0,0,0,.2);overflow:hidden;transition: 750ms opacity ease-out;opacity: 1;border-bottom: 1px solid rgba(238, 238, 238, 0.4)}div[data-pw-desk="med_rect_atf"].pw-sticky { z-index: 2147483644;position: fixed; width: 300px; padding: 0; background: transparent;overflow:hidden;transition: 750ms opacity ease-out;opacity: 1;border-bottom: 20px solid #fff;border-top: 20px solid #fff}.pws-sticky:before {z-index: -1;-webkit-filter: blur(34px);width: 100%;height: 100%;content: "";position: absolute;top: 0px;left: 0px;background: rgba(0,0,0,.5);}.pw-sticky-hide{opacity: 0%;}#pw-oop-behind_page { z-index: 0}#pw-oop-above_page { z-index: 2147483647}#pw-oop-top_rail { top: 0px; left:0px}#pw-oop-left_rail { left: 0px; top: 0px; position: fixed;min-width:160px;height:600px}#pw-oop-right_rail { right: 0px; top: 0px; position: fixed;min-width:160px;height:600px}div[data-pw-status="rendered"]{ pointer-events: none; visibility: hidden }div[data-pw-status="loaded"].pw-tps{ display: none }#tycheConsole{ background-color: #fff; border-top: 1px solid;font-family: Arial, Helvetica, sans-serif; font-size: 12px;position: fixed; bottom: 0; width: 100%; padding: 0 2% 2% 2%;z-index: 9999999999; box-sizing: border-box}#tycheConsole a:visited{ color: rgb(52, 152, 219) }#tycheConsole li:hover{background: rgba(52, 152, 219,.26)}.ad__name{ display:inline-block; width: 15%; font-weight:bold;}div[data-pw-desk="leaderboard_atf"] > div > iframe { margin:auto; }#pw-oop-bottom_rail > div > iframe { margin:auto; }</style><script type="text/javascript" async="" defer="" src="https://ps.eyeota.net/pixel?pid=6d3b2cv&amp;t=ajs&amp;uid=01DW17PJ93MMZHYRY4JRQPY0E0"></script><script type="text/javascript" async="" defer="" src="https://ps.eyeota.net/pixel?pid=6d3b2cv&amp;t=ajs&amp;uid=01DW17PJ9NC4BWVF8Y7F76D3W4"></script><style>#tyche_corner_video_container {bottom: 120px !important;}</style><script type="text/javascript" charset="UTF-8" src="https://resources.infolinks.com/js/1672.004-2.069/ice.js" async=""></script><iframe src="https://router.infolinks.com/usync/manage" sandbox="allow-same-origin allow-scripts allow-top-navigation"></iframe><script type="text/javascript" charset="UTF-8" src="https://router.infolinks.com/gsd?evt=afterGSD&amp;pid=3185668&amp;pdom=www.traileraddict.com&amp;purl=https%3A%2F%2Fwww.traileraddict.com%2Fthe-a-list%2Ftrailer&amp;jsv=1672.004-2.069&amp;_cb=15762946339210"></script><script type="text/javascript" charset="UTF-8" src="https:////imasdk.googleapis.com/js/sdkloader/ima3.js"></script><style type="text/css"></style><script type="text/javascript" charset="UTF-8" src="https://rt3043.infolinks.com/action/getads.htm?hks=%5B%7B%22lid%22%3A%22d_IL_INSEARCH%22%2C%22bdc%22%3A1%2C%22prod_t%22%3A%22d%22%2C%22garc%22%3A0%2C%22sdata%22%3A%22company%20awards%20categories%22%2C%22scs%22%3A%22x-TSRQARQG%22%7D%5D&amp;rid=4e43ee04-6b4c-4242-acac-1b7c03746b26&amp;jsv=1672.004-2.069&amp;sr=1280X777&amp;rts=1576294634373&amp;cfv=-1&amp;cb=singleGetAdsResponse&amp;os=Mac%20OS&amp;ov=10.15.2&amp;br=ChromeHeadless&amp;bv=79.0.3945.79&amp;dv=p&amp;ce=t&amp;purl=https%3A%2F%2Fwww.traileraddict.com%2Fthe-a-list%2Ftrailer&amp;tzo=-0500&amp;c=c&amp;strg=true&amp;rsd=bQedV6jRaLcrDiFHMJZSlICunLpf2EJ0bdlDxd2XVpuxGsdfUxC-PuaYC-tKEbhvNq2IflIjhmE4fgqNhQoRTuK610-sn8_HJaVpaF1m66amyR9sdIb012JkMfBxlCG5fih7-FgJkWw2TC5bc_X8NFtwFJFHY_XQ&amp;rsk=68&amp;rcs=jgcvoVORjpCGEuviBxhuRg"></script><script type="text/javascript" charset="UTF-8" src="https:////resources.infolinks.com/js/vidice/1.1/vidice.js"></script><script type="text/javascript" src="https://aka-cdn.adtechus.com/dt/common/postscribe.js"></script><link type="text/css" rel="stylesheet" href="https://cdn-sic.33across.com/1/stylesheets/sic.css"><script async="" type="text/javascript" src="https://sic.33across.com/authorize?gdprConsentLength=0&amp;version=2.59.2&amp;agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_2)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F79.0.3945.79%20Safari%2F537.36&amp;product=inview&amp;userId=&amp;sessionId=&amp;publisherURL=https%3A%2F%2Fwww.traileraddict.com%2Fthe-a-list%2Ftrailer&amp;referrerURL=&amp;publisherId=dsyp9ct3ur57P4aKlJV7w9&amp;publisher=gamezone2.com&amp;viewportWidth=800&amp;viewportHeight=600&amp;screenWidth=1280&amp;screenHeight=800&amp;scrollX=0&amp;scrollY=0&amp;pageVisibility=visible&amp;pageWidth=800&amp;pageHeight=7330&amp;_=1576294636919&amp;callback=_tynt_jp.afmxu49jk"></script><link rel="stylesheet" type="text/css" href="https://cdn.intergi.com/tyche-assets/report_ad/report_ad_style.css"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+
+	<body id="main_body" style=""><iframe frameborder="0" id="tynt-ox-iframe-3" style="position: absolute; visibility: hidden; width: 1px; height: 1px;"></iframe><div style="display:inline-block;position:absolute; margin:-10px; unset:0; top:0" tynt-data="no-content" class="tynt-ad-fence tynt-ad-fence-startpos-unset">
+  <div id="tynt-ad-be4b7clc" class="tynt-ad-container" hs-name="lazyboy-rising-star" style="display:inline-block;padding:10px">
+    <div class="inview-level-0 tynt-lazyboy" style="width: 728px; height: 90px; margin-left: -364px; bottom: 0px;">
+  <div class="inview-level-1">
+    <div class="inview-level-2">
+      <div class="tynt-close-btn-container">
+        <div class="tynt-close-btn" hs-name="Close Button" style="right: 0px;">
+           × Close Ad 
+        </div>
+      </div>      <div class="tynt-ad-frame-container"><iframe frameborder="0" class="tynt-ad-frame" scrolling="no" style="width: 728px; height: 90px;"></iframe></div>
+    </div>
+  </div>
+</div>
+  </div>
+</div><iframe frameborder="0" id="tynt-ox-iframe-2" style="position: absolute; visibility: hidden; width: 1px; height: 1px;"></iframe><iframe frameborder="0" id="tynt-ox-iframe-1" style="position: absolute; visibility: hidden; width: 1px; height: 1px;"></iframe><iframe frameborder="0" id="tynt-apn-ast-container" style="position: absolute; visibility: hidden; width: 1px; height: 1px;"></iframe><iframe frameborder="0" id="tynt-gpt-iframe-1" style="position: absolute; visibility: hidden; width: 1px; height: 1px;"></iframe>
+	
+	<!-- <svg class="main-glow"></svg>-->
+	 
+	<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f35ec29ab471a9c&amp;origin=https%3A%2F%2Fwww.traileraddict.com" style="border: none;"></iframe></div><div></div></div></div>
+	<script>
+  logInWithFacebook = function() {
+    FB.login(function(response) {
+		  if (response.authResponse) {
+			//alert('You are logged in & cookie set!');
+			// Verify Redirect
+			window.location.href = '/fb/login.php';
+		  } else {
+			alert('User cancelled login or did not fully authorize.');
+		  }
+    }, {scope: 'public_profile, email'});
+    return false;
+  };
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: '1488787874775360',
+      cookie: true, // This is important, it's not enabled by default
+      version: 'v2.9'
+    });
+	//FB.Event.subscribe('xfbml.render', finished_rendering);
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1488787874775360";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+    
+</script><div id="adBanner" class="adLeaderboard adBanner" style="background-color: transparent; height: 1px; width: 1px; position: fixed; bottom: -10px; left: -10px;">&nbsp;</div>
+    
+    <script>
+	jQuery(document).ready(function(){	
+		var $top1= jQuery('.top_bar').offset().top + (200+60);
+		if(jQuery(window).width() > 1324){		
+			jQuery(window).scroll(function(){	
+				if ( jQuery(window).scrollTop() > $top1 ){
+					jQuery('.top_bar').addClass('move');
+				} else {	
+					jQuery('.top_bar').removeClass('move');
+				}
+			});
+		}
+		
+		
+		if(jQuery(window).width() > 1024){			
+			largeScreen();
+		}else if(jQuery(window).width() < 1024){
+			smallScreen();
+		}
+		
+		jQuery(window).resize(function(){
+			if(jQuery(window).width() > 1024){			
+				largeScreen();
+			}else if(jQuery(window).width() < 1024){
+				smallScreen();
+			}
+		});
+		//FB.Event.subscribe('xfbml.render', finished_rendering);
+		
+	});
+	
+	function largeScreen(){
+		jQuery('#top_nav li').hover(function(){
+			jQuery(this).addClass('menu_active_item');
+			jQuery(this).find('.top_sub_menu').addClass('show');	
+			jQuery(this).find('#search_sub,#sign_sub,#category_sub').show();
+		},function(){
+			jQuery(this).removeClass('menu_active_item');
+			jQuery(this).find('.top_sub_menu').removeClass('show');
+			jQuery(this).find('#search_sub,#sign_sub,#category_sub').hide();
+		});
+	}
+	
+	function smallScreen(){
+		jQuery('#top_nav li a.main_li').click(function(){		
+			if ( !jQuery(this).parent('li').hasClass('menu_active_item') ) {
+				jQuery('#nav_container #top_nav li').removeClass('menu_active_item');
+				jQuery('.top_sub_menu').removeClass('show');
+				jQuery('#search_sub,#sign_sub,#category_sub').hide();
+				
+				jQuery(this).parent('li').addClass('menu_active_item');
+				jQuery(this).parent('li').find('.top_sub_menu').addClass('show');
+				jQuery(this).parent('li').find('#search_sub,#sign_sub,#category_sub').show();
+			}else{
+				jQuery('#nav_container #top_nav li').removeClass('menu_active_item');
+				jQuery('.top_sub_menu').removeClass('show');
+				jQuery('#search_sub,#sign_sub,#category_sub').hide();
+			}
+		});
+	}
+	function adtracker() {
+	//$("#ad_medium").attr("src", "");
+	//$("#ad_leaderboard").attr("src", "");
+					setTimeout(function() {
+						if($("#ad_skyscraper").length) {
+							flo = $('#ad_leaderboard').contents().get(0).location.href; floe = flo.split("?"); 
+							document.getElementById('ad_leaderboard').contentWindow.location.replace(""+ floe[0] +"?randval="+ Math.random());
+						}
+					
+					document.getElementById('ad_medium').contentWindow.location.replace("/ads/pages/medium-ros.htm?randval="+ Math.random());
+					
+					
+						if($("#ad_skyscraper").length) {
+							document.getElementById('ad_skyscraper').contentWindow.location.replace("/ads/pages/skyscraper-ros.htm?randval="+ Math.random());
+							
+						}
+					}, 500);
+	
+	}
+	
+    </script>
+		<div class="glow"></div>
+		<header><!--HEADER-->
+			<div id="top_h">	
+				<div class="top_bar">
+					<nav id="top_bar_container">
+						<div class="transparency"></div>
+						
+						<div id="logo_container">
+							<a href="https://www.traileraddict.com/"><img title="Home" alt="Logo" src="//cdn.traileraddict.com/img/logo_ta.png" width="220" height="50"></a>
+						</div>
+												
+						<div id="nav_container">
+							<ul id="top_nav">
+								<li><a class="main_li" href="https://www.traileraddict.com/thefilms">All Films</a></li>
+								
+								<li>
+									<a class="main_li" href="https://www.traileraddict.com/top150">Top Films</a>
+																	</li>
+								
+								<li>
+									<a class="main_li" href="https://www.traileraddict.com/comingsoon">Coming Soon</a>
+																
+								</li>
+								<li>
+									<a class="main_li" href="https://www.traileraddict.com/outnow">Out Now</a>
+																	
+								</li>
+								
+								<li><a class="main_li" href="https://www.traileraddict.com/archive/1">Trailers</a></li>
+								<li class="li_category">
+									<a class="main_li" href="https://www.traileraddict.com/tagbrowser">Categories</a>								</li>
+								
+								<li class="li_signup">
+									<a class="main_li">Sign In</a>
+									<div id="sign_sub">
+										<div class="sign_text">Sign In</div>
+										
+																														
+									<a href="#" class="fb_sign" onclick="logInWithFacebook(); return false;">Sign in with Facebook</a><br></div>
+								</li>
+								
+								<li class="li_search">
+									<a href="#" class="search main_li"></a>
+									<div id="search_sub">
+										<span class="twitter-typeahead" style="position: relative; display: inline-block;"><input class="tt-hint" type="text" autocomplete="off" spellcheck="off" disabled="" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255);"><input type="text" name="search_top" value="" placeholder="Search Trailer Addict" id="top_search" class="tt-query" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;"><span style="position: absolute; left: -9999px; visibility: hidden; white-space: nowrap; font-family: system-ui; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></span><span class="tt-dropdown-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"></span></span>
+									</div>
+								</li>								
+							</ul><!--end top nav-->
+							
+							<ul id="top_social">
+								<li id="top_fb_btn" class="sharrre">
+									<div id="facebook" class="fb_btn social_btn" data-url="https://www.traileraddict.com" data-text="like TA" data-title=""><div class="box"><span class="count" id="face">1.0m</span></div></div>		
+								</li>
+								
+								<li id="top_tw_btn" class="sharrre">
+									 <div id="twitter" class="tw_btn social_btn" data-url="https://www.traileraddict.com" data-text="tweet TA" data-title=""><div class="box"><span class="count" id="facetw">35k</span></div></div>
+								</li>
+								
+								<li id="top_gp_btn">
+									<div id="googlePlus" class="gp_btn social_btn" data-url="https://www.traileraddict.com" data-text="share TA" data-title=""></div>
+								</li>
+								
+							</ul>
+							<div class="clear"></div>
+						</div><!--nav_container-->
+						<div class="mobile-nav"></div>
+						<div class="clear"></div>
+						
+					</nav><!--/TOP_BAR_CONTAINER-->
+				</div><!--/TOP_BAR-->
+			</div><!--/TOP_H-->
+		</header><!--/END HEADER-->
+		
+		<div class="top_ad" style="min-height: 30px;">
+				<!-- 728 x 90 ATF Desktop -->
+				<div data-pw-desk="leaderboard_atf" id="leaderboard_atf" class="pw-tag" data-google-query-id="CIz05Y2btOYCFSwIwwodz-QCqA"><div id="google_ads_iframe_/154013155/7392/63226/7392-63226-desktop_leaderboard_0__container__" style="border: 0pt none; display: inline-block; width: 970px; height: 250px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/154013155/7392/63226/7392-63226-desktop_leaderboard_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="970" height="250" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="9" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div><div class="pw_report_ad_container" style="line-height: normal; display: inline-block; width: 100%; text-align: center;" data-pw-in-article="true"><a id="report_ad_leaderboard_atf" href="#" class="playwire_report_ad_link" style="color: #4db2ec;font-size:10px;font-family:&quot;Open Sans&quot;,arial,sans-serif">Report Ad</a></div></div>
+				<!-- 320 x 50 ATF Mobile -->
+				<div data-pw-mobi="leaderboard_atf"></div>
+		</div>
+<meta name="twitter:app:name:iphone" content="TrailerAddict">
+<meta name="twitter:app:id:iphone" content="562924378">
+<meta name="twitter:app:name:ipad" content="TrailerAddict">
+<meta name="twitter:app:id:ipad" content="562924378">
+<meta name="twitter:app:name:googleplay" content="TrailerAddict">
+<meta name="twitter:app:id:googleplay" content="com.traileraddict.android">
+      		
+		
+		
+		<iframe id="pw_user_data" src="https://cdn.intergient.com/pageos/1.4.26/iframe/iframe.html" style="display: none; height: 0px; width: 0px; position: fixed; bottom: -99999px;"></iframe><script>
+		/* var hdheight = ;
+		var regheight = ;
+		*/
+
+		this.top.location !== this.location && (this.top.location = this.location);
+		function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*2*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+	    else var expires = "";
+	    document.cookie = name+"="+value+expires+"; path=/; domain=.traileraddict.com";
+	}
+	var rtdate = new Date().getTime() / 1000 | 0;
+	createCookie('ccr',''+ rtdate +'','1');
+		
+		
+		
+		
+	$(document).ready(function(){
+			clearInterval(dyad);
+			
+			if(!isMobile.any()) {
+				 $(".tooltip").tooltip({
+				  hide: {duration: 1000 }
+				});
+				 console.log('not mobile');
+			}
+			//stat
+			var rand = Math.floor(Math.random() * 100000);
+			$.post( '/util/counts.php', { trailer_id: 95161, film_id: 20297, cb: rand  }, function( data ){});
+
+			//expand player
+			var currentexp = $.cookie('exp_default');
+			if(currentexp == 'expanded') {
+				$( "#side_ad" ).addClass( "side_ad_drop" );
+				$( ".inner" ).addClass( "ta_expansion" );
+			}
+
+			
+				 /*$("#expandb").tooltip({
+				  hide: {duration: 1000 }
+				}); */
+				
+						if(!!$.cookie('ta-user')) {
+				console.log('trailer page logged in');
+				//run user fav/sub check
+				var pagevars = "f=20297&t=95161";
+				$.ajax({
+   							url : "/util/user/ucheck.php",
+    						type: "POST",
+    						data : pagevars,
+    						async:false,
+    						success: function(data, textStatus, jqXHR)
+    						{
+								//alert(data);
+								if(data.indexOf("liked") >= 0) {
+									$('#fav').addClass('active_switch');
+									$('#fav').attr('title', 'Liked');
+								} else {
+									$('#fav').attr('title', 'Like this Video on TrailerAddict');
+								}
+
+								if(data.indexOf("subscribed") >= 0) {
+									$('#sub').addClass('active_switch');
+									$('#sub').attr('title', 'Subscribed');
+								} else {
+									$('#sub').attr('title', 'Subscribe to this Film on TrailerAddict');
+								}
+    						},
+    						error: function (jqXHR, textStatus, errorThrown)
+    						{
+ 							//alert("There was an unexpected error");
+    						}
+							});
+
+				 $('#fav, #sub').click(function() {
+				 	   var ub = $(this).attr('id');
+					   if(ub == "fav") {
+							var formData = "f=like&d=95161";
+						} else {
+							var formData = "f=subscribe&d=20297";
+						}
+						
+							$.ajax({
+   							url : "/util/user/favorite.php",
+    						type: "POST",
+    						data : formData,
+    						success: function(data, textStatus, jqXHR)
+    						{
+								//alert(data);
+								if(data == "unlike"){
+									$('#fav').removeClass('active_switch');
+									$('#fav').attr('title', 'Like this Video on TrailerAddict');
+								} else if(data == "liked") {
+									$('#fav').addClass('active_switch');
+									$('#fav').attr('title', 'Liked');
+								} else if(data == "unsub") {
+									$('#sub').removeClass('active_switch');
+									$('#sub').attr('title', 'Subscribe to this Film on TrailerAddict');
+								} else if(data == "subbed") {
+									$('#sub').addClass('active_switch');
+									$('#sub').attr('title', 'Subscribed');
+								} else if(data == "login") {
+									alert("You have to be logged in to do that!");
+								}
+    						},
+    						error: function (jqXHR, textStatus, errorThrown)
+    						{
+ 							alert("There was an unexpected error");
+    						}
+							});
+				 
+				 });
+						} else {
+				$("#fav, #sub").click(function(){
+					alert("You have to be logged in to do that!");
+				});
+			}
+						
+				
+		});
+		</script>
+		<div class="cover_bg"></div>
+			
+		<!-- EMBED BOX HERE -->
+
+		
+		
+		<div id="main_content" class="trailer"><!--main content-->
+		
+			<div class="content" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+				<meta itemprop="url" content="https://www.traileraddict.com/the-a-list/trailer">
+				<meta itemprop="name" content="The A-List Trailer (2014)">
+   			 	<meta itemprop="discussionUrl" content="https://www.traileraddict.com/the-a-list/trailer">
+				<meta itemprop="height" content="558">
+    			<meta itemprop="width" content="1356">
+				<meta itemprop="image" content="https://cdn.traileraddict.com/vidog/unknown/the-a-list/1.jpg">
+    			<meta itemprop="thumbnailUrl" content="https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg">
+				<meta itemprop="playerType" content="HTML5 Flash">
+				<meta itemprop="encodingFormat" content="MP4">
+				<meta itemprop="videoQuality" content="HD">
+				<meta itemprop="interactionCount" content="UserPlays:150073">
+				<meta itemprop="duration" content="PT00H02M23S">
+				<!-- <meta itemprop="dated" content="2014-09-28T22:57:14-07:00"> -->
+				<!-- added to test cache -->
+    			<meta itemprop="uploadDate" content="2014-09-28T22:57:14-07:00">
+				<meta itemprop="embedUrl" content="//v.traileraddict.com/emd/95161?id=95161">
+				<meta itemprop="description" content="Trailer for The A-List. The A-List tells the story of Eric Schultz, the most popular student at Lake O’Dell High School. Eric becomes coerced by his guidance counselor,...">
+				
+				<section class="videos">
+					<div class="inner">
+						<div class="video_bar">
+							<h1><span itemprop="headline"><a href="/the-a-list">The A-List</a> Trailer (2014)</span></h1>
+							
+							
+							<!-- <ul id="top_social">
+								<li id="top_fb_btn_video">
+									<div id="facebook" class="fb_btn social_btn" data-url="" data-text="like TA" data-title=""></div>		
+								</li>
+								
+								<li id="top_tw_btn_video">
+									 <div id="twitter" class="tw_btn social_btn" data-url="" data-text="tweet TA" data-title=""></div>
+								</li>
+								
+								<li id="top_gp_btn_video">
+									<div id="googlePlus" class="gp_btn social_btn" data-url="" data-text="share TA" data-title=""></div>
+								</li>
+								
+							</ul><!--End social bar video-->
+						</div><!--end video bar-->
+												<div id="trailer_addict_video_frame">
+						<div tabindex="-1" ondblclick="fsc();" preload="metadata" poster="https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg" class="video-js vjs-fluid vjs-default-skin vjs-paused trailerplayer-dimensions vjs-controls-enabled vjs-workinghover vjs-theater-mode vjs-user-inactive" id="trailerplayer" role="region" aria-label="video player"><video id="trailerplayer_html5_api" class="vjs-tech" poster="https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg" preload="auto" ondblclick="fsc();" tabindex="-1" src="https://gcs-vimeo.akamaized.net/exp=1576308875~acl=%2A%2F675075054.mp4%2A~hmac=3db3a1c4d7b92825d72e2ab4ee4911a3d56e98baa1531ac41ba8b208ed778eab/vimeo-prod-skyfire-std-us/01/4997/7/199989725/675075054.mp4">	
+						
+						<source src="https://gcs-vimeo.akamaized.net/exp=1576308875~acl=%2A%2F675075054.mp4%2A~hmac=3db3a1c4d7b92825d72e2ab4ee4911a3d56e98baa1531ac41ba8b208ed778eab/vimeo-prod-skyfire-std-us/01/4997/7/199989725/675075054.mp4" type="video/mp4" default="" res="HD" label="HD"> <source src="https://gcs-vimeo.akamaized.net/exp=1576308875~acl=%2A%2F675075056.mp4%2A~hmac=2e7b2635330bb167b4db900989ba27005885ca7f7347b0e8246f6c3138725330/vimeo-prod-skyfire-std-us/01/4997/7/199989725/675075056.mp4" type="video/mp4" res="M" label="M"> <source src="https://gcs-vimeo.akamaized.net/exp=1576308875~acl=%2A%2F675075053.mp4%2A~hmac=b2663ed0434e1514d714f3dc61fe5a3579101714313d6f8bdbee535867ca8219/vimeo-prod-skyfire-std-us/01/4997/7/199989725/675075053.mp4" type="video/mp4" res="S" label="S"></video><div></div><div class="vjs-poster" tabindex="-1" aria-disabled="false" style="background-image: url(&quot;https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg&quot;);"></div><div class="vjs-text-track-display" aria-live="off" aria-atomic="true"></div><div class="vjs-loading-spinner" dir="ltr"></div><button class="vjs-big-play-button" type="button" aria-live="polite" title="Play Video" aria-disabled="false"><span class="vjs-control-text">Play Video</span></button><div class="vjs-control-bar" dir="ltr" role="group"><button class="vjs-play-control vjs-control vjs-button" type="button" aria-live="polite" title="Play" aria-disabled="false"><span class="vjs-control-text">Play</span></button><div class="vjs-live-control vjs-control vjs-hidden"><div class="vjs-live-display" aria-live="off"><span class="vjs-control-text">Stream Type</span>LIVE</div></div><div class="vjs-current-time vjs-time-control vjs-control"><div class="vjs-current-time-display" aria-live="off"><span class="vjs-control-text">Current Time</span> 0:00</div></div><div class="vjs-remaining-time vjs-time-control vjs-control"><div class="vjs-remaining-time-display" aria-live="off"><span class="vjs-control-text">Remaining Time</span> -2:22</div></div><div class="vjs-progress-control vjs-control"><div tabindex="0" class="vjs-progress-holder vjs-slider vjs-slider-horizontal" role="slider" aria-valuenow="NaN" aria-valuemin="0" aria-valuemax="100" aria-label="progress bar" aria-valuetext="0:00"><div class="vjs-load-progress" style="opacity: 0.3; width: 11.1015%;"><span class="vjs-control-text"><span>Loaded</span>: 0%</span><div style="left: 0%; width: 100%;"></div></div><div class="vjs-mouse-display" data-current-time="0:00" style="left: 0px;"></div><div class="vjs-play-progress vjs-slider-bar" data-current-time="0:00" style="width: 0%;"><span class="vjs-control-text"><span>Progress</span>: 0%</span></div></div></div><div class="vjs-duration vjs-time-control vjs-control"><div class="vjs-duration-display" aria-live="off"><span class="vjs-control-text">Duration Time</span> 2:22</div></div><div class="vjs-volume-menu-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-volume-menu-button-vertical vjs-vol-3" tabindex="0" role="button" aria-live="polite" title="Mute" aria-disabled="false"><div class="vjs-menu"><div class="vjs-menu-content"><div tabindex="0" class="vjs-volume-bar vjs-slider-bar vjs-slider vjs-slider-vertical" role="slider" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" aria-label="volume level" aria-valuetext="100.00%"><div class="vjs-volume-level" style="height: 100%;"><span class="vjs-control-text"></span></div></div></div></div><span class="vjs-control-text">Mute</span></div><button class="vjs-control vjs-button html-nextup" type="button" aria-live="polite" aria-disabled="false" title="Next Up: The A-List The Date"><span class="vjs-control-text">Next Up: The A-List The Date</span></button><div class="vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-resolution-button" tabindex="0" role="menuitem" aria-live="polite" aria-disabled="false" aria-expanded="false" aria-haspopup="true" title="Quality"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"><li class="vjs-menu-item vjs-selected" tabindex="-1" role="menuitem" aria-live="polite" aria-disabled="false">HD<span class="vjs-control-text"></span></li><li class="vjs-menu-item" tabindex="-1" role="menuitem" aria-live="polite" aria-disabled="false">M<span class="vjs-control-text"></span></li><li class="vjs-menu-item" tabindex="-1" role="menuitem" aria-live="polite" aria-disabled="false">S<span class="vjs-control-text"></span></li></ul></div><span class="vjs-control-text">Quality</span><span class="vjs-resolution-button-label vjs-resolution-type">HD</span></div><div id="settings_button" class="vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-cog-menu-button" role="menuitem" aria-live="polite" aria-expanded="false" aria-haspopup="true" aria-disabled="false"></div><button class="vjs-theater-mode-control-open vjs-control vjs-button" type="button" aria-live="polite" aria-disabled="false" title="Toggle theater mode"><span class="vjs-control-text">Toggle theater mode</span></button><button class="vjs-fullscreen-control vjs-control vjs-button" type="button" aria-live="polite" title="Fullscreen" aria-disabled="false"><span class="vjs-control-text">Fullscreen</span></button></div><div class="vjs-error-display vjs-modal-dialog vjs-hidden " tabindex="-1" aria-describedby="trailerplayer_component_207_description" aria-hidden="true" aria-label="Modal Window" role="dialog"><p class="vjs-modal-dialog-description vjs-offscreen" id="trailerplayer_component_207_description">This is a modal window.</p><div class="vjs-modal-dialog-content" role="document"></div></div><div class="vjs-caption-settings vjs-modal-overlay vjs-hidden" tabindex="-1" role="dialog" aria-labelledby="TTsettingsDialogLabel-trailerplayer_component_212" aria-describedby="TTsettingsDialogDescription-trailerplayer_component_212"><div role="document"><div class="vjs-control-text" id="TTsettingsDialogLabel-trailerplayer_component_212" aria-level="1" role="heading">Caption Settings Dialog</div><div class="vjs-control-text" id="TTsettingsDialogDescription-trailerplayer_component_212">Beginning of dialog window. Escape will cancel and close the window.</div><div class="vjs-tracksettings"><div class="vjs-tracksettings-colors"><fieldset class="vjs-fg-color vjs-tracksetting"><legend>Text</legend><label class="vjs-label" for="captions-foreground-color-trailerplayer_component_212">Color</label><select id="captions-foreground-color-trailerplayer_component_212"><option value="#FFF">White</option><option value="#000">Black</option><option value="#F00">Red</option><option value="#0F0">Green</option><option value="#00F">Blue</option><option value="#FF0">Yellow</option><option value="#F0F">Magenta</option><option value="#0FF">Cyan</option></select><span class="vjs-text-opacity vjs-opacity"><label class="vjs-label" for="captions-foreground-opacity-trailerplayer_component_212">Transparency</label><select id="captions-foreground-opacity-trailerplayer_component_212"><option value="1">Opaque</option><option value="0.5">Semi-Transparent</option></select></span></fieldset><fieldset class="vjs-bg-color vjs-tracksetting"><legend>Background</legend><label class="vjs-label" for="captions-background-color-trailerplayer_component_212">Color</label><select id="captions-background-color-trailerplayer_component_212"><option value="#000">Black</option><option value="#FFF">White</option><option value="#F00">Red</option><option value="#0F0">Green</option><option value="#00F">Blue</option><option value="#FF0">Yellow</option><option value="#F0F">Magenta</option><option value="#0FF">Cyan</option></select><span class="vjs-bg-opacity vjs-opacity"><label class="vjs-label" for="captions-background-opacity-trailerplayer_component_212">Transparency</label><select id="captions-background-opacity-trailerplayer_component_212"><option value="1">Opaque</option><option value="0.5">Semi-Transparent</option><option value="0">Transparent</option></select></span></fieldset><fieldset class="vjs-window-color vjs-tracksetting"><legend>Window</legend><label class="vjs-label" for="captions-window-color-trailerplayer_component_212">Color</label><select id="captions-window-color-trailerplayer_component_212"><option value="#000">Black</option><option value="#FFF">White</option><option value="#F00">Red</option><option value="#0F0">Green</option><option value="#00F">Blue</option><option value="#FF0">Yellow</option><option value="#F0F">Magenta</option><option value="#0FF">Cyan</option></select><span class="vjs-window-opacity vjs-opacity"><label class="vjs-label" for="captions-window-opacity-trailerplayer_component_212">Transparency</label><select id="captions-window-opacity-trailerplayer_component_212"><option value="0">Transparent</option><option value="0.5">Semi-Transparent</option><option value="1">Opaque</option></select></span></fieldset></div><div class="vjs-tracksettings-font"><div class="vjs-font-percent vjs-tracksetting"><label class="vjs-label" for="captions-font-size-trailerplayer_component_212">Font Size</label><select id="captions-font-size-trailerplayer_component_212"><option value="0.50">50%</option><option value="0.75">75%</option><option value="1.00">100%</option><option value="1.25">125%</option><option value="1.50">150%</option><option value="1.75">175%</option><option value="2.00">200%</option><option value="3.00">300%</option><option value="4.00">400%</option></select></div><div class="vjs-edge-style vjs-tracksetting"><label class="vjs-label" for="trailerplayer_component_212">Text Edge Style</label><select id="trailerplayer_component_212"><option value="none">None</option><option value="raised">Raised</option><option value="depressed">Depressed</option><option value="uniform">Uniform</option><option value="dropshadow">Dropshadow</option></select></div><div class="vjs-font-family vjs-tracksetting"><label class="vjs-label" for="captions-font-family-trailerplayer_component_212">Font Family</label><select id="captions-font-family-trailerplayer_component_212"><option value="proportionalSansSerif">Proportional Sans-Serif</option><option value="monospaceSansSerif">Monospace Sans-Serif</option><option value="proportionalSerif">Proportional Serif</option><option value="monospaceSerif">Monospace Serif</option><option value="casual">Casual</option><option value="script">Script</option><option value="small-caps">Small Caps</option></select></div></div><div class="vjs-tracksettings-controls"><button class="vjs-default-button">Defaults</button><button class="vjs-done-button">Done</button></div></div></div></div><div class="ytspinner vjs-hidden" style="z-index: 97;"></div><div class="vjs-zoom-info vjs-hidden"></div></div>
+                        <a id="face3-embed"></a></div>
+              
+                
+						
+						   
+						
+											</div>
+				</section><!--end .videos-->
+				
+								<div class="synopsis">			    
+				<div style="background:#fff; padding-top:7px;">
+						<div style="padding:0px 0px 4px 0px; border-bottom:1px solid #d7d7d7; text-align:right; width:92%; margin:0 auto;" id="socialops" class="tooltip">
+								<div id="fb" title="Share to Facebook" style="float:left;" class="sharrre"><img src="/img/social/fb2.png" style="float:left; position:relative;"><span class="sharrre"><div class="box"><a class="count" href="#">0</a></div></span></div>
+								<div id="gplus" title="Share to Google Plus" style="float:left;" class="sharrre"><img src="/img/social/gplus2.png" style="float:left; position:relative;"><span class="sharrre"><div class="box"><a class="count" href="#">0</a></div></span></div>
+								<div id="tw" title="Share to Twitter" style="float:left;" class="sharrre"><img src="/img/social/tw2.png" style="float:left; position:relative;"><span class="sharrre"><div class="box"><a class="count" href="#">0</a></div></span></div>
+								<div id="fav" title="Login to Like on TrailerAddict" class=""><img src="/img/social/fav3.png" style="position:relative; float:left;" width="29" height="29" alt="Like"></div>
+								<div id="sub" title="Login to Subscribe on TrailerAddict" class="" style="border-radius:1px;"><img src="/img/social/sub3.png" style="position:relative; float:left;" width="29" height="29" alt="Subscribe"></div>
+								<div id="cmt" title="Go to Comments" onclick="document.location+='#commentspot';return false;"><img src="/img/social/comments.png" width="29" height="29" alt="Comments"></div>
+								 <!--<div id="player_choice" style="margin-right:0px;"></div>-->
+								
+						</div>
+					</div>				
+					<div class="movie_label_info subspans">
+						<p>Trailer for <b>The A-List</b>.</p><p>
+<b>The A-List</b> tells the story of Eric Schultz, the most popular student at Lake O’Dell High School. Eric becomes coerced by his guidance counselor, Sylvia Martin, into fulfilling a list of her high school fantasies in order to graduate.</p>
+							<div id="chain_ad">
+								<!-- Tag ID: TrailerAddict_300x250_BTF_2 
+								<div align="center" data-refresh-time="-1" id="TrailerAddict_300x250_BTF_2">
+								    <script data-cfasync="false" type='text/javascript'>
+								        freestar.queue.push(function () { googletag.display('TrailerAddict_300x250_BTF_2'); });
+								    </script>
+								</div>
+								//-->
+							<!-- <iframe style="width:300px; height: 250px; border:none; overflow:hidden;" src="//www.traileraddict.com/ads/pages/medium-ros.htm" scrolling="no"></iframe> -->
+							</div>								
+
+<!-- Composite Start <div id="M23570ScriptRootC150621" style="padding:14px 36px;"> <div id="M23570PreloadC150621"> Loading... </div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M23570ScriptRootC150621")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M23570ScriptRootC150621");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=150621;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/t/r/traileraddict.com.150621.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); </script> </div> <!-- Composite End -->
+					<div id="interior">
+						<div class="finfo_outer">
+							<div class="finfo">
+								<span>Duration</span><br>
+								2 min 23 sec<br><br>
+								<span>Views</span><br>
+								150,073<br><br>
+								<span>Posted On</span><br>
+								September 28, 2014							</div>
+							<div class="finfo">
+								<span>Director</span><br>
+								<span itemscope="" itemtype="http://schema.org/Person" itemprop="director" style="font-weight: 400 !important;">Will Bigham</span><br><br>
+								<span>Writer</span><br>
+								D.J. Halferty<br><br>
+								<span>Studio</span><br>
+								Independent<br><br>
+								<span>Release</span><br>
+								2014							</div>
+						</div><div class="finfo_clear"></div>
+						<div class="finfo_outer">
+							<div class="finfo finfo_cast">
+								<span>Cast</span><br>
+								Alyson Stoner<br> Hal Sparks<br> Skyler Vallo<br> Lily Bigham<br> Katie O'Grady							</div>
+							<div class="finfo">
+								<span>Trailer Tracks</span><br>
+								No Music Available							</div>
+						</div>
+						<div style="clear:both; height:0px;"></div>
+						
+						<ul>
+						<li><a href="/tags/comedy">Comedy</a></li><li><a href="/tags/drama">Drama</a></li><li><a href="/tags/alyson-stoner">Alyson Stoner</a></li><li><a href="/tags/hal-sparks">Hal Sparks</a></li><li><a href="/tags/skyler-vallo">Skyler Vallo</a></li><li><a href="/tags/katie-ogrady">Katie O'Grady</a></li>						</ul>
+						
+					</div>
+					
+						<div class="movie_label_info subspans" style="padding:16px 30px !important; min-height:120px;" id="commentsarea"><a name="commentspot"></a>	
+						<div style="position:relative; width:100%; height:1px;"><div style="position:absolute; width:100%; height:70px; background:#FFFFFF; top:60px; z-index:10000; text-align:center; font-size:24px; text-shadow: 0px 0px 1px rgba(30, 30, 30, 0.4); color:#4f4f4f; line-height:70px; display:none;">Log In to Comment</div></div><div class="fb-comments fb_iframe_widget fb_iframe_widget_fluid_desktop" data-href="http://www.traileraddict.com/the-a-list/trailer" data-width="100%" data-numposts="6" fb-xfbml-state="parsed" fb-iframe-plugin-query="app_id=1488787874775360&amp;container_width=692&amp;height=100&amp;href=http%3A%2F%2Fwww.traileraddict.com%2Fthe-a-list%2Ftrailer&amp;locale=en_US&amp;numposts=6&amp;sdk=joey&amp;version=v2.9" style="width: 100%;"><span style="vertical-align: top; width: 100%; height: 0px; overflow: hidden;"><iframe name="f3bb5e1db73334c" width="1000px" height="100px" title="fb:comments Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v2.9/plugins/comments.php?app_id=1488787874775360&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Df3db13e2b258a0c%26domain%3Dwww.traileraddict.com%26origin%3Dhttps%253A%252F%252Fwww.traileraddict.com%252Ff35ec29ab471a9c%26relation%3Dparent.parent&amp;container_width=692&amp;height=100&amp;href=http%3A%2F%2Fwww.traileraddict.com%2Fthe-a-list%2Ftrailer&amp;locale=en_US&amp;numposts=6&amp;sdk=joey&amp;version=v2.9" style="border: none; visibility: hidden; width: 100%;"></iframe></span></div>
+						</div>
+						<center>
+					<div style="width:92%; border-top:1px solid #d7d7d7; margin:0px auto;padding-top:10px;">
+						<div style="font-size:20px; font-weight: 500; color:#4C4C4C;text-shadow: 0 0 1px rgba(76,76,76,.3); font-family: 'Roboto',Arial,sans-serif; text-align: left; margin-bottom:12px;">
+							AROUND THE WEB
+						</div>
+						
+						<!--<div id="rcjsload_a0c828"></div>
+										<script type="text/javascript">
+										(function() {
+										var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+										var rcel = document.createElement("script");
+										rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+										rcel.type = 'text/javascript';
+										rcel.src = "https://trends.revcontent.com/serve.js.php?w=35043&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+										rcel.async = true;
+										var rcds = document.getElementById("rcjsload_a0c828"); rcds.appendChild(rcel);
+										})();
+										</script> //-->
+						<!--<div id="zergnet-widget-41642"></div>
+
+						<script language="javascript" type="text/javascript">
+						    (function() {
+						        var zergnet = document.createElement('script');
+						        zergnet.type = 'text/javascript'; zergnet.async = true;
+						        zergnet.src = 'http://www.zergnet.com/zerg.js?id=41642';
+						        var znscr = document.getElementsByTagName('script')[0];
+						        znscr.parentNode.insertBefore(zergnet, znscr);
+						    })();
+						</script> //-->
+					</div>
+					</center>
+					</div>
+				</div><!--end synopsis-->
+				<!-- native ad <div style="margin:10px;"><a href="http://bit.ly/1kcIkzp" target="_blank"><img src="//cdn.traileraddict.com/img/afifest/video.jpg" style="width:100%;" border="0"></a></div> -->
+				<div id="ingageunit"></div>
+				<a name="commentspot"></a>
+				
+				<div class="clear"></div>
+				<script>
+				jQuery(document).ready(function(){
+					jQuery('ul#rel_nav li').click(function(){
+						/* Add Class Active */
+						jQuery('ul#rel_nav li').removeClass('active_item');
+						jQuery(this).addClass('active_item');
+						
+						/* Show/Hide List */
+						var id = jQuery(this).attr('id');
+						//alert(id);
+						//jQuery('.related_c').hide();
+						//jQuery('#'+id+'_r').show();
+						
+							/*swap the divs*/
+							var did = $('#featured_c').find('.yesvis').attr('id');
+												//alert(did);
+												$("#"+ did +"").fadeOut('fast', function() {
+												
+													$("#"+ id +"_r").fadeIn('fast', function() {
+													jQuery("#"+ id +"_r").removeClass('novis');
+													jQuery("#"+ id +"_r").addClass('yesvis');
+													jQuery("#"+ did +"").removeClass('yesvis');
+													jQuery("#"+ did +"").addClass('novis');
+													
+													})
+												})
+					})
+					
+					/*$("ul li").hover(function(){
+						if (!$(this).hasClass('animated')) {
+							$(this).dequeue().stop().animate({ width: "280px" });
+						}
+					}, function() {
+						$(this).addClass('animated').animate({ width: "132px" }, "normal", "linear", function() {
+							$(this).removeClass('animated').dequeue();
+						});
+					});*/
+					$(".extra-thumbs-small").click(function(){
+    					$(this).removeClass('extra-thumbs-small');
+					});
+				});
+				var comment_create = function(response) {
+				  //console.log("comment created: ");
+				  console.log("comment_create");
+  				  console.log(response);
+				  //console.log(arr[0] +' - '+ arr[1]);
+				  var cdata = "tid=95161&cid="+ response.commentID;
+				 		$.ajax({
+   							url : "/fb/comment-add.php",
+    						type: "POST",
+    						data : cdata,
+    						success: function(data, textStatus, jqXHR)
+    						{
+								console.log('successful add');
+								if(data == "rlogin") {
+									$('.fb_sign').trigger('click');
+								}
+    						},
+    						error: function (jqXHR, textStatus, errorThrown)
+    						{
+ 								console.log('comment add error');
+    						}
+						});
+				} 
+				var comment_delete = function(response) {
+				  console.log("comment deleted: ");
+				   //console.log(arr[1]);
+				   var deldata = "tid=95161&cid="+ response.commentID;
+				   		$.ajax({
+   							url : "/fb/comment-del.php",
+    						type: "POST",
+    						data : deldata,
+    						success: function(data, textStatus, jqXHR)
+    						{
+								console.log('successful delete');
+    						},
+    						error: function (jqXHR, textStatus, errorThrown)
+    						{
+ 								console.log('comment del error');
+    						}
+						});
+				} 
+				</script>
+				
+				<div class="related_v" style="background:#000000 !important;">
+					<div class="title_bar" style="margin-bottom:1px !important;">
+						<h2>Related videos</h2>
+						<div class="r_category">
+							<ul id="rel_nav">
+								<li id="popular" class="active_item">Popular</li>
+								<li id="featurettes">Featurettes</li>
+								<li id="clips">Clips</li>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+					
+					<div class="widget main_list" id="featured_c">
+						<div id="popular_r" class="yesvis">
+						<div class="featured_box">
+								<div class="movie_info">
+								<span class="m_date">Sep 28, 2014</span>
+								<a href="/the-a-list/trailer" class="m_title">Trailer</a>
+								<span class="m_studio"></span>
+								<span class="m_category"></span>														
+								</div>
+								</div><div class="featured_box">
+								<div class="movie_info">
+								<span class="m_date">May 12, 2015</span>
+								<a href="/the-a-list/the-date" class="m_title">The Date</a>
+								<span class="m_studio"></span>
+								<span class="m_category"></span>														
+								</div>
+								</div><div class="featured_box">
+								<div class="movie_info">
+								<span class="m_date">May 12, 2015</span>
+								<a href="/the-a-list/the-quarterback" class="m_title">The Quarterback</a>
+								<span class="m_studio"></span>
+								<span class="m_category"></span>														
+								</div>
+								</div>						</div>
+					<!--1-->
+					
+					
+						<div id="featurettes_r" class="novis">
+							<div style="width:100%; height:180px; background:url('//cdn.traileraddict.com/img/no-bg.jpg') repeat-x; text-align:center; color:#EFEFEF;"><div style="font-size:22px; padding-top:7px;">Whoops!</div><br><div style="font-size:16px; margin-top:50px;">No videos have been filed... as of yet.</div></div>						</div><!--2-->
+					
+						<div id="clips_r" class="novis">
+							<div class="featured_box">
+								<div class="movie_info">
+								<span class="m_date">May 12, 2015</span>
+								<a href="/the-a-list/the-quarterback" class="m_title">The Quarterback</a>
+								<span class="m_studio"></span>
+								<span class="m_category"></span>														
+								</div>
+								</div><div class="featured_box">
+								<div class="movie_info">
+								<span class="m_date">May 12, 2015</span>
+								<a href="/the-a-list/the-date" class="m_title">The Date</a>
+								<span class="m_studio"></span>
+								<span class="m_category"></span>														
+								</div>
+								</div>						</div><!--3-->
+						
+						<a class="go-back" href="/the-a-list">View All Videos</a>
+					</div>
+					
+				</div>
+				
+			</div><!--end content-->
+			
+			<div class="side_bar trailer"> 
+		<div id="side_ad" style="margin-bottom:7px;">
+			<script type="text/javascript">
+
+					    var cachebuster = Math.round(new Date().getTime());
+
+					    document.write('<div class="cnsmbl-table-300x600"></div>');
+
+					    document.write('<scr'+'ipt type="text/javascript" src="https://yummy.consumable.com/7265/cnsmbl-table-300x600/widget/unit.js?cb=' +cachebuster+'" charset="utf-8" async></scr' + 'ipt>');
+
+					</script><div class="cnsmbl-table-300x600"><iframe id="gt-7df6c3ca-e58a-423a-c364-24be9e03170d" style="border: none;"></iframe></div><script type="text/javascript" src="https://yummy.consumable.com/7265/cnsmbl-table-300x600/widget/unit.js?cb=1576294629733" charset="utf-8" async=""></script>
+					<!-- 3
+					<div data-pw-desk="med_rect_atf"></div>
+					300 x 250 ATF Mobile 
+					<div data-pw-mobi="med_rect_atf"></div> -->
+						
+			</div>
+				
+				<div class="social-plug-in">
+					<ul id="top_social" style="margin-left: -66px;">
+						<li id="top_fb_btn_side" class="sharrre">
+							<div id="facebook" class="fb_btn social_btn">
+								<div class="box">
+									<span class="count" id="face2">1.0m</span>
+								</div>
+							</div>		
+						</li>
+
+						<li id="top_tw_btn_side" class="sharrre">
+							<div id="twitter" class="tw_btn social_btn">
+								<div class="box">
+									<span class="count" id="facetw2">35k</span>
+								</div>
+							</div>
+						</li>
+
+						<li id="top_gp_btn">
+							<div id="googlePlus" class="gp_btn social_btn"></div>
+						</li>
+						
+<script>
+                                     jQuery('#face, #face2').click(function(){
+                                        var left = (screen.width/2)-(610/2); 
+                                         var top = (screen.height/2)-(400/2); 
+                                            console.log(left);
+                                        var options = "height=400,width=610,scrollTo,resizable=0,scrollbars=0,location=0,top="+top + " ,left=" +left+ "";
+                                        nueva = window.parent.open('http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTrailerAddicts&width=600&height=400&colorscheme=light&show_faces=true&header=false&stream=false&show_border=false', 'facebook', options);
+                                        return false;
+                                    });
+									
+									jQuery('#facetw, #facetw2').click(function(){
+                                        var left = (screen.width/2)-(610/2); 
+                                         var top = (screen.height/2)-(456/2); 
+                                            console.log(left);
+                                        var options = "height=456,width=610,scrollTo,resizable=0,scrollbars=0,location=0,top="+top + " ,left=" +left+ "";
+                                        nueva = window.parent.open('https://twitter.com/intent/user?screen_name=traileraddict', 'twitter', options);
+                                        return false;
+                                    });
+
+
+							
+</script>
+					</ul>
+					<div style="clear:both"></div>
+				</div>
+				<span itemscope="" itemtype="http://schema.org/Movie"><meta itemprop="name" content="The A-List">
+				<meta itemprop="image" content="https://cdn.traileraddict.com/vidquad/unknown/the-a-list/1.jpg">
+				
+				 <span itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+				<meta itemprop="name" content="Will Bigham">
+				</span>
+					<meta content="2014" itemprop="datePublished">					<a class="go-back" href="/the-a-list" itemprop="url" style="position:relative; top:6px;">The A-List</a>
+				</span>
+				<!-- <div>
+				<a href="http://bit.ly/1Gl3aU1" target="_blank"><img src="//cdn.traileraddict.com/img/afifest/afi-small.jpg" border="0" style="margin-top: 15px;"></a>
+				</div>-->
+				<div id="mobile_app">
+					<!--<a href="/app-support"><img src="//cdn.traileraddict.com/img/ad4.jpg" width="136" height="597" alt="Download the Movie Trailer App"/></a>-->
+					<div id="div-gpt-ad-1576162570435-0" data-google-query-id="CPG7loybtOYCFbIcwwodTSkEZg">
+					  
+					<div id="google_ads_iframe_/133810016/traileraddict/TA-300x600_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/133810016/traileraddict/TA-300x600_0" title="3rd party ad content" name="google_ads_iframe_/133810016/traileraddict/TA-300x600_0" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-forced-sandbox="true" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div>
+					
+				</div>
+				
+				<div class="title_bar">
+					<h2>Incoming News</h2>
+				</div>
+				<div id="news_blog">
+					<ul>
+					<!-- news cache: yes --><li style="background-image:url('https://www.traileraddict.com/article/wp-content/uploads/2018/03/ghost-rider-bike-chains-marvel-620x424.jpg')">
+						<a href="https://www.traileraddict.com/article/ghost-rider-2-director-opens-r-rated-horror-screenplay-concept/"><span class="m_name">Ghost Rider 2 Director Opens Up On R-Rated Horror Screenplay Concept</span></a>
+						</li><li style="background-image:url('https://www.traileraddict.com/article/wp-content/uploads/2018/03/charlies-angels-reboot-2019-620x424.jpg')">
+						<a href="https://www.traileraddict.com/article/charlies-angels-reboot-elizabeth-banks-excites-kristen-stewart/"><span class="m_name">Charlie’s Angels Reboot From Elizabeth Banks Excites Kristen Stewart</span></a>
+						</li><li style="background-image:url('https://www.traileraddict.com/article/wp-content/uploads/2018/03/highlander-30th-anniversary-edition-620x424.jpg')">
+						<a href="https://www.traileraddict.com/article/highlander-reboot-earmarks-2019-release-contains-sequel-potential/"><span class="m_name">Highlander Reboot Earmarks 2019 Release, Contains Sequel Potential</span></a>
+						</li><li style="background-image:url('https://www.traileraddict.com/article/wp-content/uploads/2018/03/john-wick-netflix-image-620x424.jpg')">
+						<a href="https://www.traileraddict.com/article/netflix-superhero-movie-past-midnight-earmarks-keanu-reeves-lead-role/"><span class="m_name">Netflix Superhero Movie Past Midnight Earmarks Keanu Reeves For Lead Role</span></a>
+						</li>					</ul>
+					<div class="clear"></div>
+				</div>
+				<!-- /133810016/traileraddict/TA-300x250 -->
+				<div id="div-gpt-ad-1576162489103-0" style="width: 300px; height: 250px; margin:0px auto 15px;" data-google-query-id="CPC7loybtOYCFbIcwwodTSkEZg">
+				  
+				<div id="google_ads_iframe_/133810016/traileraddict/TA-300x250_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/133810016/traileraddict/TA-300x250_0" title="3rd party ad content" name="google_ads_iframe_/133810016/traileraddict/TA-300x250_0" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-forced-sandbox="true" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+				<!-- 300 x 250 BTF Desktop 
+					<div data-pw-desk="med_rect_btf"></div>
+					 300 x 250 BTF Mobile 
+					<div data-pw-mobi="med_rect_btf"></div>-->
+					
+				<div class="title_bar">
+					<h2>You Might Also Like</h2>
+				</div>
+
+				<div id="also_like_side">
+					<ul>
+					<!-- also like cache: yes drama	 --><li style="background-image:url('//cdn.traileraddict.com/akgenre/lionsgate/bombshell-poster/1.jpg')"><a href="/bombshell/trailer"><span class="m_name">Bombshell Trailer</span></a></li><li style="background-image:url('//cdn.traileraddict.com/img/noposter-alsolike2.jpg')"><a href="/proxima-2019/international-trailer"><span class="m_name">Proxima International Trailer</span></a></li><li style="background-image:url('//cdn.traileraddict.com/akgenre/sony-pictures/beautiful-day-neighborhood-poster/1.jpg')"><a href="/beautiful-day-neighborhood/trailer"><span class="m_name">A Beautiful Day in the Neighborhood Trailer</span></a></li><li style="background-image:url('//cdn.traileraddict.com/akgenre/fox-searchlight/a-hidden-life-poster/1.jpg')"><a href="/a-hidden-life-2019/trailer"><span class="m_name">A Hidden Life Trailer</span></a></li>				<div class="clear"></div>			
+					</ul>
+				</div>
+			</div><!--end side_bar-->
+			<!-- trailer page text ad script sidebar-trailer2-->
+			<script src="https://static.solutionshindsight.net/hindsight.umd.js" async=""></script>			
+			
+			<div class="clear"></div>
+			
+			
+			
+		</div><!--/end main content-->
+		
+		<!-- SHARE -->
+		<script>
+			jQuery('#tw').sharrre({
+			  share: {
+				twitter: true
+			  },
+			  template: '<img src="/img/social/tw2.png" style="float:left; position:relative;"><span class="sharrre"><div class="box"><a class="count" href="#">{total}</a></div></span>',
+			  url: 'http://www.traileraddict.com/the-a-list/trailer',
+			  enableHover: false,
+			  shorterTotal:true,
+			  enableTracking: true,
+			  buttons: { twitter: {via: 'TrailerAddict'}},
+			  click: function(api, options){
+				api.simulateClick();
+				api.openPopup('twitter');
+			  },
+			}); 
+			jQuery('#fb').sharrre({
+			  share: {
+				facebook: true
+			  },
+			 template: '<img src="/img/social/fb2.png" style="float:left; position:relative;"><span class="sharrre"><div class="box"><a class="count" href="#">{total}</a></div></span>',
+			  url: 'http://www.traileraddict.com/the-a-list/trailer',
+			  shorterTotal:true,
+			  enableHover: false,
+			  enableTracking: true,
+			  click: function(api, options){
+				api.simulateClick();
+				api.openPopup('facebook');
+			  },
+			});
+			jQuery('#gplus').sharrre({
+			  share: {
+				googlePlus: true
+			  },
+			  template: '<img src="/img/social/gplus2.png" style="float:left; position:relative;"><span class="sharrre"><div class="box"><a class="count" href="#">{total}</a></div></span>',
+			  url: 'http://www.traileraddict.com/the-a-list/trailer',
+			  urlCurl: '/js/sharrre.php',
+			  shorterTotal:true,
+			  enableHover: false,
+			  enableTracking: true,
+			  click: function(api, options){
+				api.simulateClick();
+				api.openPopup('googlePlus');
+			  },
+			});
+			
+			
+
+		</script>
+
+<link href="/videojs/video-js-3.min.css" rel="stylesheet">
+<script src="//vjs.zencdn.net/5.19/video.min.js"></script>
+<!--<script src="/videojs/nuevo.min.js"></script>-->
+<script src="/videojs/videojs-ie8.min.js"></script>
+<script src="/videojs/neuvo3.min.js"></script>
+<script src="/videojs/videojs.theaterMode.js"></script>
+		<script type="text/javascript">
+
+		
+			
+				
+				;eval(function(w,i,s,e){var lIll=0;var ll1I=0;var Il1l=0;var ll1l=[];var l1lI=[];while(true){if(lIll<5)l1lI.push(w.charAt(lIll));else if(lIll<w.length)ll1l.push(w.charAt(lIll));lIll++;if(ll1I<5)l1lI.push(i.charAt(ll1I));else if(ll1I<i.length)ll1l.push(i.charAt(ll1I));ll1I++;if(Il1l<5)l1lI.push(s.charAt(Il1l));else if(Il1l<s.length)ll1l.push(s.charAt(Il1l));Il1l++;if(w.length+i.length+s.length+e.length==ll1l.length+l1lI.length+e.length)break;}var lI1l=ll1l.join('');var I1lI=l1lI.join('');ll1I=0;var l1ll=[];for(lIll=0;lIll<ll1l.length;lIll+=2){var ll11=-1;if(I1lI.charCodeAt(ll1I)%2)ll11=1;l1ll.push(String.fromCharCode(parseInt(lI1l.substr(lIll,2),36)-ll11));ll1I++;if(ll1I>=l1lI.length)ll1I=0;}return l1ll.join('');}('297d41u2z2a29333916263q01211m27212q1b3v3e1d3q011z2m3q01222k3x2u37262t322p112238251s27352z16212x252z1c2u29111z3a251s2733211622281w11121611133x2b2q193z261u3u2v3z2p113w263c153x2b2q17312611121m252e1i2e2938182x3u10111o280y10113b233x3z3b38182x3s12111o2e162v3b233x29233x3b233v2b233x111z3u2911223s291u2u291p2q1i27223o3e1z2314193x111122223516212q193x111k1v33211d222p3c113w2o211o1g27211q1m25111s273r192126163c1e2e2b381a3y2b341x3u2u3q3u39303b3r372237191621161z121o252e1o11113w263c1d373a3x1z1z23141i1i1d181f1m1e1l1f1l3e161e1t3e1e2e1d3f163g1k3g1k1e1y1e141f192e1r2e102e1w2c112e1v2f1s2e1s1e172c1v2g102e1s2e152e1v3e1w2e1w1e1i2e1u1e112c1w1e1z2e1q3f1w2e1v3c1v2e1u2f152e1t2e1w2c1u2e1g2e1s2g1t2e1w2d1t2e1u3g1v2e1s2g162c1w2g102e1r3g1z2e1u2c1u2e1u2g1t2e1t2e1x2c1v2e1x2e1q3f1w2e1w3c1s2e1u3g1f2e1s2f1b2c1u3f122e1q2f182e1u3d1j2e1u3f152e1s3g122c1u3f192e1s3f1u2e1u3d1b2e1u3f1r2e1s2f192c1w3f1x2e1q3f192e1v3c1e2e1u3f162e1u3f102c1u3f1b2e1s3f182e1u1d1b2e1w3f1c2e1s3f192c1u3g1t2e1q2f192e1u3e1e2e1u3f172e1s3g1y2c1u1f192e1q3f192e1u3d192e1u3f192e1s2e1w2c1u1e1h1e192f1e3g1e1c1k1f1r3g1p3d1f3f1e3d1k2f143f1j2f1f2f1r1c1d3e1e3g1a1f1m1g1e2e1s3g1e3e1d1f1f3e1f2d181g1u1f191f1c3f1e1e1i3f1i2e1d1e1d1e1e1e1r3e1e1e163f131g1j2c1d1f1m3g1b1e1g1g1l1e1l3g1l3g121f1e3f1r1e1r1g1k3g192e1f1g1j3b1f2f1e1e1q2g1f1f1h1e143e1e3f1d1e1m3f1q3c1f3g1a1g1b1e121e1d1d1b1f1h1f1b1f1j1g1e2c1q2e1e1e1d1e1d3f1e1c1a1d1e1g1f1e1x2e1w3e112e1v1g142e1s2f1e2c1u1f1l2e1q1g1c2e1u1d1e2e1v3e122e1s1f172c1w3g1v2e1p2g1r2e1w1c122e1v2g1s2e1s3e192c1u3g1k2e1q3f172e1v3e1e2e1w3f1x2e1s1f1d2c1t1f1v2e1r1g142e1w2c1s2e1v1g1f2e1u2g1c2c1v3f1d2e1q3f1e2e1v1e182e1w1e152e1s3f1c2c1w2e112e1p2e152e1v1e182e1v3f152e1t2e172c1v1g1m2e1r3f1l2e1v3e1j2e1w2f1x2e1s1f1c2c1u1f1m2e1q1e1i2e1w2e1y2e1u2f1y2e1s1e1d2c1u2g1f2e1r1g1c2e1v3e1b2e1w2g1i2e1s1f1c2c1w2g1d2e1r2g1j2e1v3c112e1w2f1a2e1s3f1c2c1u3g1a2e1r3g1b2e1u1d1u2e1v2f142e1s3f122c1v2g1v2e1q3g1w2e1u2e1q2e1v2g182e1t2g1w2c1a3g1z2e1s3g1l2e1v3d1e2e1u3f192e1t1g1e2c1u1g182e1q1f1w2e1w2d182e1u3f1p2e1u1g1l2c1t1e1i2e1p2f152e1v3d1f2e1u3f132e1t3f1d2c1u3f1a2e1q3f1l2e1v1c1f2e1u3f1u2e1u3e1t2c1w1g1j2e1q2g1r2e1w3d1f2e1u3e1b2e1s3f1a2c1u3f1k2e1q2e142e1w3e1f2e1u3f1j2e1u2g1h2c1u2f112e1s2f152e1u1d1d2e1u3f172e1t1f1l2c1u3g1j2e1q3e1v2e1u3d182e1u3e162e1r2e1h2c1u3f1g2e1s1g1t2e1w1e192e1u3f1u2e1t3f1i2c1u3g1e2e1q3f142e1w3d1d2e1u3f1r2e1u2e1v2c1w1e1r2e1r3g1t2e1u3d1l2e1u3f1r2e1s3f1j2c1u3f1l2e1q1e1r2e1u1d1f2e1u2g1r2e1u2g162c1v2e1h2e1r2f1h2e1w2c102e1w3f1r2e1s3g1v2c1v3g1k2e1q1g1j2e1w3e1m2e1u1g162e1s1g1e2c1w2e1l2e1q3g1a2e1u3e1x2e1t1g1j2e1t1e102c1w2f1s2e1q3f1f2e1u2d1l2e1v1g1b2e1t1g1f2c1v3e1m2e1q1f1e2e1u2d1u2e1t2g1g2e1u2g1y2c1u2f102e1q1e1b2e1u2e1q2e1u1g1c2e1s2f1j2c1w2g1k2e1q1f1a2e1w2e1d2e1v3g1h2e1u1e122c1v2g1u2e1q3e172e1u3e1c2e1u1g1f2e1s3f1m2c1w3f1z2e1q1f1b2e1t1d1v2e1v2g1f2e1s2g1j2c1w2e1l2e1q1f172e1u2d1b2e1u1f1f2e1s3f1c2c1v2f1y2e1q1g172e1w3e1q2e1t1g142e1t2g1g2c1v2g1l2e1s1g1a2e1w1d192e1u3f162e1t3f1b2c1u1g112e1q1f1c2e1v2c1t2e1u1e1g2e1t3e122c1u2g1c2e1s2g1u2e1h2c1u3e1x3e133e12141r123e161e1m3e1g2g1f3f142e1i3f1c1e1g1f1q1g1j1e123g1e1c1r3g142e1u2g1r2e1u2c1z2e1u2e1g2e1u3e1v2c1u2g1w2e1t3e1t2e1w2e1g2e1t2e1x2e1u2f102c1u2e182e1s2g1x2e1w2e1b2e1s1f162e1s2e112c1s1g1g2e1u1e1u2e1v2c1k2e1u2e162e1s2g1r2c1s1f192e1u2g1m2e1w1e1x2e1s2g1y2e1s3f122c1s2e1w2e1s1f1k2e1t2e1v2e1t3g1g2e1s1f1b2c1u3g182e1s3f192e1v3d162e1s3f172e1u3f1e2c1s2f172e1u3g1g2e1u3d192e1u3f1d2e1s3f1a2c1u3g1e2e1s3f172e1u3d172e1s2f172e1u3e1c2c1s3f182e1s3g1a2e1u3d182e1s3f1a2e1s1f192c1t3f1b2e1s3f192e1u3d152e1s2f172e1u3g1y2c1s1f172e1s3f1e2e1u3d172e1s3e1z2e1s2e1y2c1k1e123f1o1g1k1f163d121g141g1s2g1f3f163d103g1i1f1d3e1d1f181e1f1f1b1f1q3f1f3g1i3d1g1e1d1e1c1e1f1g1r3c1f1e183f131g1h2e1d1d1k1f1f1e1g2e1s1g1l3e1d1e1j3e1c2f1b3f1l1d181e122e192f1b1f1d1d1b2f1b3e181e1d3f1a3d153e1i1f1s3f1f1g1e3d1f1e1f3e1b1e191f1t1d1s1g123e1u1g143f1e3d171g1h1f1s2g1j2g1r1c1a3g181f1p3g1d1e1j3c1f1e1g2e1c1g1h2e1k1e1f3f1f2e1x1g1v2e1w3c1v2e1u2f1d2e1s3f1v2c1s3f192e1t1g1h2e1u1e1y2e1t3f1c2e1s3f122c1s1f1z2e1s1e1r2e1v2d1s2e1s3e182e1s3f1v2c1s3f1e2e1s1g1b2e1u3d1v2e1s3f1b2e1s3f1d2c1s2g1r2e1u2g1l2e1u3c1h2e1u3f1f2e1s3e1t2c1s3g1k2e1s3g1i2e1u2d1z2e1s3f1b2e1s2g1j2c1t3e1t2e1s2g1y2e1u1d1h2e1t3f1a2e1s3f1q2c1s1f192e1s1f1b2e1v3e1k2e1u3g162e1s3e1y2c1r1e1t2e1r3e1z2e1w3e1l2e1t3f1d2e1s3f1d2c1s3g1b2e1s3f1i2e1u3d1w2e1u2f142e1s3f1t2c1u2g1h2e1u2e1z2e1v2c1h2e1s3f1t2e1s2e1j2c1t3f1d2e1s3g1l2e1w2c182e1s1f1d2e1s3e172c1s2g1t2e1t3g1u2e1v2e1w2e1t2e1u2e1t2e1b2c1s2g1r2e1u1e152e1u3e1t2e1u1e1g2e1t3f182c1s3g1l2e1s1g142e1u3d162e1r2g142e1u2g1v2c1t2e1j2e1s1g192e1u3d1t2e1s3g1f2e1s3g1i2c1s1g1j2e1u2g1s2e1u3d1e2e1u2e1i2e1t1e1g2c1u2g1z2e1t1g162e1u2d1e2e1s1g1i2e1t3g1d2c1t1f1f2e1t3e142e1u3d172e1u3g1r2e1u2f1l2c1u1e102e1u1g1l2e1u1e1t2e1s2g1f2e1s1g1a2c1t1g1e2e1u2g102e1u1d1e2e1u1g1u2e1u2e1t2c1r2g1t2e1t3g1k2e1u3e1l2e1u3g1j2e1s1f192c1s1f182e1u2e1l2e1u3d1c2e1s3g1t2e1r1g1z2c1t1g162e1t3e172e1v2c172e1t1f192e1t1g172c1t3f182e1u2e1z2e1u3d1c2e1s1f1w2e1r1e1v2c1s2f1y2e1s1e1l2e1v1c1w2e1f2f1s2e1s2g112c1t2g1c2e1s2f1b2e1u1d1f2e1s3f1h2e1s3g1t2c1u3f192e1s3g1t2e1v2e1s2e1t2g142e1u2e1q2c1t1g1f2e1u1g1c2e1v1d172e1s3f1h2e1t3f162c1u2e152e1s3g1c2e1w2c1z2e1r2e1z2e1u3g1l2c1t3f1d2e1s3f1b2e1u3e1e2e1s3f1d2e1t3f1w2c1u2f142e1s3f1r2e1w2e1h2e1u2g1v2e1t2f1s2c1s3e182e1s3g1t2e1v1d1c2e1s3f1c2e1t3g1v2c1s3f1e2e1s3f1b2e1u2e1r2e1u2g1j2e1t2e1z2c1u2f1a2e1s3g1c2e1u1d1i2e1t3f1p2e1t3f1s2c1t2f142e1s3f152e1v2e1t2e1s3g142e1u2f122c1s1g1c2e1s3f192e1v3d1b2e1s3f1c2e1s3e1v2c1s3f142e1s3e182e1t2d1l2e1t2g1s2e1r2e1y2c1s2e1f2e1t2e1k2f1x2c1z2f1u2e1h142f1f1i1e1g3g1u1g1j2f1b1e1l1d191f1f1f1d1e1j1e1w1e1l3e1s3f1e2e1s1e1k2c1s3e1z2e1u2e1v2e1w1d1r2e1t1e1g2e1s1f1z2c1t2e1m2e1u1g1v2e1v2c152e1u2e1y2e1s3e1g2c1u2e1r2e1s1f162e1u2c1u2e1s2g1k2e1t2e112c1u2g1y2e1t2e1y2e1u3d1k2e1s2e182e1s3e1t2c1u2e1q2e1t1e1g2e1w2c142e1u2e1z2e1s2e1d2c1u2g1e2e1t3g1j2e1u2d182e1s3e1c2e1s3f1b2c1s3g1e2e1s3f182e1v3c192e1s3f172e1s3e1j2c1s2f182e1u3e1d2e1u1d192e1s3e1h2e1s3f1a2c1u3f192e1s3f192e1u3c1z2e1s2f192e1s3f1d2c1s1f192e1s3f1c2e1u3d172e1t3g1b2e1s2f1a2c1s3f182e1s2f172e1v3c1j2e1s2f182e1s3f1b2c1s3f172e1s3f1t2e1u2c1u2e1f1e1f3d143g1h2d182g1f2g1c1e1i3f1r3e1y2g1f2e1c1g1c3f1j3c1b2f1k1g183f1d3e1c1e1g3g141g1h1f121f1y2d1j3f183e121d1f1f1g3e1m1e1b3e1d3f1j3f153e1l1e1i1g1h1f1g2e1a1c1f2f161g1s1f1j3e1a1c181e181e181e1s3g1l3c1a1e1a1g123d1f3f1e1c1i2f1f3f1f1e121f163e1d3e1f3g1e3f1j1g1e2c192f141f1c1e1f3e1e1d1i3f1a1g1g1f1f3g1m3e1h2e1s3g1j3f152f1g3e142f1e2g1c1e1f2e1v2c1t3e1z2e1u2f1c2e1u3d1c2e1s3g192e1s1f1h2c1s1g1s2e1t2f162e1u3d152e1t2g142e1t1g1v2c1r1e162e1u1e1w2e1v3d1e2e1u3g1a2e1s1f1j2c1s3g172e1u2e162e1u3d172e1r1e1o2e1t3f1g2c1u1g1t2e1u1g172e1u3d1w2e1s3f1k2e1s3f1k2c1s3f142e1u3f1e2e1u3d1t2e1u2e1s2e1u1f1h2c1r2f152e1t3f1d2e1u3d152e1t3g192e1s1g182c1s1g1l2e1t1e1d2e1u3d1w2e1u3g102e1t2g1y2c1u2e1j2e1t3e182e1u2d172e1t3f1i2e1s3f1e2c1s3f152e1t3g182e1u3d1d2e1t3f1h2e1s2g1v2c1u3e1v2e1u2f1f2e1u3d1t2e1t3f182e1s3f1m2c1t1g1y2e1t3f1e2e1u3c102e1s1g1i2e1t1e1i2c1r1g1l2e1s2f1y2e1u1c1f3f1u1e1r2e1t3g1t2c1s3g1h2e1s3f1t2e1v3d1b2e1s3f1h2e1s1e1u2c1s1f1e2e1s2g1t2e1v2e1t2e1s2g1y2e1s1f1h2c1t3f1a2e1s3f1l2e1u1d1d2e1s3f1c2e1s3g1k2c1u3g162e1s3e1w2e1t1e1s2e1s2g1h2e1u2e1l2c1s1f172e1s2f1i2e1u3d1l2e1s1g1c2e1t2f1y2c1s1g172e1u3g1l2e1t1e162e1t1e1y2e1u2f1s2c1s3g1f2e1s2f1j2e1u1e1l2e1t3g1i2e1t3e1m2c1s1f1e2e1s2f1s2e1w2e1s2e1u1g1o2e1s3e1h2c1u1f1f2e1s3e1r2e1u3e172e1t3f1b2e1s2f1z2c1s3g1e2e1s2g1h2e1v2e1t2e1s2g1r2e1u1e122c1s3g1r2e1u1e1d2e1v1e1h2e1t1g1d2e1s1e112c1s3g142e1r2g162e1w2d1v2e1t2g1a2e1t2g1w2c1s2e1w2e1s1e192e1v2e1e2e1u2g1o2e1u1g1e2c1u1g192e1t2f1b2e1u1e1l2e1s1g142e1s1f1d2c1t2e1m2e1t2g1r2e1w1c102e1u1g1o2e1s1g1v2c1s2g172e1t3g152e1u3d1e2e1u2g102e1s1f1d2c1u1g1u2e1t2g1w2e1w1c1j2e1t2e182e1s2f192c1t3g1j2e1s1f162e1u3e152e1t2g182e1s3f1c2c1t3f1f2e1s2g1f2e1t1c162e1u1e1w2e1t3f1d2c1u3f1c2e1s1g1e2e1v3e1i2e1u2e162e1s3f192c1r2e1j2e1r1g1e2e1w2e1z2e1t1g162e1s2f1d2c1s1f182e1s1g1d2e1u1d1c2e1t3e142e1s3f192c1u3g1r2e1u2f1j2e1u2e142e1t1g1b2e1s2f1c2c1t3f1a2e1t3f182e1u1d1t2e1u2e1b2e1s3f1v2c1t2g142e1s3g1q2e1u2c1y2e1u2f1s2e1u2e1u1c183e1r2e162f1z1e141e1e1e1q1s1f1v1m1r1v121o','763a7m3q1v3q221a291u393v2z1d3q0z101m27212o193v2e1k193v1z1k1c2z173s3y112z141z153x392o1722361s3s2t223p1z3u242e153v392o1932241z3z1o252c1g3c2b381w2v3s11121m360w111229213v213b361w2v3u11101m3c182v2z3n1z223a231q25353e142z2v253e163s27111138231q27352c142z281y1a3s271y3u27163s291u2s271o2e113u261z113w261z3u263u2m3o0z1131293w121o272c2o1z1z23121z101o272c3o2m37322o1z3z213b213v3028163o0z1c1e2v2c292o142u1z101d211q1z3z3825373u253u273t133621111138371z21161h1z1c1o3e162t3z2r3e29213v212q1g27312e3b3w121m141d1c1c1d1g1e1f1c102f1m1c1c2e1r1e183e161g171e1k1c1m1f1d2c1q1f1t2c1t2e1v2e1q3c1u2e1u2e1e2c1w1e1x2c1q3e1t2c1u2c162e1q2e1k2e1w1c1k2c1w3e1f2c1s2f112c1s3c112e1r1d1s2e1u1d1u2c1u2e1s2c1r3g1x2c1u2c1x2e1s3e172e1w1d1y2c1v2g1o2c1q2f102c1t2e1q2e1r1c1s2e1v2c1s2c1u2e1w2c1q3e1b2c1u2e122e1q3c152e1v3e1t2c1u2f152c1q3f1z2c1s3d192e1q3d1c2e1u2d192c1u3f182c1q1f1b2c1t3e182e1q3d162e1u3d1v2c1u1f152c1r3f1e2c1s3d1a2e1q3d122e1u3d192c1w3f182c1q3f1a2c1s3d1j2e1q1d172e1u3d1d2c1u3f152c1q3f1v2c1s2d1b2e1q3d142e1u3d172c1v3e1g2c1q2f192c1s3d1b2e1q3d152e1w2c1u2c1u2e1c1c1d1e1r1e1c1c1m2f1b3c192e161c121d163f1q3d1a1g1w1d1w2d1l2f161d101d1e1e1e3d1r1e193c1d3f1l3e133d1q1e1g1d1f1f1i2c181c1e1f141e1q1f1l3c1c1c1i3g121d1f3g1b1e1c3d1u1g1k3c1d1e1e3d1c3d1e3f1d3d1d3f1e2d1b2d1g3f1c3d1c2g1u1c1f1c161g1q2e1d3f1t3b1c3d1e3e1d1c161e1e2e1b2c1e1g193d1e2e1e2c1c1e1m1e1b3c1e1f1i2c1j1d1v2e1q1d1h3e1f1e181c1f3g1g1d1d1e1i3c1r2c112e1r2c1f2e1u3d1s2c1u2e1f2c1q3f1l2c1t3e1e2e1s2c162e1u1d1c2c1u3e132c1r2e1r2c1u1e1l2e1q2e1p2e1w3d1d2c1u3e1b2c1q1f172c1s1d1b2e1q2c122e1w3e1d2c1u3f1j2c1s2g1h2c1r3e1v2e1r3e1i2e1u1e1o2c1w3g172c1q3g1c2c1s3e1e2e1s2c1j2e1u3e1c2c1u3g1t2c1p2g1z2c1s2c1l2e1q1e172e1u1d1t2c1u3g1f2c1q1f1b2c1t3d1b2e1s2e1q2e1u3d1b2c1w2e1i2c1s2g1h2c1u1c1t2e1r3e1r2e1u3d1j2c1u3f1r2c1q3f1d2c1t3e1f2e1q1c1p2e1u1d1d2c1u2g1r2c1s2g1x2c1u1c122e1r2e1s2e1u3e192c1u3g1b2c1q3f1a2c1s1e1d2e1s3d1x2e1u1d1d2c1t1f1r2c1r1g112c1u1c1u2e1s2c1q2e1w2c1t2c1w1f132c1r1g162c1t3d172e1r2c152e1v1e1k2c1v3f1j2c1r3g1h2c1u2d1z2e1q3d1a2e1u1d1k2c1u1g1g2c1s2g1w2c1s2d102e1q1c1b2e1u2e1d2c1v1g1a2c1r3g192c1u2e1k2e1q1d1a2e1w2e1b2c1v2g1h2c1r3e1z2c1u2d1c2e1q3d1a2e1u3e182c1v3g192c1q1f1s2c1t2d162e1q3d132e1v2e1t2c1u3g1w2c1s2e1q2c1t1e1h2e1s1e1a2e1v1e1i2c1v3f1d2c1q1f162c1u1c172e1q3d1a2e1w2c1p2c1t1g142c1r2g1e2c1u2e1l2e1s1e1a2e1w1e1c2c1u1f1d2c1q3f1a2c1s1e112e1q1d1c2e1v2c1r2c1u1e1g2c1p2f122c1t3d1d2e1q3d132e1u1d182c1u3f162c1q1f1l2c1t1c1d2e1q3d1u2e1w3c1t2c1w1e1q2c1q2e1w2c1t2e1w2e1r3c161e1u2c142c1w1e132c1q1f1d2c1s3d192e1r1d1h2e1u3e1j2c1u3e1t2c1q3f182c1s3c182e1p2c1d2e1u3d1g2c1w3g1r2c1s2g192c1s3d1w2e1r3d1e2e1u3e1b2c1u3f122c1s3f1d2c1s3d1t2e1s2c1r2e1w1c1r2c1v3g1r2c1q3f1l2c1s3d1t2e1q3d1f2e1u3d1o2c1u1e1p2c1q1f1f2c1s2e1t2e1s2e122e1w2c1j2c1u2g1p2c1s3f1f2c1s3c1d2e1r3d1d2e1v1d182c1v2e122c1s3f1f2c1s3d1l2e1r3e1r2e1u2e1v2c1w3e1t2c1s2f1e2c1s3d1t2e1q3e1g2e1u1e172c1u3g1w2c1r3f1d2c1s3d102e1q2e1e2e1v1d1y2c1w2e1q2c1q3f1j2c1s2d1j2e1q1d142e1u1e1c2c1v2e1k2c1q1f1f2c1s2d1s2e1p2e1e2e1u2e182c1v1e1u2c1s2g1u2c1s1c1w2e123c173e1b1c171g1i163e1d2d183g1r3c183e1w3e181e1i3e1j1c1j1e1j2c161b1g3f142c1s2g1v2c1s2d1r2e1s3e1v2e1u2e122c1u2g1y2c1r2g112c1q2c1s2e1s2e1t2e1v2c1t2c1t2e1v2c1q3f1y2c1s3c1q2e1s3e1f2e1u2c1x2c1s2e1e2c1q1e1k2c1q3c1z2e1u2c1t2e1w1d1p2c1t1e1g2c1q1f1z2c1r2c1m2e1u1e1t2e1v2c132c1u2e1y2c1q3e1g2c1s2c1r2e1s1d142e1w3c1e2c1s3f192c1s3f182c1q3d172e1s3d1c2e1u1d172c1s3f1v2c1q3f1b2c1q3c182e1s3d172e1w3e192c1s3f182c1q3f1a2c1q3d192e1u3d1t2e1u3d162c1s3e1c2c1q3f1b2c1r3e1d2e1s3d172e1u3d1i2c1s1f172c1s3g1e2c1q1d192e1u3c1o2e1u1d152c1t3e1i2c1q3f192c1q3d1e2e1s3d152e1u2c1x2c1s1e1k1c163f1m1e1h1e1f3e1i1d1k3f1t3b1d3e1f1f1b3e1f3f153d1j1c1i1f1h1d1e3e1a1c1d2d161g1c1e1h3e1f1c1e3d141f1h3e173f1e3d1q1e1m3e1c1c1b3f1u2d1k1c1b3e1c3e1a1e1r1e1d2e1j3g1d1c1q1f1r1e1k1e1m1g1p1e1d3f1m3d161c181e142d1b3f1f1c1k3c1f1f1g1e121g1e2c1e1c1d3f1c3d1d3e1k3c101c161g1k1d1f2e1u1e1o3d1f3g183e1i1f171d1i1c1f1e1d3d1q3e1e3d1q2e1l3e1d1c1u2e1j2c1p1c162e1u2c1u2e1v3d1c2c1u3f1c2c1q1g1f2c1r3e1i2e1t3c142e1u3d152c1r1e1j2c1p1g1i2c1s2e1z2e1t1e142e1u2d1c2c1s1f182c1q3g1e2c1q1d1c2e1t3c122e1u3d152c1u3g1r2c1s2f1q2c1q3e142e1t2e1c2e1u2d182c1t3f1a2c1r3f1c2c1q1d1t2e1u3c192e1u3d1r2c1t2g142c1q2g1t2c1s2c1j2e1t3c162e1u2d152c1t1f1b2c1r3g1k2c1r1e152e1t3e162e1u3d192c1t3f1f2c1s2e112c1r1e162e1t3c152e1v2c152c1t1f182c1q1f1e2c1q1d1a2e1u2c1x2e1u3d1a2c1s1f1w2c1p1e1t2c1r2d1s2e1s3c182e1u3d1r2c1s1f192c1r1f1c2c1q3e1v2e1s3d1b2e1u3d192c1s2g1p2c1s1g112c1s2e1s2e1s1e1r2e1w1e1v1c1u2g1w2c1q1f1h2c1r3d1c2e1s3c1j2e1u1d172c1s1f192c1r3g1k2c1s3e182e1s3c1u2e1t1c1r2c1r2e1x2c1s3g1l2c1r3d1f2e1s3d192e1u3e192c1s3f1g2c1q3f1w2c1s2d162e1s3d1p2e1w2e1f2c1u2e1x2c1r2e1h2c1q3e1s2e1s2c1f2e1v3d1b2c1s3g1j2c1s2e182c1q1e1f2e1s3c132e1u2e1r2c1t3g1j2c1q3e1h2c1s3d1h2e1s3c1p2e1u3e1g2c1s1f1g2c1r2f1z2c1q3e1d2e1s2e1f2e1v2c1p2c1s3g1z2c1s2f122c1q1e1e2e1s3d172e1u3d1g2c1s1f1j2c1q3e1v2c1q3d162e1s3c162e1t2c1j2c1t2e1h2c1q1g192c1q3d1t2e1s3e1f2e1u3e1k2c1s3g182c1s2g1s2c1q3d1e2e1u2c1i2e1v1e1e2c1r2e1u2c1s3g1l2c1q3e1h2e1u3c1u2e1w1c1y2c1u1g1o2c1q1g1t2c1q2e1f2e1s1e182e1v1e1c2c1u2g102c1q1g1e2c1s1e1u2e1u2c1r2e1t2e1r2c1t3g1k2c1q3g1l2c1s3e1j2e1s1d172e1u1d162c1u2e1o2c1q3g1c2c1q3e1t2e1r1e1x2e1v1e142c1t3e172c1r2e172c1r1d192e1t1e152e1v3d162c1u2e1z2c1q3f1c2c1q1d1w2e1r1c1t2e1w2e1x2c1t1g162c1q2f1e2c1q1d1h2e1s1e1a2e1u3d1d2c1t3e142c1q3f172c1s3e1r2e1r2e1p2e1w1c1y2c1t2g1u2c1q3e192c1q3e1g2e1s3e152e1v3e1d2c1u3f1z2c1q1f1d2c1p2d1r2e1t1e122e1w2c1o2c1t1g1h2c1r1g1c2c1r3d192e1s3d1c2e1v3e142c1u1e172c1q3f1c2c1s2c1x2e1r2c1q2e1w2c1q2c1u1g1z2c1s1e1u2c1w2d1z2e1x2c1s2e191s1j2e1e3g1c1c1g3e1r1e1h1d1k1e1d3c1e1f1i1d1e2c1h1g1b2c132e1w1c1j2c1t2e152c1q1e1q2c1q3e1f2e1u2c1c2e1u3e1e2c1u1f1x2c1r2g1l2c1s3e1t2e1u3e1x2e1u2c1a2c1u1e1x2c1s2e1j2c1q1c1u2e1s2c1u2e1v2c1y2c1u2e1z2c1r2f1w2c1q1c152e1t3e1w2e1w2c132c1t3g1u2c1s1e1m2c1s1c1z2e1u1c1v2e1u2d1u2c1t2e1t2c1q2f192c1r3c1z2e1s3d162e1u3c1c2c1s3f192c1s3f1f2c1q3d182e1s3d1b2e1u2d152c1t3f1z2c1q3f192c1q3c1k2e1s3d152e1u3d142c1s1f192c1q3f172c1q3d182e1s3d1t2e1u2d172c1s3g1g2c1q2f1b2c1q3d1e2e1s1d152e1u3c1o2c1s3f192c1s3f1v2c1q3d182e1u3e1w2e1u3d152c1s3f192c1q3f192c1q2c1u2e1s2e1d1e143e173d1q1e1p3d1p3d1f3d1d3c1b2e1p3c1w2f1m3e1d1c1f1g1p3c1b1e1a3e111e1h2e1b2d1i1f1e3c1e2c1s1g1c3e1d1e1l3c1b2d1b3g1j3d163e142c171e1f1g1g3d1e2e1e3d1q1e1k3e1o1c1g1f1j3e1a2e1k3g1k1d1i3f1m3e1d3d1f3g1j1e1f3f163c1d2e1f3f1s3c1b1e1e1c1g2e121g141d1d1f1d1e1f3b1s2f1s2d1d3e1f2e121e1l1g1a1e1g3e1l1c1d2e1f3e1x1c102e1b3d1q2d1b3f1w1e1q1g1h3c1u2c1u1e102c1r2g1u2c1q3c192e1s3e182e1u1e1f2c1s3g1k2c1s3f1z2c1q1e1d2e1r1d1r2e1v2e1f2c1s2g1h2c1s2e1l2c1q1d192e1s2d172e1u1d1f2c1s3f1a2c1r2f1y2c1q1e192e1u3e1j2e1t1e142c1t2g1e2c1s2g1l2c1s1e1c2e1u1d152e1u3d162c1t3g192c1q1g112c1q1d1e2e1t2c1p2e1u1c1g2c1u2g1w2c1q2f102c1q1c1d2e1s2e162e1v3d1i2c1t1f1b2c1s2g1k2c1q1e1c2e1u2e192e1u2e1q2c1s2g1r2c1s1e122c1q3e1t2e1u1c1c2e1v1e1c2c1s3f1a2c1q1e112c1q3e162e1r2e142e1v2c1t2c1r1e162c1s1e1w2c1r3d1e2e1u1d182e1v1d162c1t3g1d2c1s2e162c1q3d172e1r1c1j2e1v3c1d2c1t2e1h2c1r2e1v2c1s3e1l2e103d1f2e1t2d132c1t3f1d2c1q3f122c1r3e172e1s1e162e1u3e1j2c1t1e1d2c1q3f1w2c1s3e1y2e1t2e1w2e1w1c1h2c1t3e182c1q2f172c1r1d1g2e1s3d1c2e1u3d132c1t3g182c1q3f1d2c1r3d1f2e1s2e1t2e1w3c1t2c1u2f1c2c1q3f1t2c1r3d162e1s3d1k2e1v3e1w2c1t3f1b2c1q3f102c1q2e1g2e1t1c1e2e1w3e1r2c1u1g172c1q3f1w2c1q3e1i2e1t3d182e1v1d122c1u3f1b2c1q3f1t2c1s2e1w2e1s2d1j2e1u2e122c1t1g1b2c1q2f1d2c1q3d162e1t3d1c2e1u3d1r2c1u3e1b2c1q3f1t2c1r2e1v2e1s2e1w2e1u1c1f2c1t3f1c2c1q3f1l2c1q2d1k2e1s3d1g2e1u2e1i2c1u3g182c1q3e1w2c1p1e1t2e1s1e1q2e1w2c1r2c1u1e1s2c1s1f1m2c1r1d1w2e1u2d1o2e1u3e1f2c1s2f1j2c1q1g1q2c1r3e1g2e1t3c1i2e1u3d1b2c1s2f1s2c1s2g1u2c1s2e1j2e1s3c1d2e1w3d1f2c1s3e1r2c1q3g192c1r1e192e1s2d1v2e1u3e1b2c1s2g1h2c1r2g1v2c1q3e1m2e1u1c1y2e1u3e1r2c1u1e1d2c1r1g1j2c1r1e1b2e1s1c1x2e1u3e142c1r2g162c1s2f1x2c1q2e1f2e1u2c1h2e1u3d172c1s2f1a2c1q3g1f2c1q1d152e1t3d1u2e1u3e172c1u2g1o2c1s2g1k2c1s2c1x2e1t2c1d2e1u3e1q2c1s2e1h2c1r3g1e2c1q3d1k2e1u2c142e1u3e1d2c1s3e152c1q2g1v2c1s2c1y2e1u1e1h2e1u1e1r2c1s1g1a2c1q1f1e2c1r1d1h2e1u3e1w2e1u3e1c2c1u1g1w2c1r2g102c1r3d1u2e1t3c1r2e1w1c1v2c1f3e172d1s3f1y3d1f172k2e2f1j1f1l2j2f1e2e1h16','2907e2925313y351w391e27323o1b3v3e1d3o021z1o273z2q2m273e2o2o2w253a1e252z1i3e29381a2x3u1z211m380y1z2139233x3z2b361c2x3s113z1o21162v3z2p11303a231s27332e14212x232e1w3u291z1138251s25353c1631261y1011161z153v3b2q1721341u3u2t213n113w242e133x3b2o192z36121z1o23113w26113u28113u281z3w2q3z2b213x3e29233v2b233v272y3b3x2c111z2435143q00323e293y121o3e1b3q0z312m22113z1o211z113s29113z1f393x3e181y10322x3u2u333e121z1e1m11153v29211v322o14232722332e1628352z1f1e1a3e1421261y111011303u291z121m3u370z21223516331m1j3f1l1e1k1d1h1e1q3f1j2g1q3d1f3e1a3g1k1g1i1e1h2d1e3c1u3f1k2e1t3e1z2c1u3e102e1t2e1y2e1s3d1k2c1u3e182e1s3e1r2c1u2c1s2e1t1e1g2e1u3c142c1w2e1z2e1s2e1b2c1u2e1g2e1t3g1j2e1s2c1u2c1u1g142e1u2g1r2c1s2c112e1u2e1g2e1u3c1t2c1w3g1w2e1t2e1t2c1u2e1i2e1t2e1x2e1u2d1y2c1w2e182e1s2g1x2c1u2e1d2e1s1f162e1u3e1v2c1u3f192e1s3f192c1s1d1a2e1s3f1z2e1s3d192c1u3e1i2e1s2f172c1u3d162e1s2f172e1t3d1l2c1u2f192e1u3f142c1s3d1b2e1u3e1c2e1s3d172c1w3f1d2e1s3f172c1t3d1e2e1s3f172e1s3e1b2c1u2f172e1t3f1z2c1s3d182e1u3g1a2e1s2d182c1w3g1v2e1s3f172c1s3d1b2e1s3f1u2e1s2c1u2c1h1e1h3f1g1g1g3e1u1d162g1s2g1d3e1i1d121d163f1g1e1g3e1s2e1q3e1e1e1j3e1c1f1b1d1j2d1a1g123e193f1f1e1g3d1i2e1c3f1s3g1k1c1l1c1k1g1h3f1c1e1h1c1b2d1m1g183f1c3e1a1d1g3e161f1h1e121e1a1c1a1c1c1e1a3f1p1g1s2d1b2d1d1f1p3f1c3f1g1e1d1d1r3e122e143g101c1f3d1e1g1k3f1t1g1s2c1d1d1c3g1s1e1s3e1g3d1e3e161f1i1g1s1f1g1c1u2d1j1f1c3e1c1g1k1c123e1e1f1g1g182g1v2c1t3d1s2e1s3e1a2e1s3d1t2c1v1f1c2e1s3g1c2c1t1e1v2e1s3f1d2e1s3d1b2c1u2g1r2e1t2g1j2c1t3c1z2e1u2f1c2e1s3d1c2c1u1f1i2e1t3g1m2c1t1d1s2e1t2f162e1s3d152c1v2g1t2e1s3g142c1u2d122e1s1f1b2e1s3d192c1v3f1b2e1s3f1f2c1s3c1v2e1s3f162e1s3c182c1t3f1o2e1t3g1z2c1u3e1l2e1t3f1c2e1s3d1b2c1v1g1b2e1s1g182c1s1d1w2e1u2f162e1s3d1r2c1w1g1o2e1r1e1i2c1r2d122e1t2f1d2e1s3d152c1v3f1d2e1s3f1a2c1s3d1l2e1t1e1d2e1s3d1w2c1w3e1t2e1u1g1j2c1s3e1u2e1u3f1d2e1s3c1d2c1u3f1a2e1s3f1k2c1s2c112e1u3g1d2e1s3d1l2c1w2g1h2e1s2e1l2c1u2c1x2e1t3g1s2e1u2c1f3c1w2e1j2e1s1g192c1s1d1t2e1s3g1f2e1s3d1b2c1v3f192e1u2g1s2c1s3d1e2e1u2e1i2e1u1e1h2c1w1e1r2e1t3g1t2c1s3d1j2e1s3f1r2e1s3d1d2c1v3g1d2e1s1e1r2c1s1d1d2e1s2g1r2e1u2e1x2c1w1e102e1t2g1u2c1s3c192e1s3g1b2e1s3d1a2c1u1g1b2e1u3f1z2c1s1d1d2e1r1f1r2e1t1e142c1u3g1t2e1t3g1k2c1s1e1l2e1u3g1i2e1s1e182c1u1g1c2e1u2e1l2c1s3e1c2e1s3g1t2e1r1e1l2c1v1e1y2e1u2e1s2c1s3d1h2e1s2f1h2e1t1e1d2c1v3g1d2e1t3e1m2c1s1d1d2e1s2f1q2e1r2e1i2c1w2g1w2e1s2f102c1s1c1d2e1s2g1j2e1s1e1e2c1u1f1h2e1u2g1k2c1s1d1c2e1u2g192e1t3e1j2c1v1e1t2e1u1g1x2c1t3e122e1f2e1w2e1u2c1l2c1v1g1h2e1u1g1c2c1t1e1k2e1t3f1d2e1s1d142c1w1e172e1s3f1c2c1u2c1r2e1r1g142e1t3e1f2c1w2g1o2e1u1g1c2c1u1e1e2e1s1f1d2e1s3d182c1u1g142e1s3f1e2c1t2c1t2e1s1e1g2e1r2d102c1v3f1d2e1s3f152c1s2d1a2e1s3f162e1s1d1j2c1v1e1d2e1s3f1w2c1u3c1v2e1u1e1t2e1t3c1x2c1w2f1c2e1s3f1c2c1s3e1b2e1s1f1f2e1s1d1q2c1v2f162e1s3f152c1t2e162e1t1g1t2e1r1c142c1w1e1w2e1t3f1e2c1u3e1c2e1s1f1h2e1s3d152c1w2e162e1s3f172c1r2c1q2e1t3f1e2e1u1e1r2c1w1g172e1s3f1w2c1s3d1m2e1s3f1i2e1s3d1z2c1w3f1b2e1s3f1t2c1u2c1u2e1u1g1v2e1s3e1f2c1w3e1r2e1r2e1f1c1s2c182e103e1f341j2c3g173f1s1c191c153g103e121g1k3d171e1g2g1i1e1v3g1k3e152c1v3g1t2e1s2e1x2c1u2e1b2e1s1f1w2e1v2e1q2c1u2f1w2e1r2g1q2c1t1c1w2e1r2e1q2e1u3c1y2c1u3e172e1s2g122c1s3c192e1r3g1x2e1u3c1w2c1w1e1j2e1r2e172c1s1c1q2e1q3g1d2e1w2c1e2c1u3g1e2e1s1f1z2c1t2e1l2e1s2g1r2e1w3e1z2c1u2e1a2e1s1e1z2c1u2c1j2e1q1f162e1w3d1a2c1u3f172e1q3f1c2c1s3d1b2e1s3f1j2e1u3d192c1v3e1b2e1q1f1a2c1u3d172e1q3f152e1v3d1d2c1u3f162e1s3g122c1s3d1a2e1q3f172e1u3d182c1u3e152e1q3f192c1s3c1f2e1q3f152e1u3e1l2c1u3f172e1s3f1e2c1s3d192e1q3f1h2e1u2d182c1w3f1c2e1q3f192c1s3d1d2e1q2e1x2e1u2c1k1c1j3e1d2f1c1e1j3b1f3d1e3e192e123e123b1d3e1a1f171g1d1g1i3d1g3c1e3f1d2g1i3e1q1c1i1d1j1f1a1e1f3e1d2d1k3d1a3f1d3e181f1i3d141d1j3e101g1u2f1l1d181c141d1b1g1c3f1r1c1b3c1e3f1h3g1c3f1g3e1e3d1g3e1d3f1d1f1m3e1k3d1y1f122e1c1e1d1c1d1e1j3f1k3e1w3g1e2e132c1c3f122f1d3e1i1c1i3c1e1e1q2g1k1e1e2e1b3d163g1b2g1g1f1m1e1h3c141f121e181f1t1e1b3c1g1e1w2e1q2g1h2c1u2c1q2e1q3f172e1u2d1a2c1u3g1b2e1q1f172c1t2d102e1q3g172e1w3e1l2c1w2e1g2e1s2e1z2c1t2c1j2e1q3g1q2e1u2c1h2c1v3g1d2e1q3f1m2c1u2c1a2e1q1g1d2e1u3c152c1u2g1r2e1s1e102c1u1e1q2e1q1g1r2e1u2e1a2c1u1f1a2e1r1f1j2c1u2e122e1q1g1c2e1w1e1w2c1v2g1w2e1q2g1r2c1u1c172e1q3g1r2e1w2c1i2c1v3f162e1q3g1l2c1s1c162e1q3g142e1t2e162c1w2g1q2e1r2e1j2c1s1e1b2e1q3f1r2e1u3e1h2c1u3g1g2e1q1f1j2c1u2e1u2e1q3f1c2e1w2c1k2c1v1e1e2e1s2g1z2c1t1e182e1q2f1c2e1u1e1k2c1v3g1b2e1r1f1f2c1t3c162e1q3f152e1w3e1t2c1v2f1j2e1s2e1u2c1r2c1h2e1r2f1f2e1m3c1r2c1w2e1h2e1r3e182c1s2d172e1r1f1b2e1v3e1i2c1v1f132e1r3g182c1s3d1b2e1r3f1f2e1w2e1z2c1v1g142e1r3f172c1t2c172e1r1g182e1u1d1c2c1u1f182e1s2f1z2c1s3d1c2e1q1f1w2e1t1c1r2c1v2f1q2e1q3e1a2c1s3d1t2e1q1f192e1v1d1a2c1u3f1t2e1q3f1d2c1s3d1b2e1q2g1p2e1w1e182c1u3f122e1r1g1e2c1s2d1b2e1q1f1d2e1u3d1h2c1u3g1r2e1s3f1b2c1s3d1t2e1r2g1q2e1v2e142c1w2e1o2e1r1g1h2c1u1e1c2e1r1f152e1u3d1h2c1v3f142e1s1e172c1s3d1c2e1s2e1x2e1t2c1z2c1w3g1j2e1r3f1f2c1s3d1b2e1q3g1c2e1u3d1d2c1v3e1u2e1s2f162c1s3d1r2e1s2g1f2e1w2e1v2c1u2g162e1r1g102c1s2e1c1e1r2g1h2e1u3c1h2c1w3f1f2e1q3e1t2c1s3e1i2e1q1f1e2e1v2d1z2c1u3f1b2e1q2g1j2c1t2c1r2e1q3g1x2e1w2d152c1u1f1c2e1q3f1b2c1s3d1i2e1q1g1h2e1u3c1v2c1u3f142e1q3e1a2c1r2c1l2e1r2e1f2e1u1e192c1u3f1r2e1q3g1j2c1s3e1m2e1q3g162e1w2e1s2c1u3f1c2e1s2e1m2c1t1c1g2e1p2e1v2e1v2c1h2c1u3f1q2e1q2e1j2c1s3d1l2e1r3g1b2e1w2c182c1u3f1d2e1q3e172c1t2c1r2e1s1g1f2e1u2e1r2c1w3f1b2e1q3e1f2c1s1d172e1q2f152e1u2c142c1w3f1b2e1q3f1q2c1u2e1h2e1p3g1p2e1v3e1k2c1u3g1j2e1s3g1b2c1s3e1c2e1q1g1b2e1w2c1l2c1u3f1a2e1q3g1x2c1r1e1z2e1s2f1t2e1w2d1k2c1t1g1j2e1q1f1u2c1v2d1x2f1t141c1l1r1e1c1c1m2g121g1c3g1j1d1e3e161f1g1g1h1g1v2c1i1e1y2e1p1g1e2e1w1c1u2c1v2e1i2e1s2e182c1s2e1r2e1q1f172e1w2e1m2c1w1g1v2e1q2g102c1s3d122e1q2e1u2e1u1d1k2c1t2g1t2e1r3g1i2c1s2c1w2e1q1f1p2e1v3e1t2c1u2e1u2e1q2g1g2c1u1c112e1q3e1p2e1w2c142c1u2g1k2e1s1e1m2c1u3c1j2e1s2f1x2e1u3c1z2c1v1f1s2e1q1f192c1t3c182e1q1f162e1w3d182c1u3f152e1q3e1d2c1s3d192e1s3g1r2e1u1d192c1u3f1c2e1q3f192c1s3e182e1q1f172e1u3d1g2c1u3f152e1s3f162c1s2d1b2e1q3f1x2e1u1d192c1u3g1u2e1q3f1b2c1t3d1d2e1q3f152e1u3c1e2c1u3f162e1r3f1b2c1s1d192e1r3e172e1u3d172c1u3f172e1q2e1w2c1s2c1y1e1d1e103e181c1k3e1d3e121e101f162e1s2c1d3e1o1e163e1e1c1g3e161g1f3g171g1e3d1s1e1r3e1b1e1d3f1u2d1m1c1d3e1b3g1a3e1r1e1f1e1e3g1d1e1q1f1e3c1d1d181g1q1f191g1l3d1f3e1i3f1e2e1d1e1s3d1c3d1l3f163f122e1c1c1f3d1e3f163g1d3g1r3c121d163e1c1e1b3f1u3d1i1d1e3g1k1g1b1e161c1s3d1r3e161e1r3e1e1e1g1e1k3f151g1c3e1q1c1f1c1e2e1q1f1d3g1r1e1f3c1m1g1k3e101f1w2c1j2c1u2g1p2e1s3f1f2c1s3c1d2e1r3f1f2e1v1d182c1v2e122e1s3g1f2c1s3d1l2e1r3g1q2e1u2e1v2c1w3e1t2e1s2f1e2c1s3d1t2e1q3g1i2e1u1e172c1u3g1w2e1r3f1d2c1s3d102e1q2g1g2e1v1d1y2c1w2e1q2e1q3g1j2c1s2d1j2e1q1f162e1u1d1c2c1v3e1k2e1q3f1f2c1s2d1s2e1p2g1g2e1w1c1r2c1v3g1r2e1q3g1l2c1s3d1t2e1r3g192e1u3d1h2c1u1e1p2e1q1f1f2c1s2e1t2e1r3g1r2e1u2e1y2c1u1e1f2e1r3f1e2c1s3d1l2e1q1f1b2e1u3d1f2c1u3g1i2e1s3g1a2c1s3c1w2e1p1g1q2e1u2e1h2c1w2g1j2e1q3f1b2c1s2d1i2e1q3f1j2e1u1e1c2c1v2e1w2e1q3g1b2c1u3e1l2e1p1g142e1v1e1x2c1w1e1s2e1q2e1a2c1s1c102e1s2g1s2e1u2d102c1u1e1b2e1q2g1a2c1t3d1k2e1r1f1a2e1w2e1k2c1u3f1a2e1s2g1d2c1s2e1v2e1q2g1k2e1w1c152c1u3g1r2e1s1e1d2c1t1e1e2e1q1f162e1u1c142c1u3g142e1p2g182c1t2c1v2e1p1e122e1w1c1w2c1v3f1c2e1s1f1c2c1t1d182e1r3g1c2e1w2c162c1u3f152e1p1e1q2c1t3d1f2e1r2g1d2e1w2e1l2c1w1g1a2e1s1g1d2c1t1d1d2e1q1g1h2e1u1e142c1u3f1c2e1r2e1t2c1s2e1t2e1s2e1w2e1w1e1l2c1u1g1r2e1q2g1b2c1t3e172e1q3f1a2e1w2e102c1u3g1c2e1s1g1y2c1t2e1y2e1s2e1f2e1v3c182c1u2f152e1r3g1q2c1s1d182e1q3g1y2e1v3e182c1u3f182e1r3f1j2c1s2e1m2e1s3g1r2e1w2c1l2c1w2e1i2e1q3e1i2c1u1e1v2e1s2g132e1u3d1u2c1u3g1i2e1r3f1c2c1t1d162e1s3f1a2e1u1d1r2c1w1g1w2e1q2f1q2c1s3d162e1r2g1a2e1u2d1b2c1u3f162e1r3f1d2c1s3d1v2e1s3f172e1u1d1r2c1v2g1v2e1q2g102c1s1c1j2e1r3f182e1u3d1j2c1u1f1k2e1q3f1k2c1s3e1m2e1s3g142e1u3c1u2c1t1g1q2e1q1g1x2c1u3c1x2e1s2f1b2e1u1d1r2c1u3f172e1r3g1j2c1s1e102e1r3f1a2e1u3d1y2c1u1f1x2e1r1e1t2c1t2d1u2e1q3e162e1u1d1r2c1u3f1c2e1q3g1d2c1s3d1x2e1q3f1c2e1u3d192c1u2g1p2e1s1g1q2c1s3c1j2e1s1f1d2e1u3c1m2c1u3g1i2e1q3g1k2c1s2c112e1q3g1c2e1u2e1f2c1v3e1r2e1q2e172c1t2e172e1r2e1h2e1v2e163c1x2f143e162e141q1u1r1h2d2e1s2q1i2u2j161','c73e11d4148a04c384c6fc4953be3f84'));</script>
+<!-- <script src="/util/client.js?c=mb2hdMz%2FTTzGcncn0XOHmNFBQs6gUCx059%2BlIwqssM%2Fco5MDTUFVWT%2BWqhAKK0SnvQQR2WbHUhfg2uCbly%2BhOSCENlVdZEBFDxoqTli8cuRyL%2BD0M5UeGlKbryX16bEXqMs%2FzbqATJQ28Y8A6gq0fWd1lvrZ7xDQxCoLEvhOLe7k26y%2Fq%2BqfCJBSQXQC8IoHKfhDCefjvubT%2BkJDYpVS5FWJQogxHMJ%2FaKGf4O3Dcsi5xDZG3Y%2BjslVefSMlwLnCeY%2FhKs8QSHDd7sCsJnOo6Apg0ugOzKGRSfwlzOXYsM5u%2B%2BRBwrvlwciGxXpduJK6tYiF%2Bwzh5RMUWO8YKlVvwJI18OevVN%2FGM0YZGP4Q6JL%2Bos4GYcDn%2Fdr%2B%2FK7tIdEBcnpnCnFTVMfKpLctGJyjv1M0ZgVL3XrpDxrhETXG4F%2FD4CJEE65x1sdZmtxBeaG2S%2BAwK%2BOYSpnXtQ62uj82sfXFwNXhvaVMj99%2FjbqJ9vneOft%2FMIU%2B7ldttzTRlX0MH9fPsd7Twb1LDOpl816TzojyS%2FYU3M77xJ31cFCAB38ttOYpZ5umzLMInJf2s2VZXrzhUXhr8HXcrJeXllMwUSMXfQa5UaX9hY7%2BSlCAtATCmFc1kGjk82V4nP%2FYRIwSB8sI5Vx0bgtUe%2FJGOc8IQEyrmpxzFoxM0BAqIfcmdz3W6xCmty6w4bm8RvTvzyWswYcUcOR0ldtIX1cCugwLqpZtgWdp%2BJawwQ0BQufK2FL%2Bf6g14aSLezITWBo67O5AKUZT0uUw21zsRq8nseKcmdf%2FbtvfOGfUCQk2hMOfyJxMKBuW9hzLGXFpv31z6yeQJ5VeM80sE2NfBJ69gyQbLcp%2BQhN%2FbXkzscUo8eiLS0UM%2FI1L2nZNi%2F4c4h1%2FURFHVRqDTUAPCNOHrT%2Bi%2FM9Ij8vm49BAwD%2FHF8U%2FMb7k8NK8cM97TFzbefZeNO%2B8iR%2Fmlt2Ei1GCDE2lsNA3VEQ2Zd6EDehNJ3eMigI%2FQEPmT5mKZ5DMjwpp7%2FQaMt5jQU8Fmzt3gllGw%2Bf5Vh2nPxGppb1OhnJPqzMHlKFK2RNEZgGZvaF0zP9NPMZydyfRc4eY0UFCzqBQLHTn36UjCqywz9yjkwNNQVVZP5aqEAorRKe9BBHZZsdSF%2BDa4JuXL6E5IIQ2VV1kQEUPGipOWLxy5HIv4PQzlR4aUpuvJfXpsReoyz%2FNuoBMlDbxjwDqCrR9Z3WW%2BtnvENDEKgsS%2BE4t7uTbrL%2Br6p8IkFJBdALwigcp%2BEMJ5%2BO%2B5tP6QkNilVLkVYlCiDEcwn9ooZ%2Fg7cNyyLnENkbdj6OyVV59IyXAucJ5j%2BEqzxBIcN3uwKwmc6joCmDS6A7MoZFJ%2FCXM5diwzm775EHCu%2BXByIbFel24krq1iIX7DOHlExRY7xgqVW%2FAkjXw569U38YzRhkY%2FhDokv6izgZhwOf92v78ru0h0QFyemcKcVNUx8qkty0YnKO%2FUzRmBUvdeukPGuERNcbgX8PgIkQTrnHWx1ma3EF5obZL4DAr45hKmde1Dra6Pzax9cXA1eG9pUyP33%2BNuon2%2Bd45%2B38whT7uV223NNGVfQwf18%2Bx3tPBvUsM6mXzXpPOiPJL9hTczvvEnfVwUIAHfy205ilnm6bMswicl%2FazZVlevOFReGvwddysl5eWUzBRIxd9BrlRpf2Fjv5KUIC0BMKYVzWQaOTzZXic%2F9hEjBIHywjlXHRuC1R78kY5zwhATKuanHMWjEzQECoh9yZ3PdbrEKa3LrDhubxG9O%2FPJazBhxRw5HSV20hfVwK6DAuqlm2BZ2n4lrDBDQFC58rYUv5%2FqDXhpIt7MhNYGjrs7kApRlPS5TDbXOxGryex4pyZ1%2F9u2984Z9QJCTaEw5%2FInEwoG5b2HMsZcWm%2FfXPrJ5AnlV4zzSwTY18Enr2DJBstyn5CE39teTOxxSjx6ItLRQz8jUvadk2L%2FhziHX9REUdVGoNNQA8I04etP6L8z0iPy%2Bbj0EDAP8cXxT8xvuTw0rxwz3tMXNt59l4077yJH%2BaW3YSLUYIMTaWw0DdURDZl3oQN6E0nd4yKAj9AQ%2BZPmYpnkMyPCmnv9Boy3mNBTwWbO3eCWUbD5%2FlWHac%2FEamlvU6Gck%2BrMweUoUrZE0RmAUEfMymE%2FVXsSJzsn9Dav7NR21GP5ypNQf0MU67UiwUB"></script> //-->
+<script>	
+var related_videos=new Array; var obj;
+
+obj = {thumb: 'https://cdn.traileraddict.com/jwrelated/unknown/the-a-list/1.jpg',url: 'http://www.traileraddict.com/the-a-list/the-date',title: 'The Date'}; 
+related_videos.push(obj);
+		obj = {thumb: 'https://cdn.traileraddict.com/jwrelated/unknown/the-a-list/1.jpg',url: 'http://www.traileraddict.com/the-a-list/the-quarterback',title: 'The Quarterback'}; 
+related_videos.push(obj);
+		
+nuevo = {
+  controlBar: {
+    volumeMenuButton: { inline: false, vertical: true },
+        children: [ 'liveDisplay','playToggle','currentTimeDisplay','remainingTimeDisplay','progressControl','durationDisplay','volumeMenuButton','fullscreenToggle'],
+    },
+  "techOrder": ["html5","flash"]
+};
+//var player = videojs('my-player');
+
+
+
+var player = videojs('trailerplayer',nuevo,function(){ 
+  player.nuevoPlugin({
+    shareTitle:'The A-List Trailer (2014)',
+    shareUrl:'https://www.traileraddict.com/the-a-list/trailer',  //optional
+    shareEmbed:'<link rel="stylesheet" type="text/css" href="//cdn.traileraddict.com/css/rembed.css"><div class="outer-embed-ta"><iframe width="100%" src="//v.traileraddict.com/95161" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" class="embed-ta"></iframe></div><p><a href="https://www.traileraddict.com/the-a-list/trailer">Trailer</a> for <a href="https://www.traileraddict.com/the-a-list">The A-List</a> on <a href="https://www.traileraddict.com">TrailerAddict</a>.</p>', //optional
+    related: related_videos,
+    endAction: 'related'
+  });
+  		
+});
+player.ready(function(){
+  //setTimeout(function(){ 
+  	player.on('nuevoReady', function() { 
+	    /*var homebutton = player.controlBar.addChild('button', {},0);
+	    homebutton.controlText('Trailer Addict');
+	    homebutton.on('click', function(){
+	        window.top.location.href = "https://www.traileraddict.com"; 
+	      });
+	    homebutton.addClass("bar-home");*/
+	    var myButton = player.controlBar.addChild('button', {}, 7);
+	  nextuptitle = "The A-List The Date";
+	  myButton.controlText('Next Up: '+nextuptitle+'');
+	  myButton.on('click', function(){
+	      console.log('https://www.traileraddict.com/the a list/the-date');
+	      window.top.location.href = "https://www.traileraddict.com/the a list/the-date"; 
+	    });
+	  myButton.addClass("html-nextup");
+
+	  	    //player.controlBar.el().insertBefore(homebutton.el(), player.controlBar.fullscreenToggle.el());
+	    isPlaying = false;
+	    if(!isMobile.any()) {
+		    player.theaterMode({ elementToToggle: 'trailer_addict_video_frame', className: 'theater-mode' });
+			  player.on('theaterMode', function(elm, data) {});
+			  $(document).on('click', ".vjs-theater-mode-control-open,.vjs-theater-mode-control-close", function() {
+			  expandtaplayer();
+			  });
+		} else {
+		    	$("#settings_button").remove();
+		}
+		playcount = 1;
+		player.on("play", function(){
+			isPlaying = true;
+			console.log('play start out');
+			if(playcount == 1) {
+				$(".video-js .vjs-control-bar").css("visibility","visible");
+				$("#trailerplayer_ima-ad-container").css("z-index", "1111");
+				console.log('play start');
+			}
+			playcount++;
+			//$(".connatix").remove();
+			//look over here for ezoic tag!
+			//<!-- EZOIC_REMOVE_BEGIN -->
+			$('[id^="google_ads_iframe"]').remove();
+			 //<!-- EZOIC_REMOVE_END -->  
+
+			$("#chain_ad").html('');
+			if ( $( "#in_content_ad" ).length ) {
+				$("#in_content_ad").html('');
+			}
+		});
+		player.on("pause", function(){
+			//radad();
+			console.log('paused');
+			if(isPlaying===false) {
+				//freestar.freestarReloadAllAdSlots();
+			}
+		});
+
+			
+	});
+		  //}, 20);
+  
+});  
+
+
+ player.on('ended', function() {
+ 	isPlaying=false;
+ 	console.log('ended');
+    //alert('video is done!');
+    //$(".vjs-poster").removeClass("vjs-hidden");
+  });
+
+  
+  /*player.upnext({
+    timeout : 5000,
+    headText : 'Up Next',
+    cancelText: 'Cancel',
+    getTitle : function() { return 'Another Trailer For You!' },
+    next : function () { next() }
+  });
+   function next(){
+      alert("Video ended");
+    } */
+
+
+/*var homebutton = player.controlBar.addChild('button', {
+    text: "TrailerAddict"
+  }, 0);
+homebutton.controlText('Trailer Addict');
+homebutton.on('click', function(){
+      console.log('Trailer Addict Clicked!');
+    });
+homebutton.addClass("bar-home");*/
+
+
+
+
+			
+		
+		
+//}); //end element ready
+	
+	
+// FF tricks
+$(document).ready(function(){
+	
+		/*$('#player_choice').click(function(){
+			var playoption = $.cookie('playoption');
+			if(playoption && playoption == 'html5') {
+				$.cookie('playoption', 'flash', { expires: 60, path: '/' });
+				location.reload();
+			} else {
+				var url=confirm("TrailerAddict supports HTML5! \n\nHTML5 will kick in automagically if your device does not accept flash. You can however force HTML5 for your desktop PC/Mac!\n\nAdvantages:\n\t\u2022 Faster Load Times\n\t\u2022 Smoother video on newer and updated desktops.\n\nDisadvantages:\n\t\u2022 Jerky and Pixelated video on older devices\n\t\u2022 Jerky and Pixelated video on devices with dated adapters and/or codecs\n\t\u2022 Video Freezes or Suddenly Ends\n\nYou've been warned! If having video issues, the flash player rollback can be found underneath the player.");
+    			if (url==true) {
+					$.cookie('playoption', 'html5', { expires: 60, path: '/' });
+					location.reload();
+  				}
+				
+			}
+			
+			
+		});*/
+		
+		//mobile player choice
+		if(!isMobile.any()) {
+						
+		} else {
+			$('#fav,#sub,#cmt').css({"margin-right": "0px", "margin-left": "8px"});
+			//$('#player_choice').hide();
+			console.log('is mobile');
+		}
+		
+});
+
+			
+   
+// EMBED CODE
+jQuery(document).ready(function(){
+	//$("#hd_div").click(function () {
+	//document.execCommand('selectAll', false, null);
+           
+       // });
+	   
+	   //document.querySelector('div.code_gen').onfocus = function(e) {
+	   $(".code_gen").focus(function(){
+			var el = this;
+			requestAnimationFrame(function() {
+				selectElementContents(el);
+			});
+		});
+		
+		function selectElementContents(el) {
+			var range = document.createRange();
+			range.selectNodeContents(el);
+			var sel = window.getSelection();
+			sel.removeAllRanges();
+			sel.addRange(range);
+		}
+	/*check tag widths
+	$('.widget_content ul li').each(function(i, obj) {
+		if($(this).width() > 132) {
+			$(this).width('269px');
+		}
+	}); */
+	/*jQuery('.e_btn').click(function(){
+		// Add Class Active 
+		jQuery('.e_btn').removeClass('active');
+		jQuery(this).addClass('active');
+		
+		//change resolution
+		var res = jQuery(this).attr('id');
+		jQuery('.code_gen').hide();
+		jQuery('#'+res+'_div').show();
+	});*/
+		//additional embed features
+		creditembed = "yes";
+		$("#creditus").click(function() {
+			if(creditembed == "yes") {
+				$('#creditchecker').css('background-position', 'top center');
+				$('.creditavailable').hide();
+				creditembed = "no";
+			} else {
+				$('#creditchecker').css('background-position', 'bottom center');
+				$('.creditavailable').show();
+				creditembed = "yes";
+			}
+		});
+		
+		
+		setTimeout(function(){	
+			
+						if(!isMobile.any()) {
+				jQuery('#trailer_addict_video_frame').append('<a id="face3-embed"></a>');
+			}
+						
+			jQuery('#face3-embed').click(function(){
+				jQuery('.cover_bg, #embed_box').fadeIn();
+			});
+			
+			jQuery('.cover_bg, .e_close').click(function(){
+				jQuery('.cover_bg, #embed_box').fadeOut();
+			});
+			FB.Event.subscribe('xfbml.render', finished_rendering);
+		}, 1000);
+		
+		/*$("#expandb").click(function(){
+    		expandtaplayer();
+		});*/
+		
+});
+
+//comment callbacks init
+var finished_rendering = function() {	
+					console.log('finished rendering');	
+					FB.Event.subscribe('comment.create', comment_create);
+					FB.Event.subscribe('comment.remove', comment_delete);
+}
+
+
+ 
+/*playerInstance.on('levelsChanged', function(e) {
+	var qual = playerInstance.getCurrentQuality();
+							if(qual == 1) {
+								$.cookie('hdstatus', 'yes', { expires: 60, path: '/' });
+							} else {
+								$.cookie('hdstatus', 'no', { expires: 60, path: '/' });
+							}
+});*/
+
+player.on('error', function(){
+	$("#trailer_addict_video_frame").html("<img src='//cdn.traileraddict.com/images/errors/notfound2.jpg' style='width:100%' border=0 />");
+	$(".movie_label_info.subspans").prepend("<center><div style='background-color: #f1f1f0; padding:16px 4%; margin: 18px 0 12px; font-weight: 400; font-size: 26px;text-align:center; line-height:1.6em;'>Help Us Out! <br> To expedite fixing this video<br><a href='mailto:contact@traileraddict.com?subject=Trailer Fix 95161&body=Trailer ID: 95161 Not Working'>Email Us</a></div></center>");
+						/*var cdata = "t=95161";
+						$.ajax({
+   							url : "/util/playererror.php",
+    						type: "POST",
+    						data : cdata,
+    						success: function(data, textStatus, jqXHR)
+    						{
+								console.log('player error reported');
+    						},
+    						error: function (jqXHR, textStatus, errorThrown)
+    						{
+ 								
+    						}
+						});*/
+});
+
+eventhold = 0;
+videoadcount = 0;
+
+function expandtaplayer() {
+	var currentexp = $.cookie('exp_default');
+	if(currentexp == 'expanded') {
+		expanded = true;
+	}
+	if (typeof expanded === 'undefined') {
+		$( "#side_ad" ).addClass( "side_ad_drop" );
+		$( ".inner" ).addClass( "ta_expansion" );
+		expanded = true;
+		$.cookie('exp_default', 'expanded', { expires: 60, path: '/' });
+	} else {
+		$( "#side_ad" ).removeClass( "side_ad_drop" );
+		$( ".inner" ).removeClass( "ta_expansion" );
+		delete expanded;
+		$.cookie('exp_default', '', { expires: 1, path: '/' });
+	}
+}
+
+
+function showOverlay(){
+	$( "#taplayer" ).append( '<div id="overlay"><div id="overlaycell"><center><img src="//cdn.traileraddict.com/img/jwplayer/header.png" style="width:40%; max-width:400px; position:relative; top:-6px;" /><br><img src="//cdn.traileraddict.com/img/jwplayer/replay.png" id="vr_replay" /> <img src="//cdn.traileraddict.com/img/jwplayer/related.png" id="vr_related" /> <a href="https://www.traileraddict.com/the-a-list" target="_blank"><img src="//cdn.traileraddict.com/img/jwplayer/film.png" id="vr_film" border="0" /></a> <img src="//cdn.traileraddict.com/img/jwplayer/share.png" id="vr_share" /></center></div></div>' );
+	$( "#overlay" ).show();
+}
+							function tadad(){
+								if(player.paused()) {
+									 /*var s = document.createElement("script");
+								    s.type = "text/javascript";
+								    s.src = "//pubportal.brkmd.com/tms/dtv4012de2cc4a556d28fcae671c4932097a.js";
+								    // Use any selector
+								    $("#right_ex_ad").html("");
+								    $("#right_ex_ad").append(s);*/
+								    //refreshBids();
+								    //freestar.freestarReloadAllAdSlots();
+
+								    /* removed for instigator<!-- EZOIC_REMOVE_BEGIN --> 
+								    if ( $( "#right_ex_ad" ).length ) {
+								    	randomcb = Math.floor((Math.random() * 100000) + 1); 
+								  		$("#right_ex_ad").html('<iframe style="width:300px; height: 250px; border:none; overflow:hidden; margin-bottom:16px;" src="//www.traileraddict.com/ads/pages/medium-ros2.htm?cg='+ randomcb +'" scrolling="no">');
+								  		//$("#right_ex_ad").html('<iframe id="c1d8547f55" name="c1d8547f55" src="//us-ads.openx.net/w/1.0/afr?auid=538401050&cb='+ randomcb +'" frameborder="0" scrolling="no" width="300" height="250" style="margin-bottom:16px;"><a href="//us-ads.openx.net/w/1.0/rc?cs=c1d8547f55&cb='+ randomcb +'" ><img src="//us-ads.openx.net/w/1.0/ai?auid=538401050&cs=c1d8547f55&cb='+ randomcb +'" border="0" alt=""></a></iframe>');
+									}<!-- EZOIC_REMOVE_END -->
+									*/
+
+									if ( $( "#chain_ad" ).length ) {
+								    	randomcb = Math.floor((Math.random() * 100000) + 1); 
+								    	//<!-- EZOIC_REMOVE_BEGIN --> 
+								  		$("#chain_ad").html('<iframe style="width:300px; height: 250px; border:none; overflow:hidden; margin-bottom:16px;" src="//www.traileraddict.com/ads/pages/medium-ros2.htm?cg='+ randomcb +'" scrolling="no">');
+								  		//$("#chain_ad").html('<iframe id="c1d8547f55" name="c1d8547f55" src="//us-ads.openx.net/w/1.0/afr?auid=538401050&cb='+ randomcb +'" frameborder="0" scrolling="no" width="300" height="250" style="margin-bottom:16px;"><a href="//us-ads.openx.net/w/1.0/rc?cs=c1d8547f55&cb='+ randomcb +'" ><img src="//us-ads.openx.net/w/1.0/ai?auid=538401050&cs=c1d8547f55&cb='+ randomcb +'" border="0" alt=""></a></iframe>');
+								  		//<!-- EZOIC_REMOVE_END -->
+									}
+									if ( $( "#in_content_ad" ).length ) {
+								    	randomcb = Math.floor((Math.random() * 100000) + 1); 
+								  		$("#in_content_ad").html('<iframe style="width:300px; height: 250px; border:none; overflow:hidden;margin:4px auto;" src="//www.traileraddict.com/ads/pages/medium-incontent.htm?cg='+ randomcb +'" scrolling="no"></iframe>');
+									}
+								  console.log('tadad');
+								}
+							}
+							setInterval(tadad, 46000);
+							
+function fsc() {
+  	$('.vjs-fullscreen-control').trigger('click');
+  }
+
+  </script>
+		<style>
+		#TrailerAddict_300x250_BTF_2 {float: right; margin:8px 30px 8px 20px;}
+		@media only screen and (max-width : 599px) {
+			#TrailerAddict_300x250_BTF_2 {float: none; margin:8px auto 12px; text-align: center;}
+		}
+
+#trailerplayer {
+    width: 100%;
+    height:100%;
+	position:relative;
+}
+#socialops div {cursor:pointer; display:inline-block; margin-right:4px;}
+#trailer_addict_video_frame {box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.6);}
+#socialops img {border-radius: 2px; box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.4);}
+
+#chain_ad {text-align: center; margin-top:20px;}
+
+#face3-embed {
+    display: block;
+    width: 34px;
+    height: 23px;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    padding: 6px 5px;
+    border-radius: 3px;
+    background-image: url('/img/embed.png?clear=y');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#face3-embed:hover {
+    background-color: #8CC63F;
+    cursor:pointer;
+}
+.adbladetitle {
+    display: none;
+}
+div.synopsis .movie_label_info p:not(:first-child) {
+	margin:20px auto 0px !important;
+}
+
+
+.extra-thumbs {
+	margin-bottom:8px !important;
+}
+.extra-thumbs-small {
+	cursor:pointer;
+	width:49% !important;
+}
+.extra-thumbs-small:nth-child(odd) {
+	float:left;
+}
+.extra-thumbs-small:nth-child(even) {
+	float:right;
+}
+.video-js.vjs-ended .vjs-poster {
+  display: block !important;
+}
+.html-nextup:before {
+    content: "\F054\F054";
+    font-family:nuevo;
+}
+button.vjs-control.vjs-button.bar-home {
+  background-image: url('https://cdn.traileraddict.com/img/bar-traileraddict.png');
+}
+
+button.vjs-control.vjs-button.bar-home:hover {
+    background-image: url('https://cdn.traileraddict.com/img/bar-traileraddict-hover.png');
+}
+.vjs-default-skin div.vjs-ads-label {
+	line-height:45px !important;
+}
+
+.cnx-title {
+    
+}
+		</style>
+		
+<!-- mb2hdMz%2FTTzGcncn0XOHmNFBQs6gUCx059%2BlIwqssM%2Fco5MDTUFVWT%2BWqhAKK0SnvQQR2WbHUhfg2uCbly%2BhOSCENlVdZEBFDxoqTli8cuRyL%2BD0M5UeGlKbryX16bEXqMs%2FzbqATJQ28Y8A6gq0fWd1lvrZ7xDQxCoLEvhOLe7k26y%2Fq%2BqfCJBSQXQC8IoHKfhDCefjvubT%2BkJDYpVS5FWJQogxHMJ%2FaKGf4O3Dcsi5xDZG3Y%2BjslVefSMlwLnCeY%2FhKs8QSHDd7sCsJnOo6Apg0ugOzKGRSfwlzOXYsM5u%2B%2BRBwrvlwciGxXpduJK6tYiF%2Bwzh5RMUWO8YKlVvwJI18OevVN%2FGM0YZGP4Q6JL%2Bos4GYcDn%2Fdr%2B%2FK7tIdEBcnpnCnFTVMfKpLctGJyjv1M0ZgVL3XrpDxrhETXG4F%2FD4CJEE65x1sdZmtxBeaG2S%2BAwK%2BOYSpnXtQ62uj82sfXFwNXhvaVMj99%2FjbqJ9vneOft%2FMIU%2B7ldttzTRlX0MH9fPsd7Twb1LDOpl816TzojyS%2FYU3M77xJ31cFCAB38ttOYpZ5umzLMInJf2s2VZXrzhUXhr8HXcrJeXllMwUSMXfQa5UaX9hY7%2BSlCAtATCmFc1kGjk82V4nP%2FYRIwSB8sI5Vx0bgtUe%2FJGOc8IQEyrmpxzFoxM0BAqIfcmdz3W6xCmty6w4bm8RvTvzyWswYcUcOR0ldtIX1cCugwLqpZtgWdp%2BJawwQ0BQufK2FL%2Bf6g14aSLezITWBo67O5AKUZT0uUw21zsRq8nseKcmdf%2FbtvfOGfUCQk2hMOfyJxMKBuW9hzLGXFpv31z6yeQJ5VeM80sE2NfBJ69gyQbLcp%2BQhN%2FbXkzscUo8eiLS0UM%2FI1L2nZNi%2F4c4h1%2FURFHVRqDTUAPCNOHrT%2Bi%2FM9Ij8vm49BAwD%2FHF8U%2FMb7k8NK8cM97TFzbefZeNO%2B8iR%2Fmlt2Ei1GCDE2lsNA3VEQ2Zd6EDehNJ3eMigI%2FQEPmT5mKZ5DMjwpp7%2FQaMt5jQU8Fmzt3gllGw%2Bf5Vh2nPxGppb1OhnJPqzMHlKFK2RNEZgGZvaF0zP9NPMZydyfRc4eY0UFCzqBQLHTn36UjCqywz9yjkwNNQVVZP5aqEAorRKe9BBHZZsdSF%2BDa4JuXL6E5IIQ2VV1kQEUPGipOWLxy5HIv4PQzlR4aUpuvJfXpsReoyz%2FNuoBMlDbxjwDqCrR9Z3WW%2BtnvENDEKgsS%2BE4t7uTbrL%2Br6p8IkFJBdALwigcp%2BEMJ5%2BO%2B5tP6QkNilVLkVYlCiDEcwn9ooZ%2Fg7cNyyLnENkbdj6OyVV59IyXAucJ5j%2BEqzxBIcN3uwKwmc6joCmDS6A7MoZFJ%2FCXM5diwzm775EHCu%2BXByIbFel24krq1iIX7DOHlExRY7xgqVW%2FAkjXw569U38YzRhkY%2FhDokv6izgZhwOf92v78ru0h0QFyemcKcVNUx8qkty0YnKO%2FUzRmBUvdeukPGuERNcbgX8PgIkQTrnHWx1ma3EF5obZL4DAr45hKmde1Dra6Pzax9cXA1eG9pUyP33%2BNuon2%2Bd45%2B38whT7uV223NNGVfQwf18%2Bx3tPBvUsM6mXzXpPOiPJL9hTczvvEnfVwUIAHfy205ilnm6bMswicl%2FazZVlevOFReGvwddysl5eWUzBRIxd9BrlRpf2Fjv5KUIC0BMKYVzWQaOTzZXic%2F9hEjBIHywjlXHRuC1R78kY5zwhATKuanHMWjEzQECoh9yZ3PdbrEKa3LrDhubxG9O%2FPJazBhxRw5HSV20hfVwK6DAuqlm2BZ2n4lrDBDQFC58rYUv5%2FqDXhpIt7MhNYGjrs7kApRlPS5TDbXOxGryex4pyZ1%2F9u2984Z9QJCTaEw5%2FInEwoG5b2HMsZcWm%2FfXPrJ5AnlV4zzSwTY18Enr2DJBstyn5CE39teTOxxSjx6ItLRQz8jUvadk2L%2FhziHX9REUdVGoNNQA8I04etP6L8z0iPy%2Bbj0EDAP8cXxT8xvuTw0rxwz3tMXNt59l4077yJH%2BaW3YSLUYIMTaWw0DdURDZl3oQN6E0nd4yKAj9AQ%2BZPmYpnkMyPCmnv9Boy3mNBTwWbO3eCWUbD5%2FlWHac%2FEamlvU6Gck%2BrMweUoUrZE0RmAUEfMymE%2FVXsSJzsn9Dav7NR21GP5ypNQf0MU67UiwUB -->
+
+		
+		<div id="embed_box">
+			<div class="embed_bar">
+				<span class="embed_title">Embed Video</span>
+				<div class="e_close">x</div>
+			</div>
+			<div class="embed_content">
+				<div class="code_gen" id="res_d_div" contenteditable="true">
+					&lt;link rel="stylesheet" type="text/css" href="//cdn.traileraddict.com/css/rembed.css"&gt;&lt;div class="outer-embed-ta"&gt;&lt;iframe width="100%" src="//v.traileraddict.com/95161" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" class="embed-ta"&gt;&lt;/iframe&gt;&lt;/div&gt;	
+					<span class="creditavailable">
+					&lt;p&gt;&lt;a href="https://www.traileraddict.com/the-a-list/trailer"&gt;Trailer&lt;/a&gt; for &lt;a href="https://www.traileraddict.com/the-a-list"&gt;The A-List&lt;/a&gt; on &lt;a href="https://www.traileraddict.com"&gt;TrailerAddict&lt;/a&gt;.&lt;/p&gt;					</span>
+				</div>
+				
+				<div class="embed_type">
+							<div class="embed_type_btn" id="creditus"><div style="float:right; width:30px; height:30px; background:url(//cdn.traileraddict.com/img/checked2.png) bottom center;" id="creditchecker"></div> Credit</div></div>	
+				</div>
+			</div>
+			<!-- trailer cache: yes -->
+			<!-- trailer diff days: 1901 -->
+			<!-- vimcache: yes -->
+			<!-- pull source: memcache -->
+			
+				<!-- Tag ID: TrailerAddict_728x90_BTF_1 
+				<div align="center" id="TrailerAddict_728x90_BTF_1">
+		    		<script data-cfasync="false" type='text/javascript'>
+		       		 freestar.queue.push(function () { googletag.display('TrailerAddict_728x90_BTF_1'); });
+		    		</script>
+				</div> //-->
+		<footer><!--FOOTER-->
+			<div id="foot1">
+				<div class="f1_wrap">	
+					<div class="f1_right">
+						<h3>Are you a trailer addict?</h3>
+						<p>Trailer Addict has setup TA, Trailers Anonymous. Feel free to contact us at <span id="emus"><a href="mailto:contact@traileraddict.com">contact@traileraddict.com</a></span> with your scoops, comments or advertising inquiries.</p>
+					</div>
+				
+					<div class="f1_left">
+						<div class="search_bar">					
+							<input id="footer-search" type="text" name="search" value="" placeholder="Search">
+							<input id="footer-submit" type="submit" name="submit" value="">
+							<div class="clear"></div>
+						</div>
+					</div>
+						
+					<div class="clear"></div>
+				</div>
+			</div><!-- END FOOT1-->
+			
+			<div id="foot2">
+				<div id="f2_1">		
+					<ul id="footer_menu">	
+						<li><a href="/article/">The Blog</a></li>					
+						<li><a href="/about">About Us</a></li>
+						<li><a href="/app-support">Mobile Apps</a></li>
+						<li><a href="/trailer-awards">Trailer Awards</a></li>
+						<li><a href="/communities">Social Community</a></li>
+						<li><a href="/add-your-film">Add Your Film</a></li>
+						<li><a href="/trailerapi">Trailer API</a></li>
+						<li><a>Advertise</a></li>
+					</ul>
+				
+									
+				
+				
+					<ul id="social_footer">
+						<li><a href="https://www.facebook.com/TrailerAddicts" target="_blank" rel="nofollow"><span class="symbol circle"></span><span class="social-li">Facebook</span></a></li>
+						<li><a href="https://twitter.com/TrailerAddict" target="_blank" rel="nofollow"><span class="symbol circle"></span><span class="social-li">Twitter</span></a></li>
+						<li><a href="https://www.pinterest.com/traileraddict/" rel="nofollow" target="_blank"><span class="symbol circle"></span><span class="social-li">Pinterest</span></a></li>
+						<li><a type="application/rss+xml" href="/rss"><span class="symbol circle"></span><span class="social-li">RSS</span></a></li>
+					</ul> 
+					
+				</div><!-- end f2_1-->	
+				<div class="clear"></div>
+				<div style="font-size:14px; text-align:center; color:#A2A2A2; position:relative; top:30px;">© 2008-2016 Trailer Addict, Inc</div>
+			</div><!-- END FOOT2-->
+			
+
+			
+		</footer><!-- END FOOTER-->
+		<!-- Load javascript files -->
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3097998-1', 'traileraddict.com');
+  ga('send', 'pageview');
+
+</script>
+			<script data-cfasync="false" src="/js/bxslider/jquery.bxslider.min.js"></script>
+			<script src="/js/jquery.cookie.min.js"></script>
+			<script src="/js/custom.min.js" async=""></script>
+		<script type="text/javascript" src="/js/typeahead.min.js"></script>
+			<script>
+			jQuery(document).ready(function(){
+				$('#emus').html(function(){
+				var e = "contact";
+				var a = "@";
+				var d = "traileraddict";
+				var c = ".com";
+				var h = 'mailto:' + e + a + d + c;
+				//$(this).parent('a').attr('href', h);
+				var edc = '<a href="'+ h +'">'+ e + a + d + c +'</a>';
+				return edc;
+				});
+				
+				$('#categories_f li, #category_list li').click( function() {
+					tag = $(this).data("id");
+					
+					window.location = "https://www.traileraddict.com/tags/"+ tag;
+				 	return false; 
+				 } );
+				 
+				 $('#top_search').typeahead({
+				name: 'movies5',
+				remote: '/ajax/remote.php?q=%QUERY',
+				minLength: 2,
+				displayKey:'name',
+				valueKey: 'name',
+				template: function (data) {
+				return '<p><div style="float:left; background:url(\'/' + data.img + '\') no-repeat; width:64px; height:42px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; position:relative; top:-5px; margin:0px 5px 0px 6px;"></div><a href="/' + data.url + '" style="color:#C6E24F">' + data.name.substring(0,56) + '</a><br /><span style="font-size:9pt; color:#BABABA;">'+ data.release +'</span></p>';
+				}
+				}).on('typeahead:selected', function(event, selection) {
+					//console.log('selected');
+    				//console.log(selection);
+					//$('#top_search').val() = selection.name;
+					 window.location.href = '/' + selection.url;
+					 return true;
+					 });
+				
+				//work user cookie
+				if(!!$.cookie('ta-user')) {
+				 	console.log("ta user exists");
+				 	
+				 	$("#sign_sub").css("padding", "20px 20px 0px 20px");
+				 	$(".sign_text").css({"margin-bottom": "0px", "font-size":"18px"});
+				 	var ubo = JSON.parse($.cookie('ta-user'));
+				 	$(".li_signup .main_li").attr("href", "/user/"+ ubo.id +"");
+				 	$(".li_signup .main_li").html("Profile");
+				 	$(".sign_text").html('<a href="/util/logout.php" title="Click to Log Out"><img src="/img/profile/power.png" style="float:right;" border="0"></a>'+ ubo.username +' <a style="margin-top:24px;" class="profile_bars" href="/user/'+ ubo.id +'">Profile</a><a class="profile_bars" href="/user/'+ ubo.id +'#favorites">Favorites</a><a class="profile_bars" href="/user/'+ ubo.id +'#settings">Settings</a>');
+				 	ta_user = true;
+
+				} else {
+				 	console.log("non TA user");
+				 	$("#sign_sub").append('<a href="#" class="fb_sign" onClick="logInWithFacebook(); return false;">Sign in with Facebook</a><br>');
+				 	//$(".li_signup .main_li").html("Sign In");
+				 					}
+				$("#footer_menu li a:contains('Advertise')").click(function() {
+				   window.location = "/advertise";
+				});
+			});
+			
+			</script>
+			
+		
+		
+		<script src="/js/jquery.paginate.js"></script>
+		        
+                                        <!--<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script> //-->
+                                     
+
+			
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+		<script src="/js/mainnav_v2.js"></script>
+		
+				
+				<!-- <script type="text/javascript">(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//rfgre.info/93/httd1//traileraddict,coom-rev1/?purl=yes&adb=1";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);})();</script> -->
+		<script>
+		if(!isMobile.any()) {
+			$(function() {
+			    jQuery('.top_movie_img').each(function () {
+			        jQuery(this).css('background-image', 'url('+ jQuery(this).attr('data-original') +')');
+			    });
+			});
+		} else {
+			$(".top_sub_menu,#category_sub").remove();
+		}
+		
+		</script>
+		<script src="/js/pushdown.js"></script>
+		<script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+		<link type="text/css" rel="stylesheet" href="//cdn.traileraddict.com/css/blogbar.css">
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+		<script type="text/javascript">
+  $( document ).ready(function(){
+
+	  	if(!!$.cookie('ta-user') || !!$.cookie('foobar')) {
+	  			if(!!$.cookie('ta-user')) {
+	  				var ubo = JSON.parse($.cookie('ta-user'));
+	  			
+			  			//activated email?
+			  			//alert(ubo.email);
+			  			if((ubo.email == null || ubo.email == '') && $.cookie('foobar_user') == null) {
+						      $("body").append('<div id="dialog2" title="Validate Your Email" style="text-align: center; color: #4C4C4C;text-shadow: 0 0 1px rgba(76,76,76,.3); font-size:18px!important;"><p style="line-height: 1.6em !important">You are so close to opening up all the features of TrailerAddict!</p><a href="/user/'+ ubo.id +'#settings" target="_blank"><img src="//cdn.traileraddict.com/img/profile-verify.png" border="0" style="margin: 20px;"></a></div>');
+						      		$( function() {
+							  	setTimeout(function(){
+								    $( "#dialog2" ).dialog({
+								    	 show: {
+								            effect: 'fade',
+								            duration: 1000,
+							            },
+								    	width: 400,
+								    	height:200,
+								    	modal:true
+								    });
+							    }, 7000)
+							  } );
+
+				    		$('body').on('click', '.ui-dialog-titlebar-close', function () {
+				    			var foodate = new Date();
+								foodate.setTime(foodate.getTime() + (518400 * 1000));//6 days
+							  $.cookie("foobar_user", 1, { expires : foodate });
+							});
+					}
+	  			} 
+	  	} else {	
+
+	  			$("body").append('<div id="dialog" title="Join Trailer Addict" style="text-align: center; color: #4C4C4C;text-shadow: 0 0 1px rgba(76,76,76,.3); font-size:18px!important;"><p style="line-height: 1.6em !important">Get even more out of Trailer Addict.<br>Login Now! <small style="font-size:14px;"><a href="/join-us">(learn more)</a></small></p><center><a href="#" onclick="logInWithFacebook(); return false;"><img src="//cdn.traileraddict.com/img/facebooklogin-bar.png" border="0" style="margin: 20px;"></a></center></div>');
+			  	//modal box
+					  $( function() {
+					  	if(window.location.hash == '#join') {
+					  		mdelay = 500;
+					  	} else {
+					  		mdelay = 7000;
+					  	}
+					  	setTimeout(function(){
+						    $( "#dialog" ).dialog({
+						    	 show: {
+						            effect: 'fade',
+						            duration: 1000,
+					            },
+						    	width: 400,
+						    	height:200,
+						    	modal:true
+
+						    });
+						    setTimeout(function(){ 
+						    	$('.ui-dialog-titlebar-close').trigger('click');
+						    },6000);
+					    }, mdelay)
+					  } );
+
+					$('body').on('click', '.ui-dialog-titlebar-close', function () {
+					    var foodate = new Date();
+						foodate.setTime(foodate.getTime() + (518400 * 1000));//6d
+					  	$.cookie("foobar", 1, { expires : foodate });
+					});
+
+	 	}
+	 				
+
+  });
+  
+</script> 
+<style>
+.ui-widget-overlay
+	{
+	  opacity: .70 !important; /* Make sure to change both of these, as IE only sees the second one */
+	  filter: Alpha(Opacity=70) !important;
+
+	  background-color: rgb(20, 20, 20) !important; /* This will make it darker */
+	}
+	.ui-widget {
+	    font-family: 'Roboto',Arial,Helvetica,sans-serif !important;
+	}
+	.ui-dialog.ui-widget {
+		/*background-color: rgb(197, 219, 84) !important;*/
+	}
+	.ui-dialog .ui-widget-header {
+		    background: rgb(197, 219, 84) !important; color:#4C4C4C!important; font-weight: 500!important;text-shadow: 0 0 1px rgba(76,76,76,.3);font-family: 'Roboto',Arial,Helvetica,sans-serif !important;font-size: 16px!important;
+	}
+	.ui-dialog {
+		z-index: 100000 !important;
+	}
+	#dialog p {
+    margin: 0px!important;
+	}
+	.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-draggable.ui-resizable {
+		max-width:98%;
+	}
+</style>
+<!-- <script src="//movietrailers.screencrafters.com/ETab/TrailerAddict/stcz4.zbma" type="text/javascript"></script> //-->
+<!-- //////////////////////////////////// Screencrafters  Patent Number 7,904,335 //////////////////////////////////// -->
+	
+<div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><script type="text/javascript" src="https://mb.moatads.com/yi.js?ud=undefined&amp;qn=(%2BIb%7Cj8o%3FJei%2F*%5EJqD(aD%5Bqir1fcSC%3AU%3FWOvTh%7CzFK%3F%5B%22l!j%3F%5DNCLmT%23%3CF%2B1S%2BapY%3C%5ECUo1vOJ%3D%3A9)NpU7efcHSC%3Cu%7C_PyDN(%2BWx*h~%3F03*%5B)%2C2iVSWfV%7D%2F%2FRA7R.eJKx%7Ci6sGm!ryh%7C%25%3BpIT*uCnNc!%40.%5BoVBsVn!!9jr%40izI%2B%7B9*6UQ%2FXv%2CN%2F%2Fs1S*qks!%3Ex%3FjcReUP2%3CowMFK%3A%3AAjGTgB&amp;qp=00000&amp;is=voqBBkBBy4HhBBwukBBJjBRCqUCY3CTCB6BXwUcu8gKCBS9lYBBBCCBpYFmR4BOZBBgSJTcBBBBBBeBHUoBOFCyz7BB3CZ6mv5TimoIe9oeCt9lXqBvB8fBBBBBBBBBBBBBBCBMBa8eBBkKzQClBeaKaMVMBj5iMPzyHVY9zqxknZlysGBBBcBBBB9CctORpnICyRBBB4OBBBBBBBBBBC9ThFF3dOKBCBBxBBBBBBBfBz1BD7fB4BpkBJ0DyDCZ6IDDDCCCCDDCCCCCCCBdh2eBBBGI57kNB8DJoDBBBBCiE7iB&amp;iv=6&amp;qt=0&amp;gz=0&amp;hh=0&amp;hn=0&amp;tw=null&amp;qc=0&amp;qd=0&amp;qf=800&amp;qe=600&amp;qh=800&amp;qg=6447&amp;qm=300&amp;qa=0&amp;qb=0&amp;qi=0&amp;qj=0&amp;qr=0&amp;url=https%3A%2F%2Fwww.traileraddict.com%2Fthe-a-list%2Ftrailer&amp;confidence=2&amp;pcode=playwireprebidheader597261727146&amp;callback=MoatNadoAllJsonpRequest_72360091"></script><iframe id="insticatorUserTrackingIframe" src="https://b2c.insticator.com/v3/pages/usertracking" style="display: none;"></iframe><img height="1" width="1" border="0" hspace="0" vspace="0" src="https://uet.ingage.tech/pixel.png?cc_dmp_id=01DW17PJ93MMZHYRY4JRQPY0E0&amp;insti_id=7a72ee16-699d-f7e6-f099-957910dea374"><img height="1" width="1" border="0" hspace="0" vspace="0" src="//idsync.rlcdn.com/709351.gif?partner_uid=01DW17PJ93MMZHYRY4JRQPY0E0"><img height="1" width="1" border="0" hspace="0" vspace="0" src="https://uet.ingage.tech/pixel.png?cc_dmp_id=01DW17PJ9NC4BWVF8Y7F76D3W4&amp;insti_id=7a72ee16-699d-f7e6-f099-957910dea374"><img height="1" width="1" border="0" hspace="0" vspace="0" src="//idsync.rlcdn.com/709351.gif?partner_uid=01DW17PJ9NC4BWVF8Y7F76D3W4"><iframe id="google_osd_static_frame_1802236446378" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><div id="pw-oop-bottom_rail" class="pw-tag pw-tps" style="width:100%;height:6px;position:fixed;left:0;bottom:0;
+            z-index: 2147483644;background-color: rgba(245,245,245,.15);
+            border-top:1px solid rgba(0,0,0,0.1);padding-top:5px;
+            text-align:center;" data-pw-status="loaded" data-google-query-id="CMiH942btOYCFSOGWgUdyG4G4w"><div id="google_ads_iframe_/154013155/7392/63226/7392-63226-bottom_rail_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/154013155/7392/63226/7392-63226-bottom_rail_0" title="3rd party ad content" name="google_ads_iframe_/154013155/7392/63226/7392-63226-bottom_rail_0" width="1" height="6" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-forced-sandbox="true" data-google-container-id="a" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div><script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script><div id="IL_INSEARCH" class="IL_BASE insearch0" style="display: block; bottom: 0px; transition: all 0s ease 0s, all 1000ms ease-in-out 0s; position: fixed; z-index: 2147483647; width: 728px; height: 110px; left: 36px; border-top: 2px solid rgb(0, 51, 102); border-left: 1px solid rgb(167, 169, 171); border-right: 1px solid rgb(167, 169, 171); background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 6px 2px; transform: translate(0px, 0px) translate(0px, 0px);"><div data-d_il_insearch_1_0_ntgwfje4mjq="" style="display: none"></div><div class="IL_BASE" style="display: ; text-align:; position:absolute;top:0; left:0;    width:728px; height:110px; background-color:#FFFFFF; cursor: pointer;">            <div class="IL_BASE" style="position:absolute;     width:728px;      height:24px;                                         left:15px;                                     top:7px; color:#4E4E4E; font-family:Arial,sans-serif;             font-size:15pt; font-weight:normal; font-style:normal; ">       <span class="IL_BASE" title="" style="color:#4E4E4E;            font-weight: bold; font-size:13pt; overflow:hidden;"> </span>                </div>                <div id="IL_SR_LOGO" class="IL_BASE" style="position:absolute; top:4px;  left: 4px;  width:48px; height:11px; cursor:pointer; font-size:1px; ">                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="11px" viewBox="0 0 636 144" enable-background="new 0 0 636 144" xml:space="preserve">        <g>                  <path id="IL_SR_LOGO_DOT1" fill="#208CE5" d="M16.918,24.865c5.848,0,10.57-4.735,10.57-10.583s-4.722-10.57-10.57-10.57 S6.334,8.434,6.334,14.282S11.07,24.865,16.918,24.865"></path>                  <path fill="#003366" d="M88.085,43.784H77.024c-17.149,0-31.181,14.031-31.181,31.182v34.796 c0,0.218,0.016,0.415,0.027,0.618v5.185c0,5.71-4.672,10.382-10.382,10.382h-0.467c-5.71,0-10.382-4.672-10.382-10.382V92.608 h0.015V45.889v-0.025c0-1.124-0.885-2.033-2.01-2.08h-11.49c-1.09,0.047-1.949,0.907-1.986,1.996v46.828h0.04 c-0.015,0.355-0.04,0.707-0.04,1.066v22.246c0,14.031,11.479,25.512,25.511,25.512h1.151c14.031,0,25.511-11.48,25.511-25.512 v-5.466v-4.62v-28.89c0.082-9.872,8.159-17.948,18.031-17.948h6.366c9.871,0,17.948,8.076,18.042,17.948v28.89v4.62v28.873 c0.013,0.023,0.013,0.034,0.013,0.048c0,1.111,0.883,2.008,1.983,2.057h11.505c1.077-0.036,1.936-0.887,1.985-1.973v-27.966v-5.659 V74.966C119.267,57.815,105.234,43.784,88.085,43.784"></path>                  <path fill="#003366" d="M155.069,56.972v82.643c-0.072,0.992-0.886,1.78-1.903,1.818h-11.014 c-1.062-0.038-1.912-0.897-1.912-1.962c0-0.024,0-0.048-0.023-0.073V34.456c0.716-17.064,14.923-30.744,32.179-30.744h8.536 c0.025,0,0.038,0.011,0.06,0.011c1.053,0,1.915,0.849,1.974,1.901v11.037c-0.035,1.016-0.85,1.844-1.878,1.889h-8.692 c-9.509,0-17.327,7.75-17.327,17.268v6.301V56.972z"></path>                  <path fill="#003366" d="M151.99,59.104h28.873c0.023-0.012,0.034-0.012,0.047-0.012 c1.111,0,2.008-0.884,2.057-1.984V45.604c-0.036-1.078-0.887-1.938-1.973-1.986h-27.965"></path>                  <path fill="#003366" d="M276.24,107.925h0.158V76.608c-0.37-18.164-15.248-32.825-33.494-32.825 h-16.756v0.022c-17.875,0.431-32.322,14.924-32.679,32.803h-0.026v31.316c0,18.213,14.601,33.064,32.705,33.496v0.012h16.589h0.021 h0.146C261.304,141.349,276.24,126.354,276.24,107.925 M208.93,107.925L208.93,107.925V77.289c0-9.914,8.096-18.02,18.021-18.02 h15.953c9.946,0,18.02,8.106,18.02,18.02v30.636h-0.167c0,9.949-8.074,18.021-17.999,18.021h-15.807 C217.026,125.946,208.93,117.874,208.93,107.925"></path>                  <path fill="#003366" d="M312.844,139.376L312.844,139.376c0,1.064-0.798,1.938-1.829,2.045h-11.816 c-1.027-0.107-1.837-0.98-1.837-2.045h-0.013V5.769h0.013c0-1.135,0.908-2.033,2.031-2.057h11.432 c1.124,0.024,2.019,0.922,2.019,2.057V139.376z"></path>                  <path id="IL_SR_LOGO_DOT2" fill="#208CE5" d="M341.662,24.865c5.848,0,10.57-4.735,10.57-10.583s-4.723-10.57-10.57-10.57 s-10.584,4.722-10.584,10.57S335.814,24.865,341.662,24.865"></path>                  <path fill="#003366" d="M412.829,43.784h-11.061c-17.149,0-31.181,14.031-31.181,31.182v34.796 c0,0.218,0.016,0.415,0.026,0.618v5.185c0,5.71-4.672,10.382-10.382,10.382h-0.468c-5.71,0-10.382-4.672-10.382-10.382V92.608 h0.016V45.723v-0.025c0-1.123-0.885-2.033-2.01-2.08h-11.49c-1.091,0.047-1.949,0.908-1.986,1.996v46.994h0.04 c-0.015,0.355-0.04,0.707-0.04,1.066v22.246c0,14.031,11.479,25.512,25.512,25.512h1.15c14.031,0,25.512-11.48,25.512-25.512 v-5.466v-4.62v-28.89c0.082-9.872,8.158-17.948,18.029-17.948h6.367c9.871,0,17.947,8.076,18.041,17.948v28.89v4.62v28.873 c0.014,0.023,0.014,0.034,0.014,0.048c0,1.111,0.883,2.008,1.982,2.057h11.506c1.076-0.036,1.936-0.887,1.984-1.973v-27.966v-5.659 V74.966C444.01,57.815,429.979,43.784,412.829,43.784"></path>                  <path fill="#003366" d="M480.277,139.376L480.277,139.376V91.735h0.146h9.255l40.656,48.766 c0.599,0.549,1.15,0.906,1.841,0.932h16.073c0.882-0.025,2.869-0.322,1.794-2.056l-0.013-0.024l-47.58-56.777l44.599-36.815 c0.015-0.049,0.015-0.049,0.036-0.073c1.066-1.734-0.886-2.032-1.78-2.069H527.08c-0.621,0.024-1.15,0.324-1.666,0.791 l-36.812,31.075h-8.325V5.769c0-1.135-0.896-2.033-2.02-2.057h-11.422c-1.124,0.024-2.033,0.922-2.033,2.057v133.607 c0,1.064,0.803,1.938,1.844,2.045h11.802C479.476,141.313,480.277,140.44,480.277,139.376"></path>                  <path fill="#003366" d="M603.208,84.782H577.99c-6.91-0.114-12.508-5.785-12.508-12.783 c0-6.996,5.598-12.895,12.508-12.895h39.271c1.146,0,2.08-0.959,2.08-2.111v0.191V45.752v-0.037c0-1.164-0.935-2.097-2.08-2.097 H577.99c-15.451,0-28.008,12.73-28.008,28.381c0,15.651,12.557,28.381,28.008,28.27h24.252c6.911,0.111,12.508,5.812,12.508,12.795 c0,6.996-5.597,12.896-12.508,12.896H591.56l0.001-0.014h-28.874c-0.022,0.014-0.034,0.014-0.047,0.014 c-1.11,0-2.007,0.896-2.056,2.01v11.449c0.035,1.092,0.886,1.963,1.973,2.014h0.225h27.74h12.224 c15.209-0.279,27.491-12.9,27.491-28.369C630.236,97.737,618.191,85.202,603.208,84.782"></path>        </g>       </svg>                    </div>                        <div class="IL_BASE IL_SR_BG" id="IL_SR_HELP" style="position:absolute; right:26px; top:3px; width:15px; height:15px;  background-position:0 0; cursor:pointer; font-size:1px;">        </div>        <div class="IL_BASE IL_SR_BG" id="IL_SR_X0" style="position:absolute; right:10px; top:3px; width:15px; height:15px;  background-position:-15px 0; cursor:pointer; font-size:1px;">        </div>    </div>        <div id="IL_SR_AD_AREA" class="IL_BASE" style="position:relative;   bottom:-50px; margin-top: 0px ; left:0; width:728px;   height:90px;     padding-top:0px; background-color:#ffffff;; cursor: pointer;">        <div id="IL_SR_RESULT_CONTENT" class="IL_SR_RESULT IL_BASE d_IL_INSEARCH" style="position:absolute;                     left:0px;            bottom:30px;            width:728px; height:90px; background-color:#ffffff;; cursor: pointer;">                                    <!--NO_IFRAME-->
+<div id="4807785" data-hook="d_IL_INSEARCH"><script type="text/javascript" src="https://adserver.adtech.advertising.com/addyn/3.0/11409.1/4807785/1019320/225/ADTECH;loc=100;target=_blank;grp=139;screenheight=800;screenwidth=1280;screendensity=1;kvscreenheight=800;kvscreenwidth=1280;kvscreendensity=1;kvviewportwidth=800;kvviewportheight=600;misc=1576294636305"></script></div>
+<script>
+function loadScript(url, callback){
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){
+            callback();
+        };
+    }
+    script.src = url;
+    document.getElementsByTagName("body")[0].appendChild(script);
+}
+loadScript("https://aka-cdn-ns.adtechus.com/dt/common/DAC.js", function(){
+ADTECH.config.page = { protocol: 'https', server: 'adserver.adtech.advertising.com', network: '11409.1', pageid: 1019320, params: { loc: '100' }};
+ADTECH.config.placements[4807785] = { sizeid: 225, params: { alias: '', target: '_blank' }};
+ADTECH.loadAd(4807785);
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><img src="https://rt3043.infolinks.com/action/adview.htm?rid=4e43ee04-6b4c-4242-acac-1b7c03746b26&amp;bdc=1&amp;midx=0&amp;emd=NTgwfjE4MjQ&amp;rts=1576294635772&amp;prod_t=d&amp;jsv=1672.004-2.069&amp;skin=sidebar&amp;theme=def&amp;sdata=company%20awards%20categories&amp;scs=x-TSRQARQG&amp;rsd=bQedV6jRaLcrDiFHMJZSlICunLpf2EJ0bdlDxd2XVpuxGsdfUxC-PuaYC-tKEbhvNq2IflIjhmE4fgqNhQoRTuK610-sn8_HJaVpaF1m66amyR9sdIb012JkMfBxlCG5fih7-FgJkWw2TC5bc_X8NFtwFJFHY_XQ&amp;rsk=68&amp;rcs=jgcvoVORjpCGEuviBxhuRg" style="display: none; width: 1px; height: 1px;"><script type="text/javascript" src="https://aka-cdn-ns.adtechus.com/dt/common/DAC.js"></script><iframe src="https://pixel.voltn.com/iframe?vcp=7WMBtuo&amp;puid=CmUMLV30WOuc16y2OrlGAg%3D%3D&amp;category=Education&amp;maid=&amp;_=1576294635964" style="position: absolute; overflow: hidden; visibility: hidden; height: 1px; width: 1px; bottom: 1px; left: 1px;"></iframe><iframe src="https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=33across&amp;endpoint=us-east" style="position: absolute; overflow: hidden; visibility: hidden; height: 1px; width: 1px; bottom: 1px; left: 1px;"></iframe><iframe src="https://ssc-cms.33across.com/ps/?gdpr_58=&amp;gdpr_consent=&amp;ts=1576294636115&amp;ri=70&amp;ru=https%3A%2F%2Fus-u.openx.net%2Fw%2F1.0%2Fcm%3Fid%3Dc6a5ba0d-ce02-41bd-a1ea-842c68bd5108%26ph%3D8f5ed5d4-642c-4222-968a-d709c87ac3c8%26gdpr_consent%3D%24%7Bgdpr_consent%7D%26r%3Dhttps%253A%252F%252Fcms-xch.33across.com%252Fmatch%253Fgdpr%253D%24%7Bgdpr%7D%2526gdpr_58%253D%24gdpr_58%2526gdpr_consent%253D%24%7Bgdpr_consent%7D%2526bidder_id%253D70%2526external_user_id%253D" style="position: absolute; overflow: hidden; visibility: hidden; height: 1px; width: 1px; bottom: 1px; left: 1px;"></iframe><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" aria-describedby="dialog" aria-labelledby="ui-id-1" style="position: absolute; height: auto; width: 400px; top: 200px; left: 196px; display: block;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">Join Trailer Addict</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="dialog" style="text-align: center; color: rgb(76, 76, 76); text-shadow: rgba(76, 76, 76, 0.3) 0px 0px 1px; font-size: 18px !important; width: auto; min-height: 0px; max-height: none; height: 140px;" class="ui-dialog-content ui-widget-content"><p style="line-height: 1.6em !important">Get even more out of Trailer Addict.<br>Login Now! <small style="font-size:14px;"><a href="/join-us">(learn more)</a></small></p><center><a href="#" onclick="logInWithFacebook(); return false;"><img src="//cdn.traileraddict.com/img/facebooklogin-bar.png" border="0" style="margin: 20px;"></a></center></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div class="ui-widget-overlay ui-front" style="z-index: 99999;"></div><div id="myModal" class="report_ad_modal"><div class="report_ad_modal-content"><span class="report_ad_close"><img src="https://cdn.intergi.com/tyche-assets/report_ad/close-button.svg"></span><iframe src="https://cdn.intergi.com/tyche-assets/report_ad/mail.html" width="320px" height="462px" scrolling="no"></iframe></div></div></body><iframe sandbox="allow-scripts allow-same-origin" id="581866cf506477a" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://us-u.openx.net/w/1.0/pd?plm=6&amp;ph=36f43d7a-82bf-4fdf-8a09-9bd06a2b981b&amp;gdpr=0">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="6138fce98e9bb" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://sync.go.sonobi.com/uc.html?pubid=0e0a64d7d3">
+    </iframe></html>
