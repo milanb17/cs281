@@ -1,3 +1,9 @@
+# SSH Key
+*.pem
+
+# VS Code
+.vscode
+
 # macOS
 .DS_Store
 
