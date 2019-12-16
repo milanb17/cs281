@@ -70,7 +70,7 @@ class EarlyFusion(nn.Module):
 
 # N x C x T x H x W 
 
-input_data = torch.randn(1, 3, 10, 64, 64) 
-model = EarlyFusion(3, 10, 64)
-outpt = model(input_data)
-print(outpt.shape)
+# input_data = torch.randn(10, 3, 10, 64, 64) 
+# model = EarlyFusion(3, 10, 64)
+# outpt = model(input_data)
+# print(outpt.shape)

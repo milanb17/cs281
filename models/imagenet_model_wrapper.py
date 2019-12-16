@@ -75,9 +75,9 @@ class ImageNet_Model_Wrapper(nn.Module):
     def forward(self, x): 
         return self.model(x)
 
-inpt = torch.randn(1, 3, 64, 64) 
-model = ImageNet_Model_Wrapper('vgg', freeze_all_but_last=True)
-model.print_trainable_params()
-# print(model)
-outpt = model(inpt)
-print(outpt.shape)
+# inpt = torch.randn(100, 3, 64, 64) 
+# model = ImageNet_Model_Wrapper('densenet', freeze_all_but_last=True)
+# model.print_trainable_params()
+# # print(model)
+# outpt = model(inpt)
+# print(outpt.shape)

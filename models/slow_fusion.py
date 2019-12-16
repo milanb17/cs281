@@ -72,7 +72,7 @@ class SlowFusion(nn.Module):
         # Embedding 
         return torch.tanh(self.embedding(x))
 
-inpt = torch.randn(100, 3, 10, 64, 64) 
-model = SlowFusion(3, 10, 64)
-outpt = model(inpt)
-print(outpt.size())
+# inpt = torch.randn(100, 3, 10, 64, 64) 
+# model = SlowFusion(3, 10, 64)
+# outpt = model(inpt)
+# print(outpt.size())
