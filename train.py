@@ -86,7 +86,6 @@ class Model(nn.Module):
         embed = embed.unsqueeze(1)
 
         embed = self.seq_model(embed)
-<<<<<<< HEAD
         # output: (frame, 512)
 
         attn = self.attn_wh(self.query_vector, embed)
@@ -102,13 +101,6 @@ class Model(nn.Module):
 
         embed = self.linear(ctxt)
         print(f"embed_post_linear: {embed.size()}")
-=======
-        # output: (512)
-        # print(f"embed_post_seq: {embed.size()}")
-
-        embed = torch.sigmoid(self.linear(embed))
-        # print(f"embed_post_linear: {embed.size()}")
->>>>>>> 92111ba89faa0555c76601f9f187645fbb515905
         return embed 
 
 
