@@ -5,12 +5,13 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class LSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers=2, dropout=0.1, tape_depth=30):
+    def __init__(self, input_size, hidden_size, device, num_layers=2, dropout=0.1, tape_depth=30):
         super().__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
         self.num_layers = num_layers
         self.tape_depth = tape_depth
+        self.device = device
 
         self.lstm = nn.LSTM(input_size, hidden_size, num_layers=num_layers, dropout=dropout)
 
@@ -22,52 +23,52 @@ class LSTMN(nn.Module):
     def forward(self, xs):
         batch_size = xs.size(1)
 
-        hidden_state_cum = torch.zeros(xs.size(0), self.hidden_size)
+        self.hidden_state_cum = torch.zeros(xs.size(0), self.hidden_size, device=self.device)
 
-        hidden_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size)
-        cell_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size)
+        self.hidden_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size, device=self.device)
+        self.cell_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size, device=self.device)
 
-        prev_hidden_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size)
-        prev_cell_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size)
+        self.prev_hidden_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size, device=self.device)
+        self.prev_cell_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size, device=self.device)
 
         assert(len(xs) >= self.tape_depth)
 
         for i in range(self.tape_depth):
-            _, (hidden_state, cell_state) = self.lstm(xs[i].unsqueeze(0), (prev_hidden_tape, prev_cell_tape))
+            _, (hidden_state, cell_state) = self.lstm(xs[i].unsqueeze(0), (self.prev_hidden_tape, self.prev_cell_tape))
 
-            hidden_state_tape[i] = hidden_state
-            hidden_state_cum[i] = hidden_state[-1].squeeze()
-            cell_state_tape[i] = cell_state
+            self.hidden_state_tape[i] = hidden_state.detach()
+            self.hidden_state_cum[i] = hidden_state[-1].squeeze()
+            self.cell_state_tape[i] = cell_state.detach()
         
         for i, x in enumerate(xs[self.tape_depth:]):
-            hidden_attn = torch.einsum('jll,ijkl->ijkl', self.attn_wh, hidden_state_tape)
+            hidden_attn = torch.einsum('jll,ijkl->ijkl', self.attn_wh, self.hidden_state_tape)
             x_attn = torch.einsum('ijk,lk->ilj', self.attn_wx, x)
-            hidden_t_attn = torch.einsum('ijj,ikj->ikj', self.attn_wht, prev_hidden_tape)
+            hidden_t_attn = torch.einsum('ijj,ikj->ikj', self.attn_wht, self.prev_hidden_tape)
 
             a = torch.tanh(hidden_attn + x_attn + hidden_t_attn)
             a = torch.einsum('ijkl,jl->ijk', a, self.attn_v)
             alpha = F.softmax(a, dim=0)
 
-            prev_hidden_tape = torch.einsum('ijk,ijkl->jkl', alpha, hidden_state_tape)
-            prev_cell_tape = torch.einsum('ijk,ijkl->jkl', alpha, cell_state_tape)
+            self.prev_hidden_tape = torch.einsum('ijk,ijkl->jkl', alpha, self.hidden_state_tape)
+            self.prev_cell_tape = torch.einsum('ijk,ijkl->jkl', alpha, self.cell_state_tape)
 
-            _, (hidden_state, cell_state) = self.lstm(x.unsqueeze(0), (prev_hidden_tape, prev_cell_tape))
+            _, (hidden_state, cell_state) = self.lstm(x.unsqueeze(0), (self.prev_hidden_tape, self.prev_cell_tape))
 
-            hidden_state_tape[0:self.tape_depth-1] = hidden_state_tape[1:self.tape_depth].clone()
-            hidden_state_tape[-1] = hidden_state
-            hidden_state_cum[i] = hidden_state[-1].squeeze()
+            self.hidden_state_tape[0:self.tape_depth-1] = self.hidden_state_tape[1:self.tape_depth].clone()
+            self.hidden_state_tape[-1] = hidden_state
+            self.hidden_state_cum[i] = hidden_state[-1].squeeze()
 
-            cell_state_tape[0:self.tape_depth-1] = cell_state_tape[1:self.tape_depth].clone()
-            cell_state_tape[-1] = cell_state
+            self.cell_state_tape[0:self.tape_depth-1] = self.cell_state_tape[1:self.tape_depth].clone()
+            self.cell_state_tape[-1] = cell_state
         
-        return hidden_state_cum
+        return self.hidden_state_cum
 
 class BiLSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, **kwargs):
+    def __init__(self, input_size, hidden_size, device, **kwargs):
         super(BiLSTMN, self).__init__()
         
-        self.f = LSTMN(input_size, hidden_size, **kwargs)
-        self.b = LSTMN(input_size, hidden_size, **kwargs)
+        self.f = LSTMN(input_size, hidden_size, device, **kwargs)
+        self.b = LSTMN(input_size, hidden_size, device, **kwargs)
         
     def forward(self, xs):
         f = self.f(xs)
