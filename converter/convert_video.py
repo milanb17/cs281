@@ -30,8 +30,8 @@ for filename in os.listdir("../trailers"):
         trailers_normal.append(arr)
         trailers_chunked.append(arr_chunked)
         scores.append(int(filename.split("--")[1][0:2]) / 100)
-    except:
-        pass
+    except Exception as e:
+        print(e)
 
 pickle.dump(np.array(trailers_normal), open("trailers_normal.p", "wb"))
 pickle.dump(np.array(trailers_chunked), open("trailers_chunked.p", "wb"))

@@ -1,3 +1,7 @@
+# data files
+trailers/
+opencv/
+
 # checkpoints for model 
 *.p
 *.pt
