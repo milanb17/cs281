@@ -83,9 +83,9 @@ class Model(nn.Module):
 
 
 
-def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5):
+def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5, bound=1e-4):
     criterion = nn.MSELoss()
-    optimizer = optim.Adam(model.parameters())
+    optimizer = optim.Adam(model.parameters(), lr=0.0001)
     scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min')
     train_losses = []
     eval_losses = []
@@ -93,11 +93,38 @@ def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5)
     strikes = 0
     best_eval_loss = float('inf')
 
-    for epoch in tqdm(range(1, epochs + 1)):
+    for epoch in range(epochs + 1):
+        pickle.dump(train_losses, open(f"./trained_models_new/{model_name}_train_losses.p", "wb"))
+        pickle.dump(eval_losses, open(f"./trained_models_new/{model_name}_eval_losses.p", "wb"))
+        pickle.dump(g_train_losses, open(f"./trained_models_new/{model_name}_g_train_losses.p", "wb"))
+        if epoch == 0:
+            with torch.no_grad():
+                print(f"epoch: {epoch} -- initial scores")
+                train_loss = 0
+                model.eval()
+                train_count = 0
+                for ex, rt_score in train_iter:
+                    train_count += 1 
+                    out = model(ex.to(device))
+                    loss = criterion(out.squeeze(), rt_score.to(device))
+                    train_loss += loss.item()
+                print(f"training loss: {train_loss/train_count}")
+                train_losses.append(train_loss / train_count)
+
+                eval_loss = 0
+                eval_count = 0
+                for ex, rt_score in eval_iter:
+                    out = model(ex.to(device))
+                    loss = criterion(out.squeeze(), rt_score.to(device))
+                    eval_loss += loss.item()
+                    eval_count += 1 
+                print(f"eval loss: {eval_loss/eval_count}")
+                eval_losses.append(eval_loss/eval_count)
+            continue
+            
         print(f"epoch: {epoch}")
         train_loss = 0
         g_train_loss = 0
-        print("TRAINING")
         model.train()
         train_count = 0
         for ex, rt_score in train_iter:
@@ -115,9 +142,6 @@ def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5)
 
         train_losses.append(train_loss/train_count)
         print(f"training loss: {train_loss/train_count}")
-        print("EVALUATING")
-        # train_count = 0
-        # train_loss = 0
         eval_loss = 0
         model.eval()
         with torch.no_grad():
@@ -131,11 +155,8 @@ def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5)
             scheduler.step(eval_losses[-1])
         print(f"eval loss: {eval_loss/eval_count}")
         
-        if eval_loss < best_eval_loss:
-            torch.save(model.state_dict(), f"./trained_models/{model_name}_checkpoint.pt")
-            pickle.dump(train_losses, open(f"./trained_models/{model_name}_train_losses.p", "wb"))
-            pickle.dump(eval_losses, open(f"./trained_models/{model_name}_eval_losses.p", "wb"))
-            pickle.dump(g_train_losses, open(f"./trained_models/{model_name}_g_train_losses.p", "wb"))
+        if best_eval_loss - eval_loss > bound:
+            torch.save(model.state_dict(), f"./trained_models_new/{model_name}_checkpoint.pt")
             best_eval_loss = eval_loss
             strikes = 0
         elif strikes == tolerance:
@@ -173,23 +194,23 @@ def main():
         # data = torch.randn(5, 100, 3, 64, 64)
     labels = pickle.load(open("./converter/scores.p", "rb"))
     # labels = torch.zeros(data.shape[0])
-    print("Data Loaded")
-    print(labels.shape)
-    print(data.shape)
-    X_train, X_test, Y_train, Y_test = train_test_split(data, labels, test_size=0.2)
-    print("Train Test Split Generated")
+    # print("Data Loaded")
+    # print(labels.shape)
+    # print(data.shape)
+    X_train, X_test, Y_train, Y_test = train_test_split(data, labels, test_size=0.15)
+    # print("Train Test Split Generated")
     X_train, X_test, Y_train, Y_test = list(map(lambda x : torch.from_numpy(x).float(), (X_train, X_test, Y_train, Y_test)))
-    print("Tensors Generated")
+    # print("Tensors Generated")
     train_iter = list(zip(X_train, Y_train))
     eval_iter = list(zip(X_test, Y_test))
-    print("Training/Eval Iterators Generated")
+    # print("Training/Eval Iterators Generated")
 
-    print("Creating Model....")
+    # print("Creating Model....")
     model_name = f"SEQ_{args.seq_model}_IMG_{args.img_model}"
     model = Model(args.img_model, args.seq_model, device).to(device)
     
     print("Training Model....")
-    train(500, model, train_iter, eval_iter, model_name, device)
+    train(500, model, train_iter, eval_iter, model_name, device, tolerance=15)
     print(f"{model_name} training complete")
 
 if __name__ == "__main__" : main()
