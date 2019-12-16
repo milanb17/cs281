@@ -45,3 +45,7 @@ class RelativeEmbeddings(nn.Module):
     
     def forward(self, x):
         pass
+
+data = torch.randn(100, 1, 512)
+model = Transformer(512, 8)
+print(model(data).size())

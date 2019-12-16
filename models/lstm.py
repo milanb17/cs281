@@ -8,7 +8,7 @@ class LSTM(nn.Module):
 
     def forward(self, x):
         outpt, _ = self.lstm(x)
-        return outpt.squeeze()[-1]
+        return outpt.squeeze()
 
 data = torch.randn(100, 1, 512)
 model = LSTM(512, 256, 2)

@@ -69,6 +69,11 @@ class Model(nn.Module):
             from models.transformer import Transformer 
             self.seq_model = Transformer(512, 8)
 
+        # attention over seq_model output
+        self.query_vector = nn.Parameter(torch.randn(64))
+        self.attn_wh = nn.Bilinear(64, 512, 32)
+        self.attn_wx = nn.Linear(32, 1)
+
         self.linear = nn.Linear(512, 1)
         
     def forward(self, x): 
@@ -81,10 +86,20 @@ class Model(nn.Module):
         embed = embed.unsqueeze(1)
 
         embed = self.seq_model(embed)
-        # output: (512)
-        print(f"embed_post_seq: {embed.size()}")
+        # output: (frame, 512)
 
-        embed = self.linear(embed)
+        attn = self.attn_wh(self.query_vector, embed)
+        # output: (frame, 32)
+
+        attn = self.attn_wx(attn)
+        # output: (frame, 1)
+        
+        attn = torch.softmax(attn)
+
+        ctxt = torch.sum(attn * embed)
+        # output: (1, 512)
+
+        embed = self.linear(ctxt)
         print(f"embed_post_linear: {embed.size()}")
         return embed 
 
