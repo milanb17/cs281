@@ -1,7 +1,7 @@
 # data files
 trailers/
 opencv/
-trained_models/
+trained_models*/
 temp/
 plots/
 
