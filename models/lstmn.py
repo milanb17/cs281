@@ -5,7 +5,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class LSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers=1, dropout=0., tape_depth=30):
+    def __init__(self, input_size, hidden_size, num_layers=2, dropout=0.1, tape_depth=30):
         super().__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
@@ -17,6 +17,7 @@ class LSTMN(nn.Module):
         self.attn_wh = nn.Parameter(torch.randn(num_layers, hidden_size, hidden_size))
         self.attn_wx = nn.Parameter(torch.randn(num_layers, hidden_size, input_size))
         self.attn_wht = nn.Parameter(torch.randn(num_layers, hidden_size, hidden_size))
+        self.attn_v = nn.Parameter(torch.randn(num_layers, hidden_size))
 
     def forward(self, xs):
         batch_size = xs.size(1)
@@ -30,7 +31,7 @@ class LSTMN(nn.Module):
         assert(len(xs) >= self.tape_depth)
 
         for i in range(self.tape_depth):
-            _, (hidden_state, cell_state) = self.lstm(xs[i].unsqeeze(0), (prev_hidden_tape, prev_cell_tape))
+            _, (hidden_state, cell_state) = self.lstm(xs[i].unsqueeze(0), (prev_hidden_tape, prev_cell_tape))
 
             hidden_state_tape[i] = hidden_state
             cell_state_tape[i] = cell_state
@@ -40,7 +41,7 @@ class LSTMN(nn.Module):
             x_attn = torch.einsum('ijk,lk->ilj', self.attn_wx, x)
             hidden_t_attn = torch.einsum('ijj,ikj->ikj', self.attn_wht, prev_hidden_tape)
 
-            a = F.tanh(hidden_attn + x_attn + hidden_t_attn)
+            a = torch.tanh(hidden_attn + x_attn + hidden_t_attn)
             a = torch.einsum('ijkl,jl->ijk', a, self.attn_v)
             alpha = F.softmax(a, dim=0)
 
@@ -49,13 +50,13 @@ class LSTMN(nn.Module):
 
             _, (hidden_state, cell_state) = self.lstm(x.unsqueeze(0), (prev_hidden_tape, prev_cell_tape))
 
-            hidden_state_tape[0:self.tape_depth-1] = hidden_state_tape[1:self.tape_depth]
+            hidden_state_tape[0:self.tape_depth-1] = hidden_state_tape[1:self.tape_depth].clone()
             hidden_state_tape[-1] = hidden_state
 
-            cell_state_tape[0:self.tape_depth-1] = cell_state_tape[1:self.tape_depth]
+            cell_state_tape[0:self.tape_depth-1] = cell_state_tape[1:self.tape_depth].clone()
             cell_state_tape[-1] = cell_state
         
-        return hidden_state_tape[:, -1]
+        return hidden_state_tape[-1, -1].squeeze()
 
 class BiLSTMN(nn.Module):
     def __init__(self, input_size, hidden_size, **kwargs):
@@ -68,4 +69,8 @@ class BiLSTMN(nn.Module):
         f = self.f(xs)
         b = self.b(torch.flip(xs, [0]))
         
-        return torch.cat((f, b), dim=2)
+        return torch.cat((f, b), dim=0)
+
+data = torch.randn(100, 1, 512)
+model = BiLSTMN(512, 256)
+print(model(data).size())

@@ -7,4 +7,9 @@ class RNN(nn.Module):
         self.model = nn.RNN(input_size, hidden_size, num_layers, dropout=dropout, bidirectional=bidirectional)
 
     def forward(self, x):
-        return self.model(x)
+        outpt, _ = self.model(x)
+        return outpt.squeeze()[-1]
+
+data = torch.randn(100, 1, 512)
+model = RNN(512, 256, 2)
+print(model(data).size())

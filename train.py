@@ -68,18 +68,24 @@ class Model(nn.Module):
         elif args.seq_model == "transformer_abs": 
             from models.transformer import Transformer 
             self.seq_model = Transformer(512, 8)
+
+        self.linear = nn.Linear(512, 1)
         
     def forward(self, x): 
         # run cnn: img_data -> 512
         embed = self.img_model(x)
         print(f"embed_post_img: {embed.size()}")
+        # output: (100, 512)
 
-        # unsqueeze (1, 512)
+        # unsqueeze to (100, 1, 512)
         embed = embed.unsqueeze(1)
 
-        # run seq 
         embed = self.seq_model(embed)
+        # output: (512)
         print(f"embed_post_seq: {embed.size()}")
+
+        embed = self.linear(embed)
+        print(f"embed_post_linear: {embed.size()}")
         return embed 
 
 
