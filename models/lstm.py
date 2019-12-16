@@ -10,6 +10,6 @@ class LSTM(nn.Module):
         outpt, _ = self.lstm(x)
         return outpt.squeeze()[-1]
 
-data = torch.randn(100, 1, 512)
-model = LSTM(512, 256, 2)
-print(model(data).size())
+# data = torch.randn(100, 1, 512)
+# model = LSTM(512, 256, 2)
+# print(model(data).size())

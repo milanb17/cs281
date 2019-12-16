@@ -10,6 +10,6 @@ class RNN(nn.Module):
         outpt, _ = self.model(x)
         return outpt.squeeze()[-1]
 
-data = torch.randn(100, 1, 512)
-model = RNN(512, 256, 2)
-print(model(data).size())
+# data = torch.randn(100, 1, 512)
+# model = RNN(512, 256, 2)
+# print(model(data).size())
