@@ -15,7 +15,7 @@ class Transformer(nn.Module):
     
     def forward(self, x):
         x = self.pos_encoder(x)
-        return self.transformer_decoder(x)
+        return self.transformer_decoder(x).squeeze()
 
     def gen_tgt_mask(self, x):
         attn_shape = (1, self.input_dim, self.input_dim)
@@ -46,6 +46,6 @@ class RelativeEmbeddings(nn.Module):
     def forward(self, x):
         pass
 
-data = torch.randn(100, 1, 512)
-model = Transformer(512, 8)
-print(model(data).size())
+# data = torch.randn(100, 1, 512)
+# model = Transformer(512, 8)
+# print(model(data).size())

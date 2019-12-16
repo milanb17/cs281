@@ -1,3 +1,7 @@
+# checkpoints for model 
+*.p
+*.pt
+
 # SSH Key
 *.pem
 
