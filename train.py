@@ -48,8 +48,9 @@ class Model(nn.Module):
         elif seq_model == "transformer_abs": 
             from models.transformer import Transformer 
             self.seq_model = Transformer(512, 8)
-        elif seq_model == "transformer_rel": 
-            raise ValueError("not yet implemented")
+        elif seq_model == "stack_lstm": 
+            from models.stack_lstm import EncoderLSTMStack
+            self.seq_model = EncoderLSTMStack(512, 256)
 
         # attention over seq_model output
         self.query_vector = nn.Parameter(torch.randn(1, 64))
@@ -174,7 +175,7 @@ def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5,
 def main(): 
     parser = argparse.ArgumentParser()
     parser.add_argument("--seq_model", type=str, help="name of time series model", required=True, 
-                        choices=["vanilla_rnn", "lstm", "lstmn", "transformer_rel", "transformer_abs"])
+                        choices=["vanilla_rnn", "lstm", "lstmn", "transformer_rel", "stack_lstm"])
     parser.add_argument("--img_model", type=str, help="name of img processing model name", required=True, 
                         choices=['early_fusion', 'late_fusion', 'slow_fusion', 'resnet', 'densenet', 'vgg', 'vanilla_cnn'])
     parser.add_argument("--gpu", type=int, help="which gpu to run on", required=True, choices=[0, 1])
