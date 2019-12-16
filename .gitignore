@@ -3,6 +3,7 @@ trailers/
 opencv/
 trained_models/
 temp/
+plots/
 
 # checkpoints for model 
 *.p
