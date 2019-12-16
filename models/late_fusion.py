@@ -69,7 +69,7 @@ class LateFusion(nn.Module):
         slice_shape = (-1, x.shape[1], x.shape[3], x.shape[4])
         slice_1 = slice_1.view(slice_shape)
         slice_2 = slice_2.view(slice_shape)
-        print(slice_1.shape)
+        # print(slice_1.shape)
         # process embeddings 
         embed_1 = self.__forward(slice_1)
         embed_2 = self.__forward(slice_2)
@@ -80,8 +80,8 @@ class LateFusion(nn.Module):
 
 
         
-inpt = torch.randn(1, 3, 10, 64, 64) 
-model = LateFusion(3, 10, 64)
-outpt = model(inpt)
-print(outpt.shape)
+# inpt = torch.randn(100, 3, 10, 64, 64) 
+# model = LateFusion(3, 10, 64)
+# outpt = model(inpt)
+# print(outpt.shape)
 # print(model.state_dict())
