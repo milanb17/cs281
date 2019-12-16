@@ -1,6 +1,0 @@
-Take mp4 and transform into a collection of frames, each 64x64
-
-Some can take up to 10 frames at a time. 3 fps. Make sure that we have a multiple of 10 of frames. n/120 frames, to get 120 frames total. 
-
-Save as np array (frames by rgb(3) by 64 by 64)
-

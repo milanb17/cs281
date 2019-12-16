@@ -75,6 +75,6 @@ class BiLSTMN(nn.Module):
         
         return torch.cat((f, b), dim=1)
 
-data = torch.randn(100, 1, 512)
-model = BiLSTMN(512, 256)
-print(model(data).size())
+# data = torch.randn(100, 1, 512)
+# model = BiLSTMN(512, 256)
+# print(model(data).size())

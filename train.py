@@ -35,37 +35,37 @@ else:
     data = torch.randn(5, 100, 3, 64, 64)
 
 class Model(nn.Module): 
-    def __init__(self):
+    def __init__(self, img_model, seq_model):
         super().__init__() 
 
         self.img_model, self.seq_model = None, None
 
-        if args.img_model == "slow_fusion":
+        if img_model == "slow_fusion":
             from models.slow_fusion import SlowFusion 
             self.img_model = SlowFusion(3, 10, 64)
-        elif args.img_model == "early_fusion": 
+        elif img_model == "early_fusion": 
             from models.early_fusion import EarlyFusion
             self.img_model = EarlyFusion(3, 10, 64)
-        elif args.img_model == "late_fusion": 
+        elif img_model == "late_fusion": 
             from models.late_fusion import LateFusion
             self.img_model = LateFusion(3, 10, 64)
-        elif args.img_model == "vanilla_cnn":
+        elif img_model == "vanilla_cnn":
             from models.basic_cnn import BasicCNN
             self.img_model = BasicCNN(3, 64)
         else: 
             from models.imagenet_model_wrapper import ImageNet_Model_Wrapper
-            self.img_model = ImageNet_Model_Wrapper(args.img_model)
+            self.img_model = ImageNet_Model_Wrapper(img_model)
 
-        if args.seq_model == "vanilla_rnn": 
+        if seq_model == "vanilla_rnn": 
             from models.rnn import RNN
             self.seq_model = RNN(512, 256, 2)
-        elif args.seq_model == "lstm": 
+        elif seq_model == "lstm": 
             from models.lstm import LSTM
             self.seq_model = LSTM(512, 256, num_layers=2, dropout=0.1, bidirectional=True)
-        elif args.seq_model == "lstmn": 
+        elif seq_model == "lstmn": 
             from models.lstmn import BiLSTMN
             self.seq_model = BiLSTMN(512, 256, num_layers=2, dropout=0.1, tape_depth=10)
-        elif args.seq_model == "transformer_abs": 
+        elif seq_model == "transformer_abs": 
             from models.transformer import Transformer 
             self.seq_model = Transformer(512, 8)
 
@@ -79,13 +79,14 @@ class Model(nn.Module):
     def forward(self, x): 
         # run cnn: img_data -> 512
         embed = self.img_model(x)
-        print(f"embed_post_img: {embed.size()}")
+        # print(f"embed_post_img: {embed.size()}")
         # output: (100, 512)
 
         # unsqueeze to (100, 1, 512)
         embed = embed.unsqueeze(1)
 
         embed = self.seq_model(embed)
+<<<<<<< HEAD
         # output: (frame, 512)
 
         attn = self.attn_wh(self.query_vector, embed)
@@ -101,13 +102,35 @@ class Model(nn.Module):
 
         embed = self.linear(ctxt)
         print(f"embed_post_linear: {embed.size()}")
+=======
+        # output: (512)
+        # print(f"embed_post_seq: {embed.size()}")
+
+        embed = torch.sigmoid(self.linear(embed))
+        # print(f"embed_post_linear: {embed.size()}")
+>>>>>>> 92111ba89faa0555c76601f9f187645fbb515905
         return embed 
 
 
-model = Model()
-for peh in data:
-    model(peh)
+# model = Model(args.img_model, args.seq_model)
+# for peh in data:
+#     print(model(peh))
 
+for sm in ["vanilla_rnn", "lstm", "lstmn", "transformer_abs"]: 
+    for im in ['early_fusion', 'late_fusion', 'slow_fusion', 'resnet', 'densenet', 'vgg', 'vanilla_cnn']: 
+        print(f"TRYING EXAMPLE: {sm}, {im}")
+        model = Model(im, sm)
+        chunked_needed = im in frozenset(["slow_fusion", "early_fusion", "late_fusion"])
+        data = None 
+        # labels = pickle.load(open("./data/labels.p", "rb"))
+        if chunked_needed:
+            # data = pickle.load(open("./data/chunked_data.p", "rb"))
+            data = torch.randn(5, 10, 3, 10, 64, 64)
+        else: 
+            # data = pickle.load(open("./data/data.p", "rb"))
+            data = torch.randn(5, 100, 3, 64, 64)
+        for peh in data: 
+            model(peh)
 
 
 
