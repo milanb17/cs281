@@ -18,7 +18,8 @@ import functools
 class BasicCNN(nn.Module): 
     def __init__(self, in_channels, input_sz): 
         super().__init__()
-        self.conv_layer = nn.Conv2d(in_channels, 64, kernel_size=3, stride=1, padding=1)
+        self.conv1_outpt_sz = 64 
+        self.conv_layer = nn.Conv2d(in_channels, self.conv1_outpt_sz, kernel_size=3, stride=1, padding=1)
         self.max_pool = nn.MaxPool2d(kernel_size=2, stride=2, padding=0)
         self.fully_connected_a = nn.Linear(input_sz * input_sz * 16, 32)
         self.outpt = nn.Linear(32, 1) 
