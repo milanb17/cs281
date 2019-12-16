@@ -13,7 +13,6 @@ import numpy as np
 # chunked : 1000 x 10 x 3 x 10 x 64 x 64 
 # data : 1000 x 10 
 
-
 class Model(nn.Module): 
     def __init__(self, img_model, seq_model):
         super().__init__() 
@@ -163,19 +162,21 @@ def main():
                         choices=["vanilla_rnn", "lstm", "lstmn", "transformer_rel", "transformer_abs"])
     parser.add_argument("--img_model", type=str, help="name of img processing model name", required=True, 
                         choices=['early_fusion', 'late_fusion', 'slow_fusion', 'resnet', 'densenet', 'vgg', 'vanilla_cnn'])
+    parser.add_argument("--gpu", type=int, help="which gpu to run on", required=True, choices=[0, 1])
     args = parser.parse_args()
     chunked_needed = args.img_model in frozenset(["slow_fusion", "early_fusion", "late_fusion"])
+    device = torch.device(f"cuda:{args.gpu}" if torch.cuda.is_available() else "cpu")
     data = None 
     print("Getting Data...")
     if chunked_needed:
-        # data = pickle.load(open("./data/chunked_data.p", "rb"))
-        data = torch.randn(5, 10, 3, 10, 64, 64)
+        data = pickle.load(open("./data/chunked_data.p", "rb"))
+        # data = torch.randn(5, 10, 3, 10, 64, 64)
     else: 
-        # data = pickle.load(open("./data/data.p", "rb"))
-        data = torch.randn(5, 100, 3, 64, 64)
-    # labels = pickle.load(open("./data/labels.p", "rb"))
-    labels = torch.zeros(data.shape[0])
-    X_train, X_test, Y_train, Y_test = train_test_split(data.numpy(), labels.numpy(), test_size=0.2)
+        data = pickle.load(open("./data/data.p", "rb"))
+        # data = torch.randn(5, 100, 3, 64, 64)
+    labels = pickle.load(open("./data/labels.p", "rb"))
+    # labels = torch.zeros(data.shape[0])
+    X_train, X_test, Y_train, Y_test = train_test_split(data, labels, test_size=0.2)
     X_train, X_test, Y_train, Y_test = list(map(torch.from_numpy, (X_train, X_test, Y_train, Y_test)))
     train_iter = zip(X_train, Y_train)
     eval_iter = zip(X_test, Y_test)
