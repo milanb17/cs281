@@ -85,6 +85,7 @@ class Model(nn.Module):
 def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5):
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters())
+    scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min')
     train_losses = []
     eval_losses = []
     strikes = 0
@@ -114,16 +115,17 @@ def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5)
             eval_count = 0
             for ex, rt_score in eval_iter:
                 out = model(ex.to(device))
-                loss = criterion(out.squeeze(), rt_score)
+                loss = criterion(out.squeeze(), rt_score.to(device))
                 eval_loss += loss.item()
                 eval_count += 1 
             eval_losses.append(eval_loss/eval_count)
+            scheduler.step(eval_losses[-1])
         print(f"eval loss: {eval_loss}")
         
         if eval_loss < best_eval_loss:
-            torch.save(model.state_dict(), f"{model_name}_checkpoint.pt")
-            pickle.dump(train_losses, open(f"{model_name}_train_losses.p", "wb"))
-            pickle.dump(eval_losses, open(f"{model_name}_eval_losses.p", "wb"))
+            torch.save(model.state_dict(), f"./_trained_models/{model_name}_checkpoint.pt")
+            pickle.dump(train_losses, open(f"./_trained_models/{model_name}_train_losses.p", "wb"))
+            pickle.dump(eval_losses, open(f"./_trained_models/{model_name}_eval_losses.p", "wb"))
             best_eval_loss = eval_loss
             strikes = 0
         elif strikes == tolerance:
@@ -166,27 +168,30 @@ def main():
     args = parser.parse_args()
     chunked_needed = args.img_model in frozenset(["slow_fusion", "early_fusion", "late_fusion"])
     device = torch.device(f"cuda:{args.gpu}" if torch.cuda.is_available() else "cpu")
+    # import sys 
+    # print(f"Args for SEQ:{args.seq_model}, IMG:{args.img_model} recieved correctly")
+    # sys.exit(0)
     data = None 
     print("Getting Data...")
     if chunked_needed:
-        data = pickle.load(open("./data/chunked_data.p", "rb"))
+        data = pickle.load(open("./_data/chunked_data.p", "rb"))
         # data = torch.randn(5, 10, 3, 10, 64, 64)
     else: 
-        data = pickle.load(open("./data/data.p", "rb"))
+        data = pickle.load(open("./_data/data.p", "rb"))
         # data = torch.randn(5, 100, 3, 64, 64)
-    labels = pickle.load(open("./data/labels.p", "rb"))
+    labels = pickle.load(open("./_data/labels.p", "rb"))
     # labels = torch.zeros(data.shape[0])
     X_train, X_test, Y_train, Y_test = train_test_split(data, labels, test_size=0.2)
-    X_train, X_test, Y_train, Y_test = list(map(torch.from_numpy, (X_train, X_test, Y_train, Y_test)))
-    train_iter = zip(X_train, Y_train)
-    eval_iter = zip(X_test, Y_test)
+    X_train, X_test, Y_train, Y_test = list(map(lambda x : torch.from_numpy(x).float(), (X_train, X_test, Y_train, Y_test)))
+    train_iter = list(zip(X_train, Y_train))
+    eval_iter = list(zip(X_test, Y_test))
 
     print("Creating Model....")
     model_name = f"SEQ_{args.seq_model}_IMG_{args.img_model}"
     model = Model(args.img_model, args.seq_model).to(device)
     
     print("Training Model....")
-    train(1, model, train_iter, eval_iter, model_name, device)
+    train(5000, model, train_iter, eval_iter, model_name, device)
     print(f"{model_name} training complete")
 
 if __name__ == "__main__" : main()
