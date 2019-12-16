@@ -38,7 +38,7 @@ class BasicCNN(nn.Module):
 
 
 
-example = torch.randn((1, 3, 64, 64))
+example = torch.randn((100, 3, 64, 64))
 
 model = BasicCNN(3, 64)
 print(model(example))

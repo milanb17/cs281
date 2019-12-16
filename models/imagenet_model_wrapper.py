@@ -16,6 +16,9 @@ import functools
 # Train last layer on high learning rate 
 # Train whole thing on lower learning rate 
 
+# inspiration for changing layers from 
+# https://medium.com/@14prakash/almost-any-image-classification-problem-using-pytorch-i-am-in-love-with-pytorch-26c7aa979ec4
+
 class ImageNet_Model_Wrapper(nn.Module): 
     def __init__(self, model_name, freeze_all_but_last=True, embedding_sz=512): 
         super().__init__()
@@ -73,7 +76,8 @@ class ImageNet_Model_Wrapper(nn.Module):
         return self.model(x)
 
 inpt = torch.randn(1, 3, 64, 64) 
-model = ImageNet_Model_Wrapper('densenet', freeze_all_but_last=True)
+model = ImageNet_Model_Wrapper('vgg', freeze_all_but_last=True)
 model.print_trainable_params()
+# print(model)
 outpt = model(inpt)
 print(outpt.shape)

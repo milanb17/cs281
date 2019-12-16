@@ -58,11 +58,11 @@ class LSTMN(nn.Module):
         return hidden_state_tape[:, -1]
 
 class BiLSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers=1, dropout=0):
+    def __init__(self, input_size, hidden_size, **kwargs):
         super(BiLSTMN, self).__init__()
         
-        self.f = LSTMN(input_size, hidden_size, num_layers=1, dropout=0)
-        self.b = LSTMN(input_size, hidden_size, num_layers=1, dropout=0)
+        self.f = LSTMN(input_size, hidden_size, **kwargs)
+        self.b = LSTMN(input_size, hidden_size, **kwargs)
         
     def forward(self, xs):
         f = self.f(xs)
