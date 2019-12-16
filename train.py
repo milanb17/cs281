@@ -82,7 +82,7 @@ class Model(nn.Module):
 
 
 
-def train(epochs, model, train_iter, eval_iter, model_name, tolerance=5):
+def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5):
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters())
     train_losses = []
@@ -99,8 +99,8 @@ def train(epochs, model, train_iter, eval_iter, model_name, tolerance=5):
         for ex, rt_score in train_iter:
             train_count += 1 
             optimizer.zero_grad()
-            out = model(ex)
-            loss = criterion(out.squeeze(), rt_score)
+            out = model(ex.to(device))
+            loss = criterion(out.squeeze(), rt_score.to(device))
             loss.backward()
             optimizer.step()
             train_loss += loss.item()
@@ -113,7 +113,7 @@ def train(epochs, model, train_iter, eval_iter, model_name, tolerance=5):
         with torch.no_grad():
             eval_count = 0
             for ex, rt_score in eval_iter:
-                out = model(ex)
+                out = model(ex.to(device))
                 loss = criterion(out.squeeze(), rt_score)
                 eval_loss += loss.item()
                 eval_count += 1 
@@ -183,10 +183,10 @@ def main():
 
     print("Creating Model....")
     model_name = f"SEQ_{args.seq_model}_IMG_{args.img_model}"
-    model = Model(args.img_model, args.seq_model)
+    model = Model(args.img_model, args.seq_model).to(device)
     
     print("Training Model....")
-    train(1, model, train_iter, eval_iter, model_name)
+    train(1, model, train_iter, eval_iter, model_name, device)
     print(f"{model_name} training complete")
 
 if __name__ == "__main__" : main()
