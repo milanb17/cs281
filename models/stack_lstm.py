@@ -58,6 +58,7 @@ class EncoderLSTMStack(nn.Module):
             embeds_input = embeds[i].view(1, -1)
             o_t, state_f = self.rnn_f(embeds_input, state_f)
             mem_f[i] = o_t
+
         for i in reversed(range(embeds.size(0))):
             embeds_input = embeds[i].view(1, -1)
             o_t, state_b = self.rnn_b(embeds_input, state_b)
