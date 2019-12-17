@@ -15,7 +15,7 @@ import itertools
 # data : 1000 x 10 
 
 class Model(nn.Module): 
-    def __init__(self, img_model, seq_model, device):
+    def __init__(self, img_model, seq_model):
         super().__init__() 
 
         self.img_model, self.seq_model = None, None
@@ -44,7 +44,7 @@ class Model(nn.Module):
             self.seq_model = LSTM(512, 256, num_layers=2, dropout=0.1, bidirectional=True)
         elif seq_model == "lstmn": 
             from models.lstmn import BiLSTMN
-            self.seq_model = BiLSTMN(512, 256, device, num_layers=2, dropout=0.1, tape_depth=10)
+            self.seq_model = BiLSTMN(512, 256, num_layers=2, dropout=0.1, tape_depth=10)
         elif seq_model == "transformer_abs": 
             from models.transformer import Transformer 
             self.seq_model = Transformer(512, 8)
@@ -208,7 +208,7 @@ def main():
 
     # print("Creating Model....")
     model_name = f"SEQ_{args.seq_model}_IMG_{args.img_model}"
-    model = Model(args.img_model, args.seq_model, device).to(device)
+    model = Model(args.img_model, args.seq_model).to(device)
     
     print("Training Model....")
     train(500, model, train_iter, eval_iter, model_name, device, tolerance=15)
