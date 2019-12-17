@@ -15,6 +15,7 @@ import functools
 from operator import mul
 
 
+# based off of https://algorithmia.com/blog/convolutional-neural-nets-in-pytorch
 
 class BasicCNN(nn.Module): 
     def __init__(self, in_channels, input_sz, embedding_sz=512): 
