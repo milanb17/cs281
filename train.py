@@ -175,7 +175,7 @@ def train(epochs, model, train_iter, eval_iter, model_name, device, tolerance=5,
 def main(): 
     parser = argparse.ArgumentParser()
     parser.add_argument("--seq_model", type=str, help="name of time series model", required=True, 
-                        choices=["vanilla_rnn", "lstm", "lstmn", "transformer_rel", "stack_lstm"])
+                        choices=["vanilla_rnn", "lstm", "lstmn", "transformer_abs", "stack_lstm"])
     parser.add_argument("--img_model", type=str, help="name of img processing model name", required=True, 
                         choices=['early_fusion', 'late_fusion', 'slow_fusion', 'resnet', 'densenet', 'vgg', 'vanilla_cnn'])
     parser.add_argument("--gpu", type=int, help="which gpu to run on", required=True, choices=[0, 1])

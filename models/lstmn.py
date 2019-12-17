@@ -65,11 +65,11 @@ class LSTMN(nn.Module):
         return self.hidden_state_cum
 
 class BiLSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, device, **kwargs):
+    def __init__(self, input_size, hidden_size, **kwargs):
         super(BiLSTMN, self).__init__()
         
-        self.f = LSTMN(input_size, hidden_size, device, **kwargs)
-        self.b = LSTMN(input_size, hidden_size, device, **kwargs)
+        self.f = LSTMN(input_size, hidden_size, **kwargs)
+        self.b = LSTMN(input_size, hidden_size, **kwargs)
         
     def forward(self, xs):
         f = self.f(xs)
