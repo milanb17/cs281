@@ -4,14 +4,15 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
 class LSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, device, num_layers=2, dropout=0.1, tape_depth=30):
+    def __init__(self, input_size, hidden_size, num_layers=2, dropout=0.1, tape_depth=30):
         super().__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
         self.num_layers = num_layers
         self.tape_depth = tape_depth
-        self.device = device
 
         self.lstm = nn.LSTM(input_size, hidden_size, num_layers=num_layers, dropout=dropout)
 
@@ -23,13 +24,13 @@ class LSTMN(nn.Module):
     def forward(self, xs):
         batch_size = xs.size(1)
 
-        self.hidden_state_cum = torch.zeros(xs.size(0), self.hidden_size, device=self.device)
+        self.hidden_state_cum = torch.zeros(xs.size(0), self.hidden_size, device=device)
 
-        self.hidden_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size, device=self.device)
-        self.cell_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size, device=self.device)
+        self.hidden_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size, device=device)
+        self.cell_state_tape = torch.zeros(self.tape_depth, self.num_layers, batch_size, self.hidden_size, device=device)
 
-        self.prev_hidden_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size, device=self.device)
-        self.prev_cell_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size, device=self.device)
+        self.prev_hidden_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size, device=device)
+        self.prev_cell_tape = torch.zeros(self.num_layers, batch_size, self.hidden_size, device=device)
 
         assert(len(xs) >= self.tape_depth)
 
@@ -64,11 +65,11 @@ class LSTMN(nn.Module):
         return self.hidden_state_cum
 
 class BiLSTMN(nn.Module):
-    def __init__(self, input_size, hidden_size, device, **kwargs):
+    def __init__(self, input_size, hidden_size, **kwargs):
         super(BiLSTMN, self).__init__()
         
-        self.f = LSTMN(input_size, hidden_size, device, **kwargs)
-        self.b = LSTMN(input_size, hidden_size, device, **kwargs)
+        self.f = LSTMN(input_size, hidden_size, **kwargs)
+        self.b = LSTMN(input_size, hidden_size, **kwargs)
         
     def forward(self, xs):
         f = self.f(xs)

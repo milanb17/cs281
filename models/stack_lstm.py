@@ -4,9 +4,9 @@ import torch.nn.functional as F
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-class LSTMStack(nn.Module):
+class LSTMStackCell(nn.Module):
     def __init__(self, embedding_dim, hidden_size):
-        super(LSTMStack, self).__init__()
+        super().__init__()
         self.rnn = nn.LSTMCell(embedding_dim + hidden_size, hidden_size)
         self.d_layer = nn.Linear(hidden_size, 1)
         self.u_layer = nn.Linear(hidden_size, 1)
@@ -41,16 +41,41 @@ class LSTMStack(nn.Module):
         new_r = torch.sum(r_scalars.view(-1, 1) * new_V, dim=0).view(1, -1)
         return o_t, ((rnn_output, new_hidden), new_r, new_V, new_s)
 
+class LSTMStack(nn.Module):
+    def __init__(self, nlayers, embedding_dim, hidden_size):
+        super().__init__()
+        self.nlayers = nlayers
+        layers = [LSTMStackCell(embedding_dim, hidden_size)]
+        layers.extend([LSTMStackCell(hidden_size, hidden_size) for _ in range(nlayers-1)])
+        self.rnn_layers = nn.ModuleList(layers)
+    
+    def forward(self, inpt, state):
+        new_state = []
+        for i in range(self.nlayers):
+            inpt, ns = self.rnn_layers[i](inpt, state[i])
+            new_state.append(ns)
+        return inpt, new_state
+
 class EncoderLSTMStack(nn.Module):
-    def __init__(self, embedding_dim, hidden_size):
-        super(EncoderLSTMStack, self).__init__()
+    def __init__(self, embedding_dim, hidden_size, nlayers=2):
+        super().__init__()
         self.hidden_size = hidden_size
-        self.rnn_f = LSTMStack(embedding_dim, hidden_size)
-        self.rnn_b = LSTMStack(embedding_dim, hidden_size)
+        self.nlayers = nlayers
+        self.rnn_f = LSTMStack(nlayers, embedding_dim, hidden_size)
+        self.rnn_b = LSTMStack(nlayers, embedding_dim, hidden_size)
+
+    def init_state(self):
+        state = []
+        for i in range(self.nlayers):
+            h_0 = torch.zeros(1, self.hidden_size, device=device)
+            c_0 = torch.zeros(1, self.hidden_size, device=device)
+            r_0 = torch.zeros(1, self.hidden_size, device=device)
+            state.append(((h_0, c_0), r_0, None, None))
+        return state
+
     def forward(self, embeds):
-        x = torch.zeros(1, self.hidden_size, device=device)
-        state_f = ((x.clone(), x.clone()), x.clone(), None, None)
-        state_b = ((x.clone(), x.clone()), x.clone(), None, None)
+        state_f = self.init_state()
+        state_b = self.init_state()
         mem_f = torch.zeros(embeds.size(0), self.hidden_size, device=device)
         mem_b = torch.zeros(embeds.size(0), self.hidden_size, device=device)
 
@@ -58,9 +83,14 @@ class EncoderLSTMStack(nn.Module):
             embeds_input = embeds[i].view(1, -1)
             o_t, state_f = self.rnn_f(embeds_input, state_f)
             mem_f[i] = o_t
+
         for i in reversed(range(embeds.size(0))):
             embeds_input = embeds[i].view(1, -1)
             o_t, state_b = self.rnn_b(embeds_input, state_b)
             mem_b[i] = o_t
         
         return torch.cat((mem_f, mem_b), dim=1)
+
+# data = torch.randn(100, 1, 512)
+# model = EncoderLSTMStack(512, 256, nlayers=2)
+# print(model(data).size())
