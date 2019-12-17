@@ -21,10 +21,10 @@ def eval(model, data, device):
         for ex, rt_score in data:
             i += 1
             out = model(ex.to(device))
-            rmse_i = torch.sqrt(criterion(out.squeeze(), rt_score.to(device)))
+            rmse_i = criterion(out.squeeze(), rt_score.to(device))
             rmse += rmse_i.item()
     
-    return rmse / i
+    return (rmse/i) ** 0.5
 
 def eval_model(img_net, seq_net, device, data):
     model = Model(img_net, seq_net).to(device)
@@ -70,4 +70,3 @@ def main():
     pickle.dump(results, open(f"./results.p", "wb"))
 
 if __name__ == "__main__" : main()
-
